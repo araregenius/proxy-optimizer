@@ -1,0 +1,27 @@
+name: Proxy Update & Test
+
+on:
+  schedule:
+    # 每 2 小时跑一次
+    - cron: '0 */2 * * *'
+  workflow_dispatch:  # 也支持手动触发
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run fetch and test
+        run: bash scripts/fetch_and_test.sh
+
+      - name: Commit and push results
+        run: |
+          git config user.name "proxy-bot"
+          git config user.email "proxy-bot@example.com"
+          git add data/README.md data/verified.json data/verified.txt
+          git diff --staged --quiet || git commit -m "🔄 auto: proxy test updated at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
