@@ -2,8 +2,8 @@ name: Proxy Update & Test
 
 on:
   schedule:
-    # 每 2 小时跑一次
-    - cron: '0 */2 * * *'
+    # 每 30 分钟跑一次
+    - cron: '*/30 * * * *'
   workflow_dispatch:  # 也支持手动触发
 
 jobs:
