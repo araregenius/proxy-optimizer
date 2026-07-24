@@ -24,7 +24,7 @@ jobs:
           path: .src
           key: proxy-optimizer-src-cache
           restore-keys: |
-            proxy-optimizer-src- 
+            proxy-optimizer-src-
 
       - name: Run incremental test
         run: bash scripts/fetch_and_test.sh
