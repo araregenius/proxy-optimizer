@@ -1,4 +1,4 @@
-name: Proxy Update & Test
+﻿name: Proxy Update & Test
 
 on:
   schedule:
@@ -17,6 +17,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Restore .src cache (persist .tested across runs)
+        uses: actions/cache@v4
+        with:
+          path: .src
+          key: proxy-optimizer-src-cache
+          restore-keys: |
+            proxy-optimizer-src- 
 
       - name: Run incremental test
         run: bash scripts/fetch_and_test.sh
