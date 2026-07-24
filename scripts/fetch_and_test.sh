@@ -26,6 +26,97 @@ mkdir -p "$OUTPUT_DIR" "$SRC_DIR"
 log() { echo "[$(date -u +%H:%M:%S)] $*"; }
 
 # ============================================================
+# Trap: dump results on any exit (normal, timeout, SIGTERM)
+#   Even if GitHub Actions kills us at 25 min, we save
+#   whatever proxies we've already tested.
+# ============================================================
+dump_results() {
+  local exit_code=$?
+  log "dump_results triggered (exit=$exit_code)"
+
+  # If we never produced any scores, nothing to dump
+  if [ ! -s "$SRC_DIR/.best_scores.txt" ]; then
+    log "  No scores to dump, skipping."
+    return
+  fi
+
+  # Pick TOP 20 from all accumulated scores
+  sort -t'|' -k1 -rn "$SRC_DIR/.best_scores.txt" \
+    | awk -F'|' '$1 > 0' | head -20 > "$SRC_DIR/top20.txt"
+  local pass_count
+  pass_count=$(wc -l < "$SRC_DIR/top20.txt")
+  log "  Dumping $pass_count proxies to verified.txt / verified.json"
+
+  # --- verified.txt ---
+  > "$OUTPUT_DIR/verified.txt"
+  while IFS='|' read -r score ip port lat caps; do
+    [ -z "$score" ] && continue
+    echo "socks5://${ip}:${port}  # score:${score} latency:${lat}ms caps:[${caps}]" >> "$OUTPUT_DIR/verified.txt"
+  done < "$SRC_DIR/top20.txt"
+
+  # --- verified.json ---
+  {
+    echo '{'
+    echo '  "updated_at": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)",'
+    echo '  "total_pool": '"${total:-0}",'
+    echo '  "tested_this_run": '"${scanned:-0}",'
+    echo '  "total_tested": '$(wc -l < "$SRC_DIR/.tested" 2>/dev/null || echo 0)','
+    echo '  "top_proxies": ['
+  } > "$OUTPUT_DIR/verified.json"
+
+  local first=true
+  while IFS='|' read -r score ip port lat caps; do
+    [ -z "$score" ] && continue
+    if [ "$first" = "false" ]; then echo ',' >> "$OUTPUT_DIR/verified.json"; fi
+    first=false
+    local cj=''
+    IFS=',' read -ra arr <<< "$caps"
+    for c in "${arr[@]}"; do
+      [ -n "$c" ] || continue
+      [ -n "$cj" ] && cj="$cj, "
+      cj="${cj}\"${c}\""
+    done
+    echo "    {" >> "$OUTPUT_DIR/verified.json"
+    echo "      \"ip\": \"${ip}\"," >> "$OUTPUT_DIR/verified.json"
+    echo "      \"port\": ${port}," >> "$OUTPUT_DIR/verified.json"
+    echo "      \"capabilities\": [${cj}]," >> "$OUTPUT_DIR/verified.json"
+    echo "      \"latency_min\": ${lat}," >> "$OUTPUT_DIR/verified.json"
+    echo "      \"score\": ${score}" >> "$OUTPUT_DIR/verified.json"
+    echo "    }" >> "$OUTPUT_DIR/verified.json"
+  done < "$SRC_DIR/top20.txt"
+  echo '  ]' >> "$OUTPUT_DIR/verified.json"
+  echo '}' >> "$OUTPUT_DIR/verified.json"
+
+  # --- data/README.md ---
+  cat > "$OUTPUT_DIR/README.md" << EOF
+# Verified SOCKS5 Proxies
+> Updated: $(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+## Stats
+- Pool size: ${total:-0}
+- Tested this run: ${scanned:-0}
+- Total tested (all runs): $(wc -l < "$SRC_DIR/.tested" 2>/dev/null || echo 0)
+- In TOP 20: ${pass_count}
+
+## Subscribe
+TXT: https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verified.txt
+JSON: https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verified.json
+
+## Score
+Base: (1000 - min_latency) / 10 + 100
+Each reachable target +20 (google/openai/anthropic/grok)
+
+## Strategy
+- Two-stage test: quick google probe first, then openai+anthropic+grok for passers only
+- Tested history persists across runs via GitHub Actions cache (.src/.tested)
+- trap on EXIT ensures results are saved even if killed by timeout
+EOF
+
+  log "  Dump complete."
+}
+trap dump_results EXIT INT TERM
+
+# ============================================================
 # Step 1: Fetch 6 sources
 # ============================================================
 log 'Step 1: Fetching 6 sources...'
@@ -189,82 +280,6 @@ while IFS= read -r proxy; do
 done < "$SRC_DIR/new.txt"
 
 log "Scan complete: scanned=$scanned, passed=$passed"
-
-# ============================================================
-# Step 3: Select TOP 20 from ALL scores (old + new)
-# ============================================================
-log 'Step 3: Selecting TOP 20...'
-sort -t'|' -k1 -rn "$SRC_DIR/.best_scores.txt" \
-  | awk -F'|' '$1 > 0' | head -20 > "$SRC_DIR/top20.txt"
-pass_count=$(wc -l < "$SRC_DIR/top20.txt")
-log "  TOP 20: $pass_count proxies"
-
-# --- Write verified.txt ---
-TXT_FILE="$OUTPUT_DIR/verified.txt"
-> "$TXT_FILE"
-while IFS='|' read -r score ip port lat caps; do
-  [ -z "$score" ] && continue
-  echo "socks5://${ip}:${port}  # score:${score} latency:${lat}ms caps:[${caps}]" >> "$TXT_FILE"
-done < "$SRC_DIR/top20.txt"
-
-# --- Write verified.json ---
-JSON_FILE="$OUTPUT_DIR/verified.json"
-{
-  echo '{'
-  echo '  "updated_at": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)",'
-  echo '  "total_pool": '$total','
-  echo '  "tested_this_run": '$scanned','
-  echo '  "total_tested": '$(wc -l < "$SRC_DIR/.tested")','
-  echo '  "top_proxies": ['
-} > "$JSON_FILE"
-
-first=true
-while IFS='|' read -r score ip port lat caps; do
-  [ -z "$score" ] && continue
-  if [ "$first" = "false" ]; then echo ',' >> "$JSON_FILE"; fi
-  first=false
-  cj=''
-  IFS=',' read -ra arr <<< "$caps"
-  for c in "${arr[@]}"; do
-    [ -n "$c" ] || continue
-    [ -n "$cj" ] && cj="$cj, "
-    cj="${cj}\"${c}\""
-  done
-  echo "    {" >> "$JSON_FILE"
-  echo "      \"ip\": \"${ip}\"," >> "$JSON_FILE"
-  echo "      \"port\": ${port}," >> "$JSON_FILE"
-  echo "      \"capabilities\": [${cj}]," >> "$JSON_FILE"
-  echo "      \"latency_min\": ${lat}," >> "$JSON_FILE"
-  echo "      \"score\": ${score}" >> "$JSON_FILE"
-  echo "    }" >> "$JSON_FILE"
-done < "$SRC_DIR/top20.txt"
-echo '  ]' >> "$JSON_FILE"
-echo '}' >> "$JSON_FILE"
-
-# --- Write data/README.md ---
-cat > "$OUTPUT_DIR/README.md" << EOF
-# Verified SOCKS5 Proxies
-> Updated: $(date -u +%Y-%m-%dT%H:%M:%SZ)
-
-## Stats
-- Pool size: ${total}
-- Tested this run: ${scanned}
-- Total tested (all runs): $(wc -l < "$SRC_DIR/.tested")
-- In TOP 20: ${pass_count}
-
-## Subscribe
-TXT: https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verified.txt
-JSON: https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verified.json
-
-## Score
-Base: (1000 - min_latency) / 10 + 100
-Each reachable target +20 (google/openai/anthropic/grok)
-
-## Strategy
-- Two-stage test: quick google probe first, then openai+anthropic for passers only
-- Tested history persists across runs via GitHub Actions cache (.src/.tested)
-- Outputs whatever we have at end of 25-min run
-EOF
-
+log 'Results will be dumped by trap handler on exit.'
 log 'Done!'
 ls -la "$OUTPUT_DIR/"
