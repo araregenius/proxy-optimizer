@@ -98,7 +98,7 @@ quick_probe() {
 full_probe() {
   local proxy="$1"
   local caps='' best=99999
-  local targets='openai:https://api.openai.com/completions|anthropic:https://api.anthropic.com/v1/messages'
+  local targets='openai:https://api.openai.com/completions|anthropic:https://api.anthropic.com/v1/messages|grok:https://api.x.ai/v1/models'
   IFS='|' read -ra arr <<< "$targets"
   for t in "${arr[@]}"; do
     local name="${t%%:*}"
@@ -122,7 +122,7 @@ full_probe() {
 # ============================================================
 # Scoring
 #   score = max(0, (1000 - min_latency) / 10 + 100) + reachable_count * 20
-#   reachable includes "google" (stage 1) + openai/anthropic (stage 2)
+#   reachable includes "google" (stage 1) + openai/anthropic/grok (stage 2)
 # ============================================================
 compute_score() {
   local best="$1" caps="$2"
@@ -236,7 +236,8 @@ while IFS='|' read -r score ip port lat caps; do
   echo "      \"capabilities\": [${cj}]," >> "$JSON_FILE"
   echo "      \"latency_min\": ${lat}," >> "$JSON_FILE"
   echo "      \"score\": ${score}" >> "$JSON_FILE"
-  echo "    }" >> "$JSON_FILE"done < "$SRC_DIR/top20.txt"
+  echo "    }" >> "$JSON_FILE"
+done < "$SRC_DIR/top20.txt"
 echo '  ]' >> "$JSON_FILE"
 echo '}' >> "$JSON_FILE"
 
@@ -257,7 +258,7 @@ JSON: https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verified
 
 ## Score
 Base: (1000 - min_latency) / 10 + 100
-Each reachable target +20 (google/openai/anthropic)
+Each reachable target +20 (google/openai/anthropic/grok)
 
 ## Strategy
 - Two-stage test: quick google probe first, then openai+anthropic for passers only

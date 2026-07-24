@@ -50,14 +50,16 @@ for ($i = 0; $i -lt $proxies.Count; $i++) {
 
     $latency = 9999
     try {
-        $request = [System.Net.WebRequest]::Create("https://google.com")
-        $request.Timeout = 5000
-        $request.Proxy = New-Object System.Net.WebProxy("$proxy", $true)
-        $response = $request.GetResponse()
-        $response.Close()
+        # Use curl.exe (Windows 10+ built-in) which natively supports SOCKS5
+        $result = & curl.exe -s -o nul -w '%{http_code}' --socks5 "$ipPort" --max-time 5 'https://google.com' 2>$null
         $sw.Stop()
         $latency = $sw.ElapsedMilliseconds
-        $results += @{ Proxy=$proxy; IP=($ipPort -split ':')[0]; Port=($ipPort -split ':')[1]; Latency=$latency; Status='✅' }
+        if ($result -match '^[234]') {
+            $results += @{ Proxy=$proxy; IP=($ipPort -split ':')[0]; Port=($ipPort -split ':')[1]; Latency=$latency; Status='✅' }
+        } else {
+            $latency = 9999
+            $results += @{ Proxy=$proxy; IP=($ipPort -split ':')[0]; Port=($ipPort -split ':')[1]; Latency=9999; Status='❌' }
+        }
     } catch {
         $sw.Stop()
         $results += @{ Proxy=$proxy; IP=($ipPort -split ':')[0]; Port=($ipPort -split ':')[1]; Latency=9999; Status='❌' }
