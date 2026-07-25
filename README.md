@@ -13,13 +13,6 @@
      │                    │                          ▼
      │              data/verified.txt        CDN 分发
      │              data/verified.json    (全球加速)
-     │                    │
-     │                    ▼
-     │              你本地运行 local_rank.ps1
-     │                    │
-     │                    ▼
-     │            测你本地的真实延迟
-     │            输出最优节点
      │
      ▼
 dpangestuw/Free-Proxy
@@ -50,28 +43,7 @@ curl -sL https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verif
 curl -sL https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verified.json
 ```
 
-### 3️⃣ 本地优选（最推荐）
-
-在 Windows PowerShell 中运行：
-
-```powershell
-# 进入脚本目录
-cd .\scripts\
-
-# 运行（默认取前10个）
-.\local_rank.ps1
-
-# 或指定取前5个
-.\local_rank.ps1 -TopN 5
-```
-
-脚本会自动：
-1. 从 CDN 拉取已验证的代理列表
-2. 在本地测试每个代理到 `google.com` 的延迟
-3. 按延迟从低到高排序
-4. 输出最优代理和 `best_proxy.txt` 文件
-
-### 4️⃣ 在你的程序中使用
+### 3️⃣ 在你的程序中使用
 
 ```powershell
 # 读取最优代理
@@ -109,7 +81,6 @@ requests.get("https://api.openai.com/...", proxies=proxies)
 | `data/verified.txt` | 按评分排序的代理列表，可直接使用 |
 | `data/verified.json` | 结构化数据，含能力标签和延迟详情 |
 | `data/README.md` | 更新说明和统计数据 |
-| `best_proxy.txt` | 本地运行后生成，含本地最优排序 |
 
 ## 项目结构
 
@@ -119,8 +90,7 @@ proxy-optimizer/
 │   └── workflows/
 │       └── update.yml          # GitHub Actions 定时任务
 ├── scripts/
-│   ├── fetch_and_test.sh      # GitHub 上跑：拉取→测试→评分→输出
-│   └── local_rank.ps1         # 本地跑：拉取→本地测延迟→排序
+│   └── fetch_and_test.py      # GitHub 上跑：拉取→测试→评分→输出
 ├── data/                      # 输出目录
 └── README.md                  # 本文件
 ```
@@ -130,8 +100,6 @@ proxy-optimizer/
 - ⚠️ 免费代理不稳定，列表每小时都在变化
 - ⚠️ 不要用来登录任何需要敏感信息的账号
 - ⚠️ 如果 GitHub Actions 跑了很久没更新，可能是代理质量差（大部分都测挂了）
-- ⚠️ 本地测速需要 `curl.exe`（Windows 10 1803+ 自带），如报错请确认系统版本
-- ⚠️ 本地测速更准确反映你的真实网络情况
 
 ## License
 

@@ -8,6 +8,7 @@ on:
     branches: [ main ]
     paths:
       - 'scripts/**'
+      - '.github/workflows/update.yml'
 
 jobs:
   test:
@@ -18,21 +19,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Restore .src cache (persist .tested across runs)
-        uses: actions/cache@v4
-        with:
-          path: .src
-          key: proxy-optimizer-src-cache
-          restore-keys: |
-            proxy-optimizer-src-
+      - name: Install Python deps
+        run: pip install PySocks
 
       - name: Run incremental test
-        run: bash scripts/fetch_and_test.sh
+        run: python scripts/fetch_and_test.py
 
       - name: Commit and push results
         run: |
           git config user.name "proxy-bot"
           git config user.email "proxy-bot@example.com"
-          git add data/README.md data/verified.json data/verified.txt
+          git add data/README.md data/verified.json data/verified.txt data/.tested data/.best_scores.txt
           git diff --staged --quiet || git commit -m "auto: proxy test updated at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
