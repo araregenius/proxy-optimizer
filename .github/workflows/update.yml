@@ -10,6 +10,9 @@ on:
       - 'scripts/**'
       - '.github/workflows/update.yml'
 
+permissions:
+  contents: write
+
 jobs:
   test:
     runs-on: ubuntu-latest
