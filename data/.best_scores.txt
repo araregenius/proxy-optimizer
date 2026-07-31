@@ -2806,3 +2806,15 @@
 60|163.192.14.135|50161|3154|anthropic,grok,openai
 20|194.163.174.78|1087|4388|anthropic
 236|144.24.47.42|1080|238|google,anthropic,openai
+233|43.173.124.23|8081|467|grok,google,openai,anthropic
+215|193.25.215.182|22222|646|anthropic,grok,openai,google
+117|107.161.168.159|3333|1622|anthropic,google,openai,grok
+189|163.192.14.135|50161|707|grok,anthropic,google
+214|23.175.248.21|1080|455|openai,anthropic,google
+80|144.24.47.42|1080|3609|anthropic,google,grok,openai
+235|23.175.248.21|1080|441|google,anthropic,openai,grok
+202|107.161.168.159|3333|772|google,anthropic,openai,grok
+210|193.25.215.182|22222|700|anthropic,grok,openai,google
+235|43.173.124.23|8081|445|grok,openai,google,anthropic
+235|144.24.47.42|1080|444|openai,google,grok,anthropic
+174|163.192.14.135|50161|455|google
