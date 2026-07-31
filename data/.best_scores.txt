@@ -2793,3 +2793,16 @@
 152|107.161.168.159|3333|1274|anthropic,google,openai,grok
 20|144.24.47.42|1080|2714|anthropic
 116|163.192.14.135|50161|1437|grok,anthropic,google
+267|43.173.124.23|8081|127|anthropic,google,grok,openai
+226|107.161.168.159|3333|534|google,anthropic,openai,grok
+241|193.25.215.182|22222|382|grok,openai,anthropic,google
+257|144.24.47.42|1080|223|google,openai,anthropic,grok
+222|23.175.248.21|1080|580|openai,google,grok,anthropic
+60|163.192.14.135|50161|2127|anthropic,google,grok
+264|43.173.124.23|8081|156|anthropic,grok,google,openai
+231|23.175.248.21|1080|490|anthropic,openai,google,grok
+248|193.25.215.182|22222|314|anthropic,openai,grok,google
+120|107.161.168.159|3333|1597|anthropic,google,openai,grok
+60|163.192.14.135|50161|3154|anthropic,grok,openai
+20|194.163.174.78|1087|4388|anthropic
+236|144.24.47.42|1080|238|google,anthropic,openai
