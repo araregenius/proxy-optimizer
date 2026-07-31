@@ -2730,3 +2730,14 @@
 245|193.25.215.182|22222|346|anthropic,grok,openai,google
 203|144.24.47.42|1080|162|openai
 40|163.192.14.135|50161|2511|anthropic,grok
+268|43.173.124.23|8081|111|anthropic,google,grok,openai
+206|23.175.248.21|1080|534|google,openai,grok
+80|193.25.215.182|22222|2838|anthropic,grok,openai,google
+80|107.161.168.159|3333|3212|anthropic,grok,google,openai
+235|144.24.47.42|1080|244|openai,google,anthropic
+241|193.25.215.182|22222|381|grok,anthropic,openai,google
+20|144.24.47.42|1080|6371|grok
+20|163.192.14.135|50161|4509|grok
+267|43.173.124.23|8081|126|google,anthropic,grok,openai
+81|107.161.168.159|3333|1981|anthropic,google,openai,grok
+150|89.19.214.171|1080|1298|openai,anthropic,grok,google
