@@ -2769,3 +2769,17 @@
 210|193.25.215.182|22222|500|anthropic,google,grok
 150|176.65.140.216|1085|1095|anthropic,google,openai
 80|107.161.168.159|3333|6867|google,anthropic,openai,grok
+268|43.173.124.23|8081|114|anthropic,google,openai,grok
+253|144.24.47.42|1080|264|google,anthropic,grok,openai
+229|23.175.248.21|1080|508|google,anthropic,openai,grok
+243|193.25.215.182|22222|365|anthropic,grok,openai,google
+160|163.192.14.135|50161|1191|grok,anthropic,google,openai
+80|107.161.168.159|3333|7063|google,anthropic,openai,grok
+263|43.173.124.23|8081|166|anthropic,google,grok,openai
+230|23.175.248.21|1080|491|anthropic,openai,google,grok
+248|193.25.215.182|22222|318|anthropic,grok,openai,google
+250|144.24.47.42|1080|294|google,grok,openai,anthropic
+266|163.192.14.135|50161|138|grok,anthropic,google,openai
+80|107.161.168.159|3333|4896|google,grok,openai,anthropic
+209|23.94.225.35|1080|509|openai,anthropic,google
+80|57.129.120.78|9050|5187|anthropic,google,openai,grok
