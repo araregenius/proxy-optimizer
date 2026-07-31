@@ -2716,3 +2716,17 @@
 191|163.192.14.135|50161|487|anthropic,google
 20|49.0.0.175|1080|6006|openai
 60|195.239.84.21|1080|6846|openai,google,grok
+259|43.173.124.23|8081|209|anthropic,openai,grok,google
+234|23.175.248.21|1080|457|openai,anthropic,google,grok
+224|107.161.168.159|3333|553|anthropic,openai,google,grok
+194|207.244.233.148|10808|854|anthropic,grok,openai,google
+80|144.24.47.42|1080|2190|google,openai,anthropic,grok
+229|193.25.215.182|22222|502|anthropic,grok,openai,google
+219|163.192.14.135|50161|202|anthropic,google
+256|43.173.124.23|8081|233|anthropic,grok,openai,google
+226|207.244.233.148|10808|535|anthropic,google,openai,grok
+203|107.161.168.159|3333|761|google,anthropic,openai,grok
+133|23.175.248.21|1080|1470|anthropic,google,grok,openai
+245|193.25.215.182|22222|346|anthropic,grok,openai,google
+203|144.24.47.42|1080|162|openai
+40|163.192.14.135|50161|2511|anthropic,grok
