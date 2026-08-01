@@ -2877,3 +2877,13 @@
 240|144.24.47.42|1080|399|google,anthropic,grok,openai
 80|107.161.168.159|3333|2469|google,grok,anthropic,openai
 80|163.192.14.135|50161|2473|anthropic,grok,google,openai
+228|23.175.248.21|1080|511|anthropic,openai,google,grok
+260|43.173.124.23|8081|191|grok,google,anthropic,openai
+254|144.24.47.42|1080|251|anthropic,openai,google,grok
+222|193.25.215.182|22222|571|anthropic,openai,grok,google
+40|163.192.14.135|50161|7477|grok,openai
+268|43.173.124.23|8081|112|anthropic,google,grok,openai
+231|23.175.248.21|1080|487|anthropic,google,openai,grok
+260|144.24.47.42|1080|192|google,anthropic,openai,grok
+235|193.25.215.182|22222|441|openai,anthropic,grok,google
+60|163.192.14.135|50161|2203|google,anthropic,grok
