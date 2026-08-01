@@ -2995,3 +2995,15 @@
 80|141.148.158.143|1080|2390|google,openai,anthropic,grok
 245|144.24.47.42|1080|349|google,anthropic,grok,openai
 215|107.161.168.159|3333|643|anthropic,openai,grok,google
+258|107.161.168.159|3333|219|anthropic,google,openai,grok
+236|144.24.47.42|1080|440|google,grok,anthropic,openai
+221|193.25.215.182|22222|590|grok,anthropic,openai,google
+236|43.173.124.23|8081|437|grok,anthropic,openai,google
+257|107.161.168.159|3333|230|google,anthropic,openai,grok
+237|43.173.124.23|8081|423|anthropic,grok,google,openai
+213|193.25.215.182|22222|664|anthropic,grok,openai,google
+132|144.24.47.42|1080|1479|google,grok,anthropic,openai
+124|109.95.61.203|1080|1551|anthropic,google,openai,grok
+80|85.143.254.38|1080|5331|anthropic,google,openai,grok
+60|141.148.158.143|1080|6546|anthropic,grok,openai
+20|104.161.23.122|5044|6045|grok
