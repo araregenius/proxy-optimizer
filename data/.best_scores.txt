@@ -2818,3 +2818,15 @@
 235|43.173.124.23|8081|445|grok,openai,google,anthropic
 235|144.24.47.42|1080|444|openai,google,grok,anthropic
 174|163.192.14.135|50161|455|google
+240|107.161.168.159|3333|393|anthropic,google,openai,grok
+209|193.25.215.182|22222|706|anthropic,grok,openai,google
+133|144.24.47.42|1080|1470|google,anthropic,grok,openai
+240|43.173.124.23|8081|396|google,openai,anthropic,grok
+111|163.192.14.135|50161|1684|anthropic,grok,openai,google
+169|23.175.248.21|1080|707|anthropic,google
+234|107.161.168.159|3333|456|anthropic,google,grok,openai
+179|23.175.248.21|1080|603|anthropic,openai
+242|43.173.124.23|8081|374|grok,openai,anthropic,google
+227|144.24.47.42|1080|522|openai,google,anthropic,grok
+80|163.192.14.135|50161|2015|grok,anthropic,google,openai
+202|193.25.215.182|22222|771|anthropic,grok,openai,google
