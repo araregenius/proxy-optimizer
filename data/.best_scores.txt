@@ -2902,3 +2902,14 @@
 153|163.192.14.135|50161|1269|anthropic,google,grok,openai
 231|193.25.215.182|22222|482|openai,anthropic,grok,google
 134|144.24.47.42|1080|1456|grok,google,openai,anthropic
+255|43.173.124.23|8081|247|grok,google,openai,anthropic
+229|23.175.248.21|1080|507|openai,grok,anthropic,google
+233|193.25.215.182|22222|461|anthropic,grok,openai,google
+143|144.24.47.42|1080|769|google
+20|163.192.14.135|50161|3575|grok
+262|144.24.47.42|1080|175|anthropic,grok,openai,google
+238|23.175.248.21|1080|416|anthropic,openai,google,grok
+223|107.161.168.159|3333|562|anthropic,google,grok,openai
+256|43.173.124.23|8081|240|anthropic,grok,google,openai
+238|193.25.215.182|22222|412|openai,anthropic,grok,google
+247|163.192.14.135|50161|326|openai,google,anthropic,grok
