@@ -3171,3 +3171,13 @@
 238|141.148.158.143|1080|415|google,anthropic,grok,openai
 156|163.192.14.135|50161|834|google,grok
 80|193.25.215.182|22222|5175|anthropic,openai,grok,google
+243|163.192.14.135|50161|363|grok,anthropic,google,openai
+241|43.173.124.23|8081|382|anthropic,grok,google,openai
+83|193.25.215.182|22222|1968|anthropic,grok,openai,google
+130|141.148.158.143|1080|1499|openai,google,grok,anthropic
+80|144.24.47.42|1080|3498|grok,anthropic,google,openai
+246|43.173.124.23|8081|340|anthropic,grok,google,openai
+198|193.25.215.182|22222|813|openai,anthropic,grok,google
+238|141.148.158.143|1080|416|anthropic,openai,grok,google
+80|144.24.47.42|1080|2511|openai,google,anthropic,grok
+123|163.192.14.135|50161|1369|anthropic,google,openai
