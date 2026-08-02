@@ -3091,3 +3091,16 @@
 20|112.229.107.142|20002|6736|google
 20|46.0.229.208|1080|4103|grok
 60|141.148.158.143|1080|4238|google,anthropic,openai
+245|43.173.124.23|8081|348|anthropic,grok,openai,google
+138|144.24.47.42|1080|1413|grok,openai,anthropic,google
+60|193.25.215.182|22222|3760|grok,anthropic,openai
+172|141.148.158.143|1080|474|grok
+214|163.192.14.135|50161|255|grok,openai
+252|43.173.124.23|8081|279|grok,google,openai,anthropic
+255|163.192.14.135|50161|243|anthropic,openai,google,grok
+142|171.234.160.79|1080|1373|anthropic,google,grok,openai
+178|147.45.234.180|1080|1013|anthropic,openai,grok,google
+213|144.24.47.42|1080|663|openai,grok,google,anthropic
+80|141.148.158.143|1080|3395|google,anthropic,grok,openai
+40|171.234.160.79|1081|2503|anthropic,google
+80|193.25.215.182|22222|2970|grok,anthropic,openai,google
