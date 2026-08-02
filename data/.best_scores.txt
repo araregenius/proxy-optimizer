@@ -3064,3 +3064,13 @@
 80|107.161.168.159|3333|3579|anthropic,google,grok,openai
 80|141.148.158.143|1080|2489|google,grok,anthropic,openai
 40|193.25.215.182|22222|5185|anthropic,google
+240|43.173.124.23|8081|392|anthropic,grok,google,openai
+235|144.24.47.42|1080|445|anthropic,openai,google,grok
+40|141.148.158.143|1080|4552|anthropic,openai
+124|193.25.215.182|22222|1354|anthropic,grok,openai
+226|163.192.14.135|50161|336|anthropic,openai,google
+240|43.173.124.23|8081|400|openai,anthropic,grok,google
+233|144.24.47.42|1080|463|google,anthropic,openai,grok
+177|163.192.14.135|50161|624|google,grok
+60|141.148.158.143|1080|3473|google,anthropic,openai
+145|193.25.215.182|22222|949|openai,anthropic
