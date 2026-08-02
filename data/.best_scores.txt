@@ -3126,3 +3126,14 @@
 40|163.192.14.135|50161|4687|anthropic,grok
 240|144.24.47.42|1080|399|google,anthropic,grok,openai
 80|178.218.119.29|10808|2618|openai,google,grok,anthropic
+230|107.161.168.159|3333|500|google,anthropic,openai,grok
+267|43.173.124.23|8081|130|grok,openai,google,anthropic
+256|144.24.47.42|1080|232|anthropic,openai,grok,google
+94|193.25.215.182|22222|1858|anthropic,grok,openai,google
+20|141.148.158.143|1080|2501|google
+257|144.24.47.42|1080|221|google,anthropic,grok,openai
+268|43.173.124.23|8081|111|anthropic,google,grok,openai
+230|107.161.168.159|3333|494|google,anthropic,openai,grok
+20|141.148.158.143|1080|5869|openai
+85|193.25.215.182|22222|1743|grok,openai,anthropic
+40|163.192.14.135|50161|4239|grok,google
