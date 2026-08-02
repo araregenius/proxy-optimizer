@@ -3137,3 +3137,14 @@
 20|141.148.158.143|1080|5869|openai
 85|193.25.215.182|22222|1743|grok,openai,anthropic
 40|163.192.14.135|50161|4239|grok,google
+236|107.161.168.159|3333|437|anthropic,google,openai,grok
+230|43.173.124.23|8081|492|anthropic,google,grok,openai
+238|144.24.47.42|1080|411|google,anthropic,grok,openai
+20|141.148.158.143|1080|4580|openai
+80|193.25.215.182|22222|8277|grok,anthropic,openai,google
+264|107.161.168.159|3333|151|google,anthropic,openai,grok
+228|144.24.47.42|1080|515|grok,google,openai,anthropic
+223|43.173.124.23|8081|561|anthropic,google,grok,openai
+228|141.148.158.143|1080|513|openai,anthropic,grok,google
+201|193.25.215.182|22222|783|openai,anthropic,grok,google
+20|163.192.14.135|50161|3506|anthropic
