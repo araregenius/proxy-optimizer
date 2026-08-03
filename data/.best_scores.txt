@@ -3280,3 +3280,13 @@
 65|173.254.204.118|7890|1542|grok
 103|163.192.14.135|50161|1565|anthropic,grok,openai
 80|193.25.215.182|22222|2383|grok,anthropic,openai,google
+155|193.25.215.182|22222|1245|anthropic,grok,google,openai
+258|144.24.47.42|1080|212|anthropic,google,openai,grok
+215|141.148.158.143|1080|445|anthropic,openai,grok
+20|163.192.14.135|50161|3465|anthropic
+255|144.24.47.42|1080|245|grok,openai,google,anthropic
+214|193.25.215.182|22222|654|grok,google,anthropic,openai
+80|163.192.14.135|50161|4220|anthropic,grok,google,openai
+20|36.251.66.6|1081|4527|grok
+103|104.234.124.3|1080|1568|google,grok,openai
+235|141.148.158.143|1080|245|anthropic,openai,grok
