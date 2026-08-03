@@ -3203,3 +3203,13 @@
 246|141.148.158.143|1080|332|anthropic,google,grok,openai
 249|193.25.215.182|22222|302|anthropic,grok,openai,google
 158|163.192.14.135|50161|1217|anthropic,grok,google,openai
+238|43.173.124.23|8081|413|anthropic,grok,google,openai
+212|193.25.215.182|22222|677|anthropic,grok,openai,google
+137|144.24.47.42|1080|1422|google,anthropic,grok,openai
+80|163.192.14.135|50161|2743|google,openai,grok,anthropic
+196|141.148.158.143|1080|431|google,openai
+236|43.173.124.23|8081|433|anthropic,google,grok,openai
+213|193.25.215.182|22222|661|anthropic,grok,openai,google
+231|144.24.47.42|1080|482|grok,openai,google,anthropic
+191|163.192.14.135|50161|690|anthropic,grok,google
+40|141.148.158.143|1080|2958|grok,openai
