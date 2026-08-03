@@ -3307,3 +3307,11 @@
 262|141.148.158.143|1080|178|grok,anthropic,google,openai
 80|144.24.47.42|1080|3179|google,anthropic,grok,openai
 80|64.111.92.171|10101|3147|anthropic,google,openai,grok
+203|141.148.158.143|1080|765|grok,google,anthropic,openai
+80|193.25.215.182|22222|2882|google,openai,anthropic,grok
+104|163.192.14.135|50161|1554|grok,google,anthropic
+80|144.24.47.42|1080|5633|openai,grok,google,anthropic
+215|193.25.215.182|22222|645|anthropic,grok,openai,google
+204|163.192.14.135|50161|559|openai,grok,google
+80|144.24.47.42|1080|3501|anthropic,google,grok,openai
+93|141.148.158.143|1080|1666|grok,google,anthropic
