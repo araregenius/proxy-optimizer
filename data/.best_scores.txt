@@ -3254,3 +3254,12 @@
 238|144.24.47.42|1080|415|google,anthropic,grok,openai
 20|89.116.134.209|1080|2365|anthropic
 80|116.104.250.195|1081|4090|anthropic,grok,google,openai
+95|163.192.14.135|50161|1848|google,openai,anthropic,grok
+80|193.25.215.182|22222|2729|anthropic,openai,grok,google
+217|144.24.47.42|1080|422|anthropic,grok,openai
+80|141.148.158.143|1080|4585|anthropic,google,grok,openai
+206|193.25.215.182|22222|736|anthropic,grok,openai,google
+197|163.192.14.135|50161|821|google,anthropic,grok,openai
+134|141.148.158.143|1080|1456|anthropic,grok,openai,google
+199|144.24.47.42|1080|402|google,openai
+0|45.192.105.139|10808|9531|google,openai,anthropic
