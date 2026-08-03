@@ -3263,3 +3263,12 @@
 134|141.148.158.143|1080|1456|anthropic,grok,openai,google
 199|144.24.47.42|1080|402|google,openai
 0|45.192.105.139|10808|9531|google,openai,anthropic
+201|141.148.158.143|1080|785|openai,google,anthropic,grok
+110|104.234.124.3|1080|1295|google,anthropic
+127|163.192.14.135|50161|1521|openai,grok,google,anthropic
+122|144.24.47.42|1080|1577|openai,google,grok,anthropic
+60|193.25.215.182|22222|3117|openai,anthropic,google
+131|141.148.158.143|1080|1488|anthropic,grok,openai,google
+188|163.192.14.135|50161|517|anthropic,openai
+80|193.25.215.182|22222|2968|openai,anthropic,grok,google
+181|144.24.47.42|1080|984|grok,openai,anthropic,google
