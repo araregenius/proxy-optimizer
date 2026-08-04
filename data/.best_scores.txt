@@ -3420,3 +3420,13 @@
 214|193.25.215.182|22222|656|anthropic,grok,openai,google
 78|141.148.158.143|1080|1415|anthropic
 80|54.193.63.238|9080|5018|grok,google,anthropic,openai
+219|54.193.63.238|9080|607|google,openai,anthropic,grok
+240|144.24.47.42|1080|391|google,anthropic,openai,grok
+115|193.25.215.182|22222|1445|anthropic,grok,openai
+40|141.148.158.143|1080|8083|google,openai
+223|54.193.63.238|9080|565|grok,openai,anthropic,google
+232|144.24.47.42|1080|473|grok,openai,anthropic,google
+237|163.192.14.135|50161|429|anthropic,google,grok,openai
+215|104.234.124.3|1080|249|anthropic,google
+142|193.25.215.182|22222|974|openai,grok
+20|141.148.158.143|1080|3481|google
