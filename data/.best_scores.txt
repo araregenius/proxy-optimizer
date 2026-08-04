@@ -3385,3 +3385,16 @@
 206|54.193.63.238|9080|731|grok,google,anthropic,openai
 236|144.24.47.42|1080|435|anthropic,openai,google,grok
 80|193.25.215.182|22222|2432|openai,anthropic,grok,google
+239|144.24.47.42|1080|410|google,openai,grok,anthropic
+234|141.148.158.143|1080|458|google,grok,anthropic,openai
+190|193.25.215.182|22222|891|anthropic,grok,openai,google
+107|163.192.14.135|50161|1522|anthropic,openai,grok
+235|144.24.47.42|1080|448|anthropic,grok,openai,google
+188|104.161.23.122|5058|915|google,anthropic,openai,grok
+20|117.5.13.104|1081|3276|google
+80|138.199.222.72|9050|8723|grok,anthropic,openai,google
+102|147.45.66.115|1082|1172|google
+224|163.192.14.135|50161|554|openai,google,grok,anthropic
+80|141.148.158.143|1080|2520|anthropic,google,grok,openai
+80|54.193.63.238|9080|6160|google,openai,anthropic,grok
+199|193.25.215.182|22222|808|anthropic,grok,openai,google
