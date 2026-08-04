@@ -3378,3 +3378,10 @@
 92|141.148.158.143|1080|1476|openai,grok
 130|89.223.95.53|1080|1497|anthropic,google,grok,openai
 80|15.168.3.103|10808|2236|google,grok,openai,anthropic
+183|54.193.63.238|9080|970|google,grok,openai,anthropic
+235|144.24.47.42|1080|441|anthropic,google,grok,openai
+109|193.25.215.182|22222|1709|grok,openai,anthropic,google
+20|141.148.158.143|1080|2467|google
+206|54.193.63.238|9080|731|grok,google,anthropic,openai
+236|144.24.47.42|1080|435|anthropic,openai,google,grok
+80|193.25.215.182|22222|2432|openai,anthropic,grok,google
