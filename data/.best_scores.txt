@@ -3410,3 +3410,13 @@
 182|141.148.158.143|1080|980|openai,anthropic,google,grok
 171|216.22.13.244|1083|1083|google,openai,grok,anthropic
 116|163.192.14.135|50161|1634|google,grok,openai,anthropic
+184|193.25.215.182|22222|951|anthropic,grok,openai,google
+235|144.24.47.42|1080|445|anthropic,openai,google,grok
+240|141.148.158.143|1080|392|anthropic,grok,openai,google
+80|54.193.63.238|9080|5529|openai,anthropic,grok,google
+60|163.192.14.135|50161|3519|anthropic,google,grok
+238|144.24.47.42|1080|420|google,grok,anthropic,openai
+234|163.192.14.135|50161|458|grok,google,openai,anthropic
+214|193.25.215.182|22222|656|anthropic,grok,openai,google
+78|141.148.158.143|1080|1415|anthropic
+80|54.193.63.238|9080|5018|grok,google,anthropic,openai
