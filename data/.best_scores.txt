@@ -3365,3 +3365,16 @@
 60|116.104.254.133|1080|2299|google,grok,anthropic
 129|144.24.47.42|1080|1509|google,anthropic,openai,grok
 40|193.25.215.182|22222|4857|grok,openai
+135|144.24.47.42|1080|1444|google,openai,anthropic,grok
+134|141.148.158.143|1080|1451|google,grok,anthropic,openai
+158|193.25.215.182|22222|1013|anthropic,grok,openai
+241|54.193.63.238|9080|382|anthropic,grok,google,openai
+254|104.234.124.3|1080|256|anthropic,openai,grok,google
+214|193.25.215.182|22222|658|anthropic,grok,openai,google
+135|144.24.47.42|1080|1444|google,grok,openai,anthropic
+154|176.65.140.216|1081|1059|anthropic,grok,google
+167|13.140.164.179|3690|924|anthropic,openai,google
+114|151.252.80.124|1080|1458|google,anthropic,grok
+92|141.148.158.143|1080|1476|openai,grok
+130|89.223.95.53|1080|1497|anthropic,google,grok,openai
+80|15.168.3.103|10808|2236|google,grok,openai,anthropic
