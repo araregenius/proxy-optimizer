@@ -3398,3 +3398,15 @@
 80|141.148.158.143|1080|2520|anthropic,google,grok,openai
 80|54.193.63.238|9080|6160|google,openai,anthropic,grok
 199|193.25.215.182|22222|808|anthropic,grok,openai,google
+221|144.24.47.42|1080|587|grok,google,openai,anthropic
+205|54.193.63.238|9080|746|anthropic,google,grok,openai
+210|193.25.215.182|22222|698|anthropic,openai,grok,google
+204|141.148.158.143|1080|756|grok,google,anthropic,openai
+60|163.192.14.135|50161|2555|anthropic,openai,grok
+208|54.193.63.238|9080|718|anthropic,grok,openai,google
+233|144.24.47.42|1080|464|google,anthropic,openai,grok
+210|193.25.215.182|22222|699|anthropic,openai,grok,google
+128|103.1.224.34|18080|1512|anthropic,google,grok,openai
+182|141.148.158.143|1080|980|openai,anthropic,google,grok
+171|216.22.13.244|1083|1083|google,openai,grok,anthropic
+116|163.192.14.135|50161|1634|google,grok,openai,anthropic
