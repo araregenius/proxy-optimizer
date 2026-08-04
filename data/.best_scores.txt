@@ -3315,3 +3315,8 @@
 204|163.192.14.135|50161|559|openai,grok,google
 80|144.24.47.42|1080|3501|anthropic,google,grok,openai
 93|141.148.158.143|1080|1666|grok,google,anthropic
+201|193.25.215.182|22222|781|openai,anthropic,grok,google
+80|141.148.158.143|1080|2505|google,anthropic,grok,openai
+198|144.24.47.42|1080|412|anthropic,grok
+226|163.192.14.135|50161|332|google,anthropic,grok
+60|144.24.47.42|1080|2467|google,grok,openai
