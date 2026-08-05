@@ -3533,3 +3533,12 @@
 111|23.148.84.135|50022|1683|anthropic,openai,google,grok
 203|193.25.215.182|22222|766|anthropic,grok,openai,google
 206|144.24.47.42|1080|339|anthropic,grok
+243|193.25.215.182|22222|362|anthropic,grok,openai,google
+142|144.24.47.42|1080|1180|grok,openai,anthropic
+80|144.24.47.42|1080|2205|google,anthropic,grok,openai
+62|104.234.124.3|1080|1575|grok
+40|163.192.14.135|50161|2317|openai,anthropic
+80|23.148.84.135|50022|7109|google,anthropic,grok,openai
+20|13.140.164.179|3725|3831|google
+20|45.86.229.39|11000|2230|grok
+241|193.25.215.182|22222|384|openai,grok,anthropic,google
