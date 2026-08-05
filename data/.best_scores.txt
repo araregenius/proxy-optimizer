@@ -3529,3 +3529,7 @@
 223|104.234.124.3|1080|368|google,anthropic,grok
 60|193.25.215.182|22222|2550|grok,openai,anthropic
 20|175.27.250.85|44158|3619|anthropic
+219|193.25.215.182|22222|602|anthropic,openai,grok,google
+111|23.148.84.135|50022|1683|anthropic,openai,google,grok
+203|193.25.215.182|22222|766|anthropic,grok,openai,google
+206|144.24.47.42|1080|339|anthropic,grok
