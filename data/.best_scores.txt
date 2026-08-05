@@ -3517,3 +3517,15 @@
 184|193.25.215.182|22222|953|anthropic,grok,openai,google
 113|144.24.47.42|1080|1667|google,grok,anthropic,openai
 196|163.192.14.135|50161|440|openai,grok
+223|163.192.14.135|50161|568|anthropic,grok,google,openai
+227|23.148.84.135|50022|523|anthropic,grok,google,openai
+204|144.24.47.42|1080|760|grok,google,anthropic,openai
+171|104.234.124.3|1080|683|openai,anthropic
+60|193.25.215.182|22222|2369|anthropic,grok,openai
+212|23.148.84.135|50022|675|anthropic,grok,google,openai
+131|144.24.47.42|1080|1481|google,anthropic,grok,openai
+123|163.192.14.135|50161|1565|anthropic,google,openai,grok
+105|13.140.164.179|3660|1341|google,anthropic
+223|104.234.124.3|1080|368|google,anthropic,grok
+60|193.25.215.182|22222|2550|grok,openai,anthropic
+20|175.27.250.85|44158|3619|anthropic
