@@ -3508,3 +3508,12 @@
 83|13.140.164.179|3540|1564|openai,google
 20|13.140.164.179|3706|5310|openai
 20|13.140.164.179|3602|8795|grok
+240|47.254.24.39|80|397|anthropic,google,openai,grok
+184|193.25.215.182|22222|955|anthropic,grok,openai,google
+132|144.24.47.42|1080|1477|google,openai,anthropic,grok
+80|23.148.84.135|50022|5784|google,anthropic,grok,openai
+20|163.192.14.135|50161|2490|grok
+239|47.254.24.39|80|410|anthropic,google,grok,openai
+184|193.25.215.182|22222|953|anthropic,grok,openai,google
+113|144.24.47.42|1080|1667|google,grok,anthropic,openai
+196|163.192.14.135|50161|440|openai,grok
