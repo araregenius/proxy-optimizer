@@ -3564,3 +3564,8 @@
 40|144.24.47.42|1080|2462|google,grok
 213|23.148.84.135|50022|668|anthropic,google,openai,grok
 20|144.24.47.42|1080|5571|grok
+195|23.148.84.135|50022|844|anthropic,google,openai,grok
+160|163.192.14.135|50161|1199|grok,google,openai,anthropic
+112|144.24.47.42|1080|1276|grok,anthropic
+238|163.192.14.135|50161|411|grok,google,anthropic,openai
+80|144.24.47.42|1080|3284|anthropic,openai,grok,google
