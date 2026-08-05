@@ -3569,3 +3569,7 @@
 112|144.24.47.42|1080|1276|grok,anthropic
 238|163.192.14.135|50161|411|grok,google,anthropic,openai
 80|144.24.47.42|1080|3284|anthropic,openai,grok,google
+252|163.192.14.135|50161|280|grok,openai,anthropic,google
+175|104.234.124.3|1080|448|google
+82|23.148.84.135|50022|1975|anthropic,google,grok,openai
+74|144.24.47.42|1080|1451|openai
