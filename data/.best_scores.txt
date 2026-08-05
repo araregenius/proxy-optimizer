@@ -3445,3 +3445,13 @@
 158|193.108.115.81|10808|1220|openai,google,grok,anthropic
 40|111.119.162.248|10911|2105|google,openai
 80|45.77.37.39|2096|3107|google,anthropic,openai,grok
+208|163.192.14.135|50161|719|anthropic,google,grok,openai
+169|54.193.63.238|9080|1107|google,openai,grok,anthropic
+200|193.25.215.182|22222|798|openai,google,grok,anthropic
+128|144.24.47.42|1080|1514|openai,anthropic,grok,google
+218|54.193.63.238|9080|613|anthropic,google,grok,openai
+215|193.25.215.182|22222|644|anthropic,grok,openai,google
+83|45.95.233.128|1082|1370|openai
+139|144.24.47.42|1080|1402|google,grok,anthropic,openai
+190|163.192.14.135|50161|692|anthropic,google,grok
+40|141.148.158.143|1080|7560|grok,openai
