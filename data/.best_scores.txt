@@ -3580,3 +3580,10 @@
 154|104.234.124.3|1080|1254|anthropic,google,openai,grok
 80|163.192.14.135|50161|4518|openai,anthropic,grok,google
 70|144.24.47.42|1080|1496|openai
+229|163.192.14.135|50161|507|google,openai,anthropic,grok
+169|144.24.47.42|1080|510|anthropic
+217|91.239.211.83|8443|627|anthropic,google,openai,grok
+161|81.200.158.126|10808|1185|google,grok,anthropic,openai
+20|5.42.105.100|10808|2926|openai
+40|163.192.14.135|50161|2564|anthropic,grok
+40|82.117.78.58|1080|4254|anthropic,openai
