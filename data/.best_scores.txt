@@ -3587,3 +3587,11 @@
 20|5.42.105.100|10808|2926|openai
 40|163.192.14.135|50161|2564|anthropic,grok
 40|82.117.78.58|1080|4254|anthropic,openai
+203|147.45.60.136|1082|166|google
+207|193.25.215.182|22222|727|anthropic,grok,google,openai
+228|163.192.14.135|50161|519|grok,anthropic,google,openai
+80|23.148.84.135|50022|3380|google,openai,anthropic,grok
+40|144.24.47.42|1080|2502|google,openai
+213|193.25.215.182|22222|661|anthropic,openai,grok,google
+80|23.148.84.135|50022|3987|grok,anthropic,openai,google
+177|163.192.14.135|50161|822|google,anthropic,grok
