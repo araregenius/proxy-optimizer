@@ -3603,3 +3603,16 @@
 173|16.16.66.155|1080|661|google,grok
 40|193.25.215.182|22222|4078|grok,anthropic
 80|195.19.55.74|1080|7486|anthropic,openai,grok,google
+208|193.25.215.182|22222|717|anthropic,grok,openai,google
+110|23.148.84.135|50022|1696|grok,google,anthropic,openai
+124|163.192.14.135|50161|1360|anthropic,google,openai
+40|144.24.47.42|1080|5503|google,anthropic
+224|23.148.84.135|50022|552|grok,anthropic,google,openai
+144|109.172.55.210|1082|754|google
+186|95.163.153.221|1080|931|anthropic,google,grok,openai
+184|57.183.28.232|1080|958|anthropic,google,openai,grok
+196|146.190.238.107|40001|839|openai,anthropic,grok,google
+245|163.192.14.135|50161|345|grok,google,anthropic,openai
+194|45.130.21.115|18080|857|google,grok,anthropic,openai
+213|193.25.215.182|22222|662|anthropic,openai,grok,google
+60|178.173.254.77|1080|2089|google,openai,grok
