@@ -3616,3 +3616,12 @@
 194|45.130.21.115|18080|857|google,grok,anthropic,openai
 213|193.25.215.182|22222|662|anthropic,openai,grok,google
 60|178.173.254.77|1080|2089|google,openai,grok
+232|163.192.14.135|50161|472|anthropic,openai,google,grok
+135|144.24.47.42|1080|1444|grok,google,anthropic,openai
+80|23.148.84.135|50022|2840|google,anthropic,grok,openai
+200|193.25.215.182|22222|794|grok,openai,google,anthropic
+196|147.45.60.136|1082|235|google
+240|163.192.14.135|50161|393|anthropic,google,openai,grok
+187|23.148.84.135|50022|923|anthropic,google,grok,openai
+211|193.25.215.182|22222|687|anthropic,grok,openai,google
+95|144.24.47.42|1080|1443|anthropic,openai
