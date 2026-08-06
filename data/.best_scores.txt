@@ -3625,3 +3625,11 @@
 187|23.148.84.135|50022|923|anthropic,google,grok,openai
 211|193.25.215.182|22222|687|anthropic,grok,openai,google
 95|144.24.47.42|1080|1443|anthropic,openai
+175|147.45.60.136|1082|448|google
+242|193.25.215.182|22222|373|grok,anthropic,openai,google
+220|163.192.14.135|50161|393|google,grok,anthropic
+154|144.24.47.42|1080|1256|anthropic,openai,google,grok
+175|147.45.60.136|1082|450|google
+224|193.25.215.182|22222|559|anthropic,grok,openai,google
+201|163.192.14.135|50161|383|anthropic,grok
+184|104.234.124.3|1080|556|google,openai
