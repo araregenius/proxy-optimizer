@@ -3705,3 +3705,13 @@
 169|151.115.99.193|10006|1105|openai,anthropic,grok,google
 222|104.234.124.3|1080|380|anthropic,grok,openai
 110|16.78.6.181|1080|1498|anthropic,google,grok
+203|147.45.60.136|1082|161|anthropic
+202|43.162.94.99|1080|773|grok,google,anthropic,openai
+60|193.25.215.182|22222|2718|anthropic,openai,grok
+183|104.234.124.3|1080|362|openai
+132|195.19.49.4|1080|1480|google,anthropic,openai,grok
+224|43.162.94.99|1080|551|anthropic,grok,openai,google
+222|163.192.14.135|50161|577|openai,grok,anthropic,google
+135|185.115.207.100|10808|1450|anthropic,google,grok,openai
+20|183.141.133.25|10800|4713|grok
+40|193.25.215.182|22222|4788|anthropic,grok
