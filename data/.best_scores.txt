@@ -3725,3 +3725,12 @@
 157|43.162.94.99|1080|1228|anthropic,grok,google,openai
 179|104.234.124.3|1080|605|google,openai
 154|163.192.14.135|50161|1256|grok,anthropic,google,openai
+260|147.45.60.136|1082|194|anthropic,google,openai,grok
+250|104.234.124.3|1080|298|anthropic,google,grok,openai
+226|163.192.14.135|50161|532|anthropic,google,grok,openai
+82|193.25.215.182|22222|1775|grok,openai,anthropic
+212|43.162.94.99|1080|472|anthropic,openai,google
+261|147.45.60.136|1082|190|anthropic,google,grok,openai
+219|163.192.14.135|50161|610|openai,grok,google,anthropic
+223|43.162.94.99|1080|561|grok,openai,google,anthropic
+80|193.25.215.182|22222|2780|anthropic,grok,openai,google
