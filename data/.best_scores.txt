@@ -3817,3 +3817,14 @@
 162|163.192.14.135|50161|1173|anthropic,grok,google,openai
 246|43.162.94.99|1080|334|google,grok,openai,anthropic
 40|144.24.47.42|1080|3326|anthropic,grok
+200|193.25.215.182|22222|800|grok,anthropic,openai,google
+80|144.24.47.42|1080|3505|anthropic,google,grok,openai
+137|163.192.14.135|50161|1421|anthropic,google,openai,grok
+196|43.162.94.99|1080|433|grok,anthropic
+263|155.138.133.163|10001|170|anthropic,google,grok,openai
+241|43.162.94.99|1080|381|anthropic,grok,google,openai
+240|163.192.14.135|50161|391|anthropic,grok,google,openai
+253|172.234.12.236|8080|266|anthropic,openai,grok,google
+215|193.25.215.182|22222|645|anthropic,grok,openai,google
+80|45.74.178.43|9082|2277|anthropic,google,openai,grok
+80|144.24.47.42|1080|2481|anthropic,openai,google,grok
