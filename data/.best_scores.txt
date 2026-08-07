@@ -3809,3 +3809,11 @@
 209|193.25.215.182|22222|702|anthropic,grok,openai,google
 242|43.162.94.99|1080|380|google,anthropic,openai,grok
 80|144.24.47.42|1080|2415|anthropic,openai,google,grok
+263|163.192.14.135|50161|164|google,grok,openai,anthropic
+244|193.25.215.182|22222|353|grok,openai,anthropic,google
+269|43.162.94.99|1080|106|anthropic,openai,grok,google
+211|144.24.47.42|1080|286|openai,google
+248|193.25.215.182|22222|318|openai,grok,anthropic,google
+162|163.192.14.135|50161|1173|anthropic,grok,google,openai
+246|43.162.94.99|1080|334|google,grok,openai,anthropic
+40|144.24.47.42|1080|3326|anthropic,grok
