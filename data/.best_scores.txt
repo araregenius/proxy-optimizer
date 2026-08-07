@@ -3801,3 +3801,11 @@
 122|43.163.106.88|6080|1576|grok,google,anthropic,openai
 40|43.156.122.96|10800|6414|grok,anthropic
 20|175.27.250.85|44193|4356|anthropic
+217|193.25.215.182|22222|625|anthropic,openai,grok,google
+228|43.162.94.99|1080|318|anthropic,grok,google
+214|163.192.14.135|50161|455|anthropic,google,grok
+60|144.24.47.42|1080|2473|anthropic,google,openai
+245|163.192.14.135|50161|348|anthropic,google,openai,grok
+209|193.25.215.182|22222|702|anthropic,grok,openai,google
+242|43.162.94.99|1080|380|google,anthropic,openai,grok
+80|144.24.47.42|1080|2415|anthropic,openai,google,grok
