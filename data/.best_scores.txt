@@ -3787,3 +3787,17 @@
 80|111.119.162.248|10925|5023|openai,google,anthropic,grok
 235|43.162.94.99|1080|250|google,openai,anthropic
 80|163.5.214.45|9081|8409|anthropic,openai,grok,google
+210|193.25.215.182|22222|692|anthropic,grok,openai,google
+229|43.162.94.99|1080|503|openai,google,grok,anthropic
+125|163.192.14.135|50161|1144|anthropic,openai
+59|144.24.47.42|1080|1606|grok
+209|193.25.215.182|22222|705|anthropic,grok,openai,google
+234|43.162.94.99|1080|460|anthropic,grok,google,openai
+131|43.134.58.45|1080|1484|google,anthropic,grok,openai
+87|103.76.181.94|1080|1925|anthropic,grok,openai,google
+107|43.163.122.46|8080|1728|grok,anthropic,openai,google
+135|207.154.209.76|1080|1248|google,openai,grok
+178|163.192.14.135|50161|820|anthropic,google,grok
+122|43.163.106.88|6080|1576|grok,google,anthropic,openai
+40|43.156.122.96|10800|6414|grok,anthropic
+20|175.27.250.85|44193|4356|anthropic
