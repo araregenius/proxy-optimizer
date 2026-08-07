@@ -3755,3 +3755,15 @@
 125|163.192.14.135|50161|1545|openai,google,anthropic,grok
 246|43.162.94.99|1080|334|openai,grok,google,anthropic
 60|144.24.47.42|1080|2399|google,anthropic,grok
+246|45.61.178.19|1080|338|anthropic,grok,google,openai
+239|43.162.94.99|1080|410|anthropic,grok,google,openai
+216|193.25.215.182|22222|638|anthropic,grok,openai,google
+40|104.234.124.3|1080|3237|anthropic,google
+40|163.192.14.135|50161|2469|anthropic,grok
+243|45.61.178.19|1080|364|anthropic,grok,openai,google
+238|43.162.94.99|1080|419|anthropic,grok,google,openai
+208|45.192.9.27|1080|714|anthropic,google,openai,grok
+195|193.25.215.182|22222|841|anthropic,grok,openai,google
+146|213.14.155.246|1080|1138|anthropic,google,grok
+193|163.192.14.135|50161|662|anthropic,google,grok
+20|185.200.196.212|1080|8252|grok
