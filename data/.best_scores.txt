@@ -3715,3 +3715,13 @@
 135|185.115.207.100|10808|1450|anthropic,google,grok,openai
 20|183.141.133.25|10800|4713|grok
 40|193.25.215.182|22222|4788|anthropic,grok
+175|147.45.60.136|1082|447|google
+256|43.162.94.99|1080|235|anthropic,grok,openai,google
+219|193.25.215.182|22222|605|grok,anthropic,openai,google
+232|163.192.14.135|50161|276|grok,google,anthropic
+184|144.24.47.42|1080|356|grok
+191|147.45.60.136|1082|482|anthropic,google
+224|193.25.215.182|22222|559|grok,anthropic,openai,google
+157|43.162.94.99|1080|1228|anthropic,grok,google,openai
+179|104.234.124.3|1080|605|google,openai
+154|163.192.14.135|50161|1256|grok,anthropic,google,openai
