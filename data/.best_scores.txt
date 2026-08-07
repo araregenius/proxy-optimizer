@@ -3882,3 +3882,15 @@
 137|193.25.215.182|22222|1430|openai,anthropic,grok,google
 115|163.192.14.135|50161|1444|anthropic,grok,google
 249|43.162.94.99|1080|107|anthropic,grok,openai
+226|155.138.133.163|10001|531|anthropic,openai,grok,google
+152|172.234.12.236|8080|1276|anthropic,openai,google,grok
+20|104.234.124.3|1080|3648|openai
+262|43.162.94.99|1080|172|anthropic,google,openai,grok
+130|163.192.14.135|50161|1293|google,grok,anthropic
+87|193.25.215.182|22222|1526|openai,anthropic
+228|155.138.133.163|10001|514|anthropic,grok,openai,google
+206|172.234.12.236|8080|731|anthropic,openai,grok,google
+237|193.25.215.182|22222|424|openai,anthropic,grok,google
+258|43.162.94.99|1080|212|anthropic,google,openai,grok
+60|144.24.47.42|1080|3186|google,anthropic,grok
+206|163.192.14.135|50161|534|grok,anthropic,google
