@@ -3778,3 +3778,12 @@
 258|43.162.94.99|1080|218|openai,grok,google,anthropic
 210|163.192.14.135|50161|494|google,anthropic,grok
 40|193.25.215.182|22222|3377|anthropic,openai
+249|43.162.94.99|1080|301|grok,google,openai,anthropic
+216|193.25.215.182|22222|633|grok,openai,anthropic,google
+150|163.192.14.135|50161|1291|anthropic,grok,google,openai
+75|144.24.47.42|1080|1448|grok
+224|193.25.215.182|22222|560|anthropic,openai,grok,google
+203|163.192.14.135|50161|566|anthropic,google,grok
+80|111.119.162.248|10925|5023|openai,google,anthropic,grok
+235|43.162.94.99|1080|250|google,openai,anthropic
+80|163.5.214.45|9081|8409|anthropic,openai,grok,google
