@@ -3734,3 +3734,13 @@
 219|163.192.14.135|50161|610|openai,grok,google,anthropic
 223|43.162.94.99|1080|561|grok,openai,google,anthropic
 80|193.25.215.182|22222|2780|anthropic,grok,openai,google
+191|147.45.60.136|1082|285|openai
+244|43.162.94.99|1080|355|anthropic,grok,google,openai
+197|193.25.215.182|22222|821|openai,anthropic,grok,google
+172|163.192.14.135|50161|874|google,openai,anthropic
+200|104.234.124.3|1080|396|anthropic,google
+20|144.24.47.42|1080|3544|grok
+244|43.162.94.99|1080|351|anthropic,grok,openai,google
+212|193.25.215.182|22222|675|grok,google,anthropic,openai
+80|163.192.14.135|50161|2381|anthropic,openai,google,grok
+201|144.24.47.42|1080|385|google,anthropic
