@@ -3693,3 +3693,15 @@
 212|104.234.124.3|1080|271|anthropic,grok
 20|175.27.250.85|44148|2854|anthropic
 20|175.27.250.85|44103|2696|anthropic
+184|147.45.60.136|1082|351|openai
+254|43.162.94.99|1080|252|anthropic,google,grok,openai
+251|163.192.14.135|50161|289|anthropic,openai,grok,google
+215|193.25.215.182|22222|643|anthropic,grok,openai,google
+243|144.24.47.42|1080|369|google,openai,anthropic,grok
+254|43.162.94.99|1080|251|anthropic,grok,google,openai
+208|147.45.60.136|1082|316|google,openai
+186|193.25.215.182|22222|939|anthropic,grok,openai,google
+154|163.192.14.135|50161|1256|grok,google,anthropic,openai
+169|151.115.99.193|10006|1105|openai,anthropic,grok,google
+222|104.234.124.3|1080|380|anthropic,grok,openai
+110|16.78.6.181|1080|1498|anthropic,google,grok
