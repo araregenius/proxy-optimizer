@@ -3871,3 +3871,14 @@
 185|104.234.124.3|1080|343|google
 205|163.192.14.135|50161|548|anthropic,grok,google
 60|193.25.215.182|22222|2610|anthropic,openai,grok
+219|155.138.133.163|10001|603|anthropic,openai,google,grok
+221|172.234.12.236|8080|587|anthropic,openai,grok,google
+137|193.25.215.182|22222|1426|anthropic,openai,grok,google
+121|163.192.14.135|50161|1188|grok,anthropic
+266|43.162.94.99|1080|137|openai,anthropic,grok,google
+80|144.24.47.42|1080|6411|google,anthropic,grok,openai
+214|155.138.133.163|10001|652|anthropic,grok,openai,google
+226|172.234.12.236|8080|534|anthropic,openai,grok,google
+137|193.25.215.182|22222|1430|openai,anthropic,grok,google
+115|163.192.14.135|50161|1444|anthropic,grok,google
+249|43.162.94.99|1080|107|anthropic,grok,openai
