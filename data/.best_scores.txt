@@ -3767,3 +3767,14 @@
 146|213.14.155.246|1080|1138|anthropic,google,grok
 193|163.192.14.135|50161|662|anthropic,google,grok
 20|185.200.196.212|1080|8252|grok
+250|45.61.178.19|1080|291|anthropic,grok,google,openai
+243|193.25.215.182|22222|368|anthropic,grok,openai,google
+216|43.162.94.99|1080|439|openai,anthropic,google
+61|104.234.124.3|1080|1585|google
+144|144.24.47.42|1080|1157|google,anthropic,openai
+60|163.192.14.135|50161|2555|anthropic,grok,google
+258|45.61.178.19|1080|219|anthropic,openai,grok,google
+228|104.234.124.3|1080|515|anthropic,google,openai,grok
+258|43.162.94.99|1080|218|openai,grok,google,anthropic
+210|163.192.14.135|50161|494|google,anthropic,grok
+40|193.25.215.182|22222|3377|anthropic,openai
