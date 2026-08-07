@@ -3858,3 +3858,16 @@
 251|43.162.94.99|1080|289|openai,google,anthropic,grok
 80|144.24.47.42|1080|2273|anthropic,openai,grok,google
 228|163.192.14.135|50161|512|google,grok,openai,anthropic
+231|43.162.94.99|1080|481|anthropic,grok,google,openai
+236|172.234.12.236|8080|436|anthropic,grok,openai,google
+235|144.24.47.42|1080|446|grok,openai,google,anthropic
+80|193.25.215.182|22222|2180|anthropic,grok,openai,google
+80|155.138.133.163|10001|3175|anthropic,google,grok,openai
+60|163.192.14.135|50161|2907|anthropic,grok,google
+237|144.24.47.42|1080|423|google,anthropic,grok,openai
+260|155.138.133.163|10001|192|anthropic,grok,openai,google
+230|172.234.12.236|8080|496|anthropic,grok,openai,google
+228|43.162.94.99|1080|520|openai,grok,google,anthropic
+185|104.234.124.3|1080|343|google
+205|163.192.14.135|50161|548|anthropic,grok,google
+60|193.25.215.182|22222|2610|anthropic,openai,grok
