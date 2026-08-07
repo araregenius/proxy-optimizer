@@ -3744,3 +3744,14 @@
 212|193.25.215.182|22222|675|grok,google,anthropic,openai
 80|163.192.14.135|50161|2381|anthropic,openai,google,grok
 201|144.24.47.42|1080|385|google,anthropic
+216|193.25.215.182|22222|632|anthropic,grok,openai,google
+150|163.192.14.135|50161|1297|google,anthropic,openai,grok
+238|43.162.94.99|1080|214|anthropic,google,grok
+249|45.61.178.19|1080|302|anthropic,grok,google,openai
+156|45.61.184.57|1080|639|anthropic
+212|193.25.215.182|22222|671|grok,openai,anthropic,google
+179|5.230.201.154|1080|1005|anthropic,google,grok,openai
+80|8.211.179.212|1080|2223|anthropic,google,openai,grok
+125|163.192.14.135|50161|1545|openai,google,anthropic,grok
+246|43.162.94.99|1080|334|openai,grok,google,anthropic
+60|144.24.47.42|1080|2399|google,anthropic,grok
