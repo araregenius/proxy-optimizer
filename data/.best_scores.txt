@@ -4206,3 +4206,11 @@
 88|144.24.47.42|1080|1320|google
 106|163.192.14.135|50161|1536|anthropic,grok,google
 60|193.25.215.182|22222|3874|grok,anthropic,openai
+264|129.151.9.55|10808|154|anthropic,google,grok,openai
+219|43.162.94.99|1080|205|google,anthropic
+228|193.25.215.182|22222|313|anthropic,grok,openai
+60|163.192.14.135|50161|2542|anthropic,google,openai
+266|129.151.9.55|10808|139|anthropic,google,grok,openai
+217|193.25.215.182|22222|627|anthropic,grok,openai,google
+222|43.162.94.99|1080|178|anthropic,google
+40|144.24.47.42|1080|2205|grok,openai
