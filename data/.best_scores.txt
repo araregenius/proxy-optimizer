@@ -4025,3 +4025,14 @@
 80|194.67.51.210|1080|1598|openai,grok
 176|163.192.14.135|50161|832|google,openai,grok
 40|144.24.47.42|1080|5490|grok,google
+165|193.25.215.182|22222|1145|anthropic,grok,openai,google
+126|172.234.12.236|8080|1531|anthropic,openai,grok,google
+80|155.138.133.163|10001|2922|openai,anthropic,google,grok
+209|43.162.94.99|1080|506|grok,google,openai
+77|163.192.14.135|50161|1821|google,anthropic,grok
+260|155.138.133.163|10001|197|anthropic,google,openai,grok
+207|193.25.215.182|22222|722|anthropic,grok,openai,google
+112|172.234.12.236|8080|1677|openai,anthropic,grok,google
+209|43.162.94.99|1080|507|grok,openai,google
+60|144.24.47.42|1080|2491|google,anthropic,openai
+150|163.192.14.135|50161|1092|google,anthropic,grok
