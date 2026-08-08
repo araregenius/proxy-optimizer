@@ -4226,3 +4226,16 @@
 224|172.234.12.236|8080|552|anthropic,openai,grok,google
 214|193.25.215.182|22222|656|anthropic,grok,openai,google
 250|163.192.14.135|50161|296|grok,google,anthropic,openai
+257|155.138.133.163|10001|227|anthropic,openai,google,grok
+235|129.151.9.55|10808|444|google,grok,anthropic,openai
+212|172.234.12.236|8080|672|anthropic,openai,grok,google
+80|193.25.215.182|22222|2301|grok,anthropic,openai,google
+20|163.192.14.135|50161|4135|anthropic
+20|43.162.94.99|1080|3585|google
+257|155.138.133.163|10001|221|anthropic,grok,openai,google
+234|129.151.9.55|10808|458|google,anthropic,grok,openai
+248|172.234.12.236|8080|320|anthropic,openai,grok,google
+207|193.25.215.182|22222|721|anthropic,grok,openai,google
+191|43.162.94.99|1080|485|anthropic,openai
+20|144.24.47.42|1080|2524|anthropic
+60|163.192.14.135|50161|5170|grok,google,anthropic
