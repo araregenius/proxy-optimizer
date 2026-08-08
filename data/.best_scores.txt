@@ -4283,3 +4283,14 @@
 80|129.151.9.55|10808|3855|anthropic,google,grok,openai
 267|43.162.94.99|1080|125|grok,openai,google,anthropic
 263|163.192.14.135|50161|166|openai,anthropic,grok,google
+237|129.151.9.55|10808|425|anthropic,grok,google,openai
+220|43.162.94.99|1080|596|anthropic,google,grok,openai
+107|193.25.215.182|22222|1723|anthropic,grok,openai,google
+40|163.192.14.135|50161|2790|google,anthropic
+234|129.151.9.55|10808|451|openai,google,anthropic,grok
+228|44.239.203.231|1080|513|anthropic,google,openai,grok
+232|43.162.94.99|1080|479|grok,anthropic,openai,google
+80|193.25.215.182|22222|3202|anthropic,grok,openai,google
+195|163.192.14.135|50161|643|anthropic,google,grok
+80|144.24.47.42|1080|5498|anthropic,google,grok,openai
+80|155.138.133.163|10001|8171|anthropic,openai,google,grok
