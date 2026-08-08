@@ -4160,3 +4160,13 @@
 237|43.162.94.99|1080|222|anthropic,grok,openai
 20|140.245.109.203|1080|2309|google
 40|163.192.14.135|50161|4706|google,grok
+233|155.138.133.163|10001|465|anthropic,grok,google,openai
+245|193.25.215.182|22222|349|anthropic,grok,openai,google
+136|172.234.12.236|8080|1434|openai,anthropic,grok,google
+114|144.24.47.42|1080|1257|anthropic,grok
+20|43.162.94.99|1080|4449|anthropic
+233|155.138.133.163|10001|470|anthropic,google,openai,grok
+204|172.234.12.236|8080|753|anthropic,openai,grok,google
+116|193.25.215.182|22222|1634|anthropic,grok,openai,google
+187|43.162.94.99|1080|726|anthropic,openai,google
+72|163.192.14.135|50161|1475|anthropic
