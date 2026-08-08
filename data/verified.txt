@@ -7,6 +7,7 @@ socks5://23.254.233.221:666  # score:264 latency:160ms caps:[anthropic,grok,goog
 socks5://155.138.133.163:10001  # score:263 latency:170ms caps:[anthropic,google,grok,openai]
 socks5://144.24.47.42:1080  # score:259 latency:201ms caps:[google,anthropic,openai,grok]
 socks5://103.7.138.17:1080  # score:259 latency:205ms caps:[anthropic,grok,openai,google]
+socks5://44.239.203.231:1080  # score:255 latency:249ms caps:[anthropic,google,grok,openai]
 socks5://172.234.12.236:8080  # score:253 latency:266ms caps:[anthropic,openai,grok,google]
 socks5://104.234.124.3:1080  # score:252 latency:277ms caps:[anthropic,openai,google,grok]
 socks5://207.246.88.217:1080  # score:251 latency:284ms caps:[google,grok,openai,anthropic]
@@ -17,4 +18,3 @@ socks5://142.11.192.249:1080  # score:248 latency:319ms caps:[openai,anthropic,g
 socks5://129.151.9.55:10808  # score:245 latency:343ms caps:[anthropic,grok,openai,google]
 socks5://172.86.73.78:1080  # score:244 latency:360ms caps:[anthropic,google,openai,grok]
 socks5://54.193.63.238:9080  # score:241 latency:382ms caps:[anthropic,grok,google,openai]
-socks5://144.202.113.226:1080  # score:240 latency:396ms caps:[grok,openai,google,anthropic]

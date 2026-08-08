@@ -4269,3 +4269,17 @@
 219|43.162.94.99|1080|401|grok,openai,anthropic
 80|172.234.12.236|8080|7455|anthropic,openai,grok,google
 40|163.192.14.135|50161|4058|grok,anthropic
+228|172.234.12.236|8080|516|anthropic,openai,google,grok
+107|193.25.215.182|22222|1729|grok,openai,anthropic,google
+269|43.162.94.99|1080|105|anthropic,google,openai,grok
+80|129.151.9.55|10808|4385|anthropic,grok,google,openai
+126|163.192.14.135|50161|1331|grok,openai,google
+255|44.239.203.231|1080|249|anthropic,google,grok,openai
+204|140.238.59.216|10808|759|anthropic,google,openai,grok
+202|172.234.12.236|8080|773|anthropic,openai,grok,google
+144|104.161.23.122|5001|1352|google,openai,grok,anthropic
+146|193.25.215.182|22222|1334|grok,openai,anthropic,google
+257|144.24.47.42|1080|221|google,openai,anthropic,grok
+80|129.151.9.55|10808|3855|anthropic,google,grok,openai
+267|43.162.94.99|1080|125|grok,openai,google,anthropic
+263|163.192.14.135|50161|166|openai,anthropic,grok,google
