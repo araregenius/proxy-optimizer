@@ -3992,3 +3992,11 @@
 187|216.106.179.216|49249|526|google,anthropic
 162|216.106.179.216|49481|576|anthropic
 40|216.106.179.216|49353|3636|openai,grok
+252|163.192.14.135|50161|278|anthropic,grok,openai,google
+221|43.162.94.99|1080|186|anthropic,grok
+169|193.25.215.182|22222|901|anthropic,grok,openai
+80|144.24.47.42|1080|5228|anthropic,grok,openai,google
+221|163.192.14.135|50161|584|anthropic,google,grok,openai
+80|144.24.47.42|1080|2210|google,anthropic,openai,grok
+262|43.162.94.99|1080|177|anthropic,grok,google,openai
+178|193.25.215.182|22222|813|anthropic,grok,openai
