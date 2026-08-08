@@ -4129,3 +4129,16 @@
 215|193.25.215.182|22222|641|anthropic,openai,grok,google
 208|43.162.94.99|1080|513|openai,grok,google
 179|163.192.14.135|50161|803|anthropic,openai,google
+250|155.138.133.163|10001|298|anthropic,openai,google,grok
+231|172.234.12.236|8080|486|openai,anthropic,grok,google
+208|193.25.215.182|22222|711|anthropic,grok,openai,google
+236|163.192.14.135|50161|436|openai,grok,anthropic,google
+242|43.162.94.99|1080|378|anthropic,grok,openai,google
+20|144.24.47.42|1080|3362|google
+251|155.138.133.163|10001|282|anthropic,grok,openai,google
+231|172.234.12.236|8080|485|anthropic,grok,openai,google
+204|45.145.41.177|1080|760|anthropic,google,openai,grok
+215|193.25.215.182|22222|649|anthropic,openai,grok,google
+240|163.192.14.135|50161|399|google,openai,anthropic,grok
+218|43.162.94.99|1080|417|google,grok,anthropic
+20|175.27.250.85|44076|8788|anthropic
