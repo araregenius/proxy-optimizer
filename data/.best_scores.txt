@@ -4069,3 +4069,13 @@
 40|216.106.179.216|49345|2567|grok,openai
 198|163.192.14.135|50161|418|google,anthropic
 0|175.27.250.85|44187|10704|anthropic
+157|193.25.215.182|22222|1227|openai,google,anthropic,grok
+228|43.162.94.99|1080|511|anthropic,google,grok,openai
+203|163.192.14.135|50161|568|google,anthropic,grok
+212|155.138.133.163|10001|473|openai,google,grok
+40|144.24.47.42|1080|4588|openai,grok
+258|155.138.133.163|10001|219|anthropic,google,openai,grok
+230|43.162.94.99|1080|498|grok,anthropic,google,openai
+82|193.25.215.182|22222|1980|anthropic,google,grok,openai
+102|163.192.14.135|50161|1575|anthropic,grok,google
+80|172.234.12.236|8080|6845|anthropic,openai,grok,google
