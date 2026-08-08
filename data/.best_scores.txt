@@ -4214,3 +4214,15 @@
 217|193.25.215.182|22222|627|anthropic,grok,openai,google
 222|43.162.94.99|1080|178|anthropic,google
 40|144.24.47.42|1080|2205|grok,openai
+241|129.151.9.55|10808|381|grok,anthropic,google,openai
+239|155.138.133.163|10001|406|anthropic,openai,grok,google
+220|193.25.215.182|22222|595|anthropic,grok,openai,google
+171|172.234.12.236|8080|1090|anthropic,grok,openai,google
+253|43.162.94.99|1080|267|google,anthropic,grok,openai
+40|163.192.14.135|50161|3593|anthropic,google
+250|43.162.94.99|1080|296|anthropic,grok,openai,google
+235|129.151.9.55|10808|446|google,grok,anthropic,openai
+233|155.138.133.163|10001|468|anthropic,google,grok,openai
+224|172.234.12.236|8080|552|anthropic,openai,grok,google
+214|193.25.215.182|22222|656|anthropic,grok,openai,google
+250|163.192.14.135|50161|296|grok,google,anthropic,openai
