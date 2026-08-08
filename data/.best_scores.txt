@@ -4012,3 +4012,16 @@
 248|144.24.47.42|1080|312|google,openai,anthropic,grok
 143|163.192.14.135|50161|1361|anthropic,grok,openai,google
 40|43.162.94.99|1080|2376|anthropic,google
+261|155.138.133.163|10001|181|anthropic,google,openai,grok
+238|172.234.12.236|8080|412|anthropic,openai,grok,google
+214|43.162.94.99|1080|659|openai,google,anthropic,grok
+60|163.192.14.135|50161|2034|grok,anthropic,openai
+155|193.25.215.182|22222|1044|anthropic,grok,openai
+20|144.24.47.42|1080|7028|openai
+261|155.138.133.163|10001|184|anthropic,google,openai,grok
+245|172.234.12.236|8080|348|anthropic,openai,grok,google
+143|193.25.215.182|22222|1366|openai,anthropic,grok,google
+204|43.162.94.99|1080|557|google,openai,anthropic
+80|194.67.51.210|1080|1598|openai,grok
+176|163.192.14.135|50161|832|google,openai,grok
+40|144.24.47.42|1080|5490|grok,google
