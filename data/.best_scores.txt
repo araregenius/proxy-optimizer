@@ -4057,3 +4057,15 @@
 71|43.162.94.99|1080|1483|anthropic
 60|163.192.14.135|50161|4475|google,grok,openai
 40|144.24.47.42|1080|3643|anthropic,grok
+187|172.234.12.236|8080|924|anthropic,openai,grok,google
+250|43.162.94.99|1080|292|google,anthropic,openai,grok
+129|163.192.14.135|50161|1505|google,grok,openai,anthropic
+20|144.24.47.42|1080|2245|google
+221|193.25.215.182|22222|586|anthropic,grok,openai,google
+190|172.234.12.236|8080|891|anthropic,openai,grok,google
+245|43.162.94.99|1080|345|google,anthropic,grok,openai
+80|144.24.47.42|1080|3281|google,anthropic,grok,openai
+239|193.25.215.182|22222|410|grok,openai,anthropic,google
+40|216.106.179.216|49345|2567|grok,openai
+198|163.192.14.135|50161|418|google,anthropic
+0|175.27.250.85|44187|10704|anthropic
