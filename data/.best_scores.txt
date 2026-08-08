@@ -4294,3 +4294,17 @@
 195|163.192.14.135|50161|643|anthropic,google,grok
 80|144.24.47.42|1080|5498|anthropic,google,grok,openai
 80|155.138.133.163|10001|8171|anthropic,openai,google,grok
+195|155.138.133.163|10001|850|anthropic,openai,google,grok
+145|193.25.215.182|22222|1343|grok,openai,anthropic,google
+90|172.234.12.236|8080|1892|anthropic,openai,grok,google
+187|43.162.94.99|1080|928|anthropic,google,openai,grok
+20|144.24.47.42|1080|2491|anthropic
+80|129.151.9.55|10808|3092|openai,google,grok,anthropic
+20|163.192.14.135|50161|2718|grok
+246|193.25.215.182|22222|331|grok,anthropic,openai,google
+189|172.234.12.236|8080|904|anthropic,openai,grok,google
+269|43.162.94.99|1080|103|grok,google,openai,anthropic
+80|155.138.133.163|10001|3751|anthropic,grok,google,openai
+185|163.192.14.135|50161|541|openai,google
+80|129.151.9.55|10808|4522|google,grok,anthropic,openai
+20|144.24.47.42|1080|3296|google
