@@ -4103,3 +4103,11 @@
 80|172.234.12.236|8080|3638|openai,grok,anthropic,google
 20|144.24.47.42|1080|3587|openai
 212|43.162.94.99|1080|478|anthropic,openai,grok
+233|172.234.12.236|8080|465|anthropic,grok,openai,google
+244|43.162.94.99|1080|351|anthropic,openai,google,grok
+218|193.25.215.182|22222|618|anthropic,grok,openai,google
+60|163.192.14.135|50161|2417|anthropic,grok,google
+242|43.162.94.99|1080|378|anthropic,grok,google,openai
+236|172.234.12.236|8080|432|anthropic,openai,grok,google
+103|193.25.215.182|22222|1763|anthropic,grok,openai,google
+218|163.192.14.135|50161|416|google,anthropic,grok
