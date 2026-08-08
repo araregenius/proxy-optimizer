@@ -4196,3 +4196,13 @@
 40|31.220.163.133|1080|2238|anthropic,google
 62|144.21.39.252|1080|1578|grok
 20|216.106.179.216|49160|4014|anthropic
+255|43.162.94.99|1080|249|anthropic,grok,openai,google
+103|172.234.12.236|8080|1770|openai,anthropic,google,grok
+231|163.192.14.135|50161|285|google,anthropic,grok
+60|193.25.215.182|22222|2490|anthropic,grok,openai
+146|144.24.47.42|1080|1340|google,anthropic,openai,grok
+201|172.234.12.236|8080|782|anthropic,openai,grok,google
+254|43.162.94.99|1080|251|google,openai,grok,anthropic
+88|144.24.47.42|1080|1320|google
+106|163.192.14.135|50161|1536|anthropic,grok,google
+60|193.25.215.182|22222|3874|grok,anthropic,openai
