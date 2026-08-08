@@ -3932,3 +3932,16 @@
 209|172.234.12.236|8080|510|anthropic,openai,google
 234|163.192.14.135|50161|451|google,anthropic,grok,openai
 40|144.24.47.42|1080|2250|anthropic,grok
+216|193.25.215.182|22222|638|anthropic,grok,openai,google
+216|172.234.12.236|8080|633|anthropic,openai,grok,google
+256|43.162.94.99|1080|240|grok,google,anthropic,openai
+60|163.192.14.135|50161|2591|openai,grok,anthropic
+228|172.234.12.236|8080|519|anthropic,openai,grok,google
+226|193.25.215.182|22222|534|anthropic,openai,grok,google
+255|43.162.94.99|1080|245|grok,openai,anthropic,google
+159|45.89.52.64|1080|1209|anthropic,google,openai,grok
+64|152.228.134.176|48080|1954|openai,grok,google
+60|163.192.14.135|50161|2305|grok,anthropic,google
+60|175.27.250.85|44166|1597|anthropic
+80|144.24.47.42|1080|4432|google,anthropic,grok,openai
+20|103.142.190.78|10808|8423|google
