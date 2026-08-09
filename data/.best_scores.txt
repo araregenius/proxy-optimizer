@@ -4400,3 +4400,16 @@
 211|45.144.54.40|1080|683|google,anthropic,openai,grok
 136|194.233.79.120|1080|1431|anthropic,google,grok,openai
 86|72.56.98.237|1080|1539|grok,google
+240|129.151.9.55|10808|400|google,openai,grok,anthropic
+80|172.234.12.236|8080|2572|anthropic,grok,openai,google
+246|144.24.47.42|1080|332|google,anthropic,openai,grok
+193|43.162.94.99|1080|262|openai
+186|193.25.215.182|22222|532|anthropic,openai
+20|163.192.14.135|50161|7688|google
+186|172.234.12.236|8080|936|anthropic,openai,grok,google
+242|129.151.9.55|10808|373|grok,anthropic,google,openai
+80|155.138.133.163|10001|4660|anthropic,google,openai,grok
+20|193.25.215.182|22222|4417|google
+60|144.24.47.42|1080|2389|grok,openai,anthropic
+40|163.192.14.135|50161|4608|anthropic,google
+237|43.162.94.99|1080|223|anthropic,openai,google
