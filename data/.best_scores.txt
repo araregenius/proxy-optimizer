@@ -4355,3 +4355,14 @@
 20|35.219.147.232|1080|7473|google
 20|175.27.250.85|44020|6230|anthropic
 20|175.27.250.85|44039|6711|anthropic
+254|155.138.133.163|10001|255|anthropic,google,grok,openai
+243|43.162.94.99|1080|369|grok,openai,anthropic,google
+233|129.151.9.55|10808|470|anthropic,google,grok,openai
+231|172.234.12.236|8080|485|anthropic,openai,grok,google
+213|193.25.215.182|22222|665|anthropic,grok,openai,google
+60|163.192.14.135|50161|2406|anthropic,grok,google
+255|155.138.133.163|10001|241|google,anthropic,grok,openai
+244|43.162.94.99|1080|351|anthropic,grok,openai,google
+232|129.151.9.55|10808|477|grok,google,anthropic,openai
+222|172.234.12.236|8080|572|openai,anthropic,grok,google
+201|193.25.215.182|22222|787|openai,anthropic,grok,google
