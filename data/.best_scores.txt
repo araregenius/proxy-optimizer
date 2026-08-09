@@ -4603,3 +4603,13 @@
 0|109.238.95.167|31007|9401|grok,anthropic
 256|129.151.9.55|10808|237|anthropic,grok,google,openai
 20|216.106.179.216|49397|3479|grok
+260|155.138.133.163|10001|197|anthropic,openai,grok,google
+207|193.25.215.182|22222|724|anthropic,grok,openai,google
+235|129.151.9.55|10808|449|google,anthropic,openai,grok
+231|43.162.94.99|1080|481|anthropic,openai,google,grok
+80|163.192.14.135|50161|4668|grok,anthropic,google,openai
+260|155.138.133.163|10001|197|anthropic,google,openai,grok
+229|43.162.94.99|1080|506|anthropic,grok,google,openai
+209|193.25.215.182|22222|706|anthropic,grok,openai,google
+211|129.151.9.55|10808|686|google,anthropic,openai,grok
+198|163.192.14.135|50161|811|google,openai,grok,anthropic
