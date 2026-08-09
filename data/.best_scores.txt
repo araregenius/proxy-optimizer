@@ -4413,3 +4413,12 @@
 60|144.24.47.42|1080|2389|grok,openai,anthropic
 40|163.192.14.135|50161|4608|anthropic,google
 237|43.162.94.99|1080|223|anthropic,openai,google
+243|129.151.9.55|10808|368|anthropic,google,grok,openai
+80|163.192.14.135|50161|4338|anthropic,grok,google,openai
+82|144.24.47.42|1080|1374|google
+91|193.25.215.182|22222|1684|anthropic,grok,openai
+0|155.138.133.163|10001|10123|anthropic,google,grok,openai
+242|129.151.9.55|10808|380|google,grok,anthropic,openai
+80|155.138.133.163|10001|3465|grok,google,openai,anthropic
+212|43.162.94.99|1080|272|openai,grok
+93|193.25.215.182|22222|1661|anthropic,grok,openai
