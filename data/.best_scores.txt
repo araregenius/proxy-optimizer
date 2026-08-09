@@ -4563,3 +4563,15 @@
 227|129.151.9.55|10808|525|grok,anthropic,google,openai
 20|144.24.47.42|1080|3516|openai
 147|163.192.14.135|50161|722|google
+265|172.234.12.236|8080|142|anthropic,openai,grok,google
+208|43.162.94.99|1080|515|anthropic,openai,google
+204|129.151.9.55|10808|751|google,openai,anthropic,grok
+80|155.138.133.163|10001|5118|anthropic,google,openai,grok
+80|163.192.14.135|50161|4584|openai,grok,google,anthropic
+80|193.25.215.182|22222|4314|grok,openai,anthropic,google
+226|43.162.94.99|1080|534|google,grok,anthropic,openai
+163|155.138.133.163|10001|1169|anthropic,grok,openai,google
+140|193.25.215.182|22222|1392|anthropic,grok,google,openai
+80|172.234.12.236|8080|3169|grok,anthropic,openai,google
+180|163.192.14.135|50161|797|anthropic,grok,google
+71|144.24.47.42|1080|1481|grok
