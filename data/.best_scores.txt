@@ -4503,3 +4503,10 @@
 20|144.24.47.42|1080|4540|google
 60|163.192.14.135|50161|3550|grok,anthropic,google
 40|58.186.168.155|1081|5361|anthropic,google
+80|129.151.9.55|10808|2400|google,anthropic,grok,openai
+181|193.25.215.182|22222|984|anthropic,openai,grok,google
+208|43.162.94.99|1080|316|grok,anthropic
+180|144.24.47.42|1080|399|grok
+244|129.151.9.55|10808|356|grok,google,openai,anthropic
+212|193.25.215.182|22222|677|anthropic,openai,grok,google
+234|43.162.94.99|1080|259|google,openai,grok
