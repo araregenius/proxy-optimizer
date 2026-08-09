@@ -4448,3 +4448,12 @@
 108|193.25.215.182|22222|1715|anthropic,grok,openai,google
 227|43.162.94.99|1080|529|anthropic,grok,google,openai
 72|163.192.14.135|50161|1479|grok
+208|193.25.215.182|22222|719|anthropic,grok,openai,google
+238|129.151.9.55|10808|420|google,grok,anthropic,openai
+20|43.162.94.99|1080|4542|google
+60|163.192.14.135|50161|3508|google,anthropic,grok
+233|129.151.9.55|10808|463|anthropic,openai,grok,google
+207|193.25.215.182|22222|722|anthropic,grok,openai,google
+211|43.162.94.99|1080|689|google,grok,anthropic,openai
+175|144.24.47.42|1080|444|openai
+195|163.192.14.135|50161|441|anthropic,google
