@@ -4510,3 +4510,15 @@
 244|129.151.9.55|10808|356|grok,google,openai,anthropic
 212|193.25.215.182|22222|677|anthropic,openai,grok,google
 234|43.162.94.99|1080|259|google,openai,grok
+246|43.162.94.99|1080|333|anthropic,google,grok,openai
+237|129.151.9.55|10808|427|anthropic,grok,openai,google
+96|172.234.12.236|8080|1839|anthropic,openai,grok,google
+210|193.25.215.182|22222|694|anthropic,grok,openai,google
+80|155.138.133.163|10001|6065|anthropic,google,openai,grok
+60|163.192.14.135|50161|4404|anthropic,grok,google
+246|43.162.94.99|1080|331|anthropic,grok,openai,google
+235|129.151.9.55|10808|444|grok,anthropic,google,openai
+141|163.192.14.135|50161|1387|anthropic,grok,google,openai
+97|172.234.12.236|8080|1829|grok,anthropic,openai,google
+206|193.25.215.182|22222|740|grok,anthropic,openai,google
+203|155.138.133.163|10001|564|anthropic,grok,openai
