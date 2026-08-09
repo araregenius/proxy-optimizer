@@ -4575,3 +4575,13 @@
 80|172.234.12.236|8080|3169|grok,anthropic,openai,google
 180|163.192.14.135|50161|797|anthropic,grok,google
 71|144.24.47.42|1080|1481|grok
+253|43.162.94.99|1080|264|grok,openai,google,anthropic
+80|172.234.12.236|8080|2622|openai,anthropic,grok,google
+252|163.192.14.135|50161|280|grok,openai,anthropic,google
+20|193.25.215.182|22222|2017|grok
+80|129.151.9.55|10808|3680|grok,anthropic,openai,google
+254|43.162.94.99|1080|259|grok,openai,google,anthropic
+119|129.151.9.55|10808|1603|anthropic,grok,google,openai
+232|163.192.14.135|50161|276|anthropic,grok,openai
+80|193.25.215.182|22222|2106|anthropic,grok,openai,google
+60|172.234.12.236|8080|8327|anthropic,openai,google
