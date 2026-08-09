@@ -4613,3 +4613,15 @@
 209|193.25.215.182|22222|706|anthropic,grok,openai,google
 211|129.151.9.55|10808|686|google,anthropic,openai,grok
 198|163.192.14.135|50161|811|google,openai,grok,anthropic
+211|193.25.215.182|22222|686|grok,anthropic,openai,google
+171|172.234.12.236|8080|1082|openai,grok,anthropic,google
+231|155.138.133.163|10001|486|anthropic,openai,grok,google
+254|43.162.94.99|1080|255|google,openai,anthropic,grok
+80|129.151.9.55|10808|3794|anthropic,grok,google,openai
+20|144.24.47.42|1080|2488|grok
+40|163.192.14.135|50161|3615|anthropic,google
+257|43.162.94.99|1080|229|anthropic,grok,google,openai
+152|155.138.133.163|10001|1279|anthropic,openai,google,grok
+80|144.24.47.42|1080|3389|google,anthropic,grok,openai
+226|193.25.215.182|22222|532|anthropic,grok,openai,google
+80|144.76.166.41|57170|4878|google,grok,anthropic,openai
