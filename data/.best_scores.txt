@@ -4812,3 +4812,10 @@
 158|129.151.9.55|10808|1216|google,openai,anthropic,grok
 235|163.192.14.135|50161|243|google,anthropic,grok
 20|43.162.94.99|1080|3497|openai
+113|129.151.9.55|10808|1661|anthropic,openai,grok,google
+140|43.162.94.99|1080|997|anthropic,grok
+20|193.25.215.182|22222|5502|openai
+240|129.151.9.55|10808|395|grok,google,anthropic,openai
+215|43.162.94.99|1080|450|google,openai,grok
+90|163.192.14.135|50161|1694|grok,anthropic,google
+40|193.25.215.182|22222|4761|openai,grok
