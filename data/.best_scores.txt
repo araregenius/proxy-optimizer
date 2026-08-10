@@ -4784,3 +4784,12 @@
 257|43.162.94.99|1080|223|google,openai,anthropic,grok
 117|163.192.14.135|50161|1229|openai,anthropic
 60|129.151.9.55|10808|4225|anthropic,google,grok
+216|43.162.94.99|1080|240|grok,google
+105|163.192.14.135|50161|1546|anthropic,google,grok
+224|129.151.9.55|10808|158|google,anthropic
+40|144.24.47.42|1080|7350|google,openai
+248|43.162.94.99|1080|319|anthropic,openai,google,grok
+259|129.151.9.55|10808|208|grok,anthropic,google,openai
+210|163.192.14.135|50161|495|anthropic,grok,google
+20|176.120.84.29|1080|5608|openai
+60|87.255.226.112|1080|4995|anthropic,grok,openai
