@@ -1,10 +1,10 @@
 # Verified SOCKS5 Proxies
-> Updated: 2026-08-09T23:55:18Z
+> Updated: 2026-08-10T00:54:41Z
 
 ## Stats
-- Pool size: 596
-- Tested this run: 16
-- Total tested all runs: 13981
+- Pool size: 545
+- Tested this run: 18
+- Total tested all runs: 13999
 - In TOP 20: 20
 
 ## Subscribe
