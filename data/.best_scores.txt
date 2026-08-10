@@ -4732,3 +4732,13 @@
 264|129.151.9.55|10808|154|google,openai,anthropic,grok
 203|172.234.12.236|8080|768|anthropic,openai,grok,google
 169|163.192.14.135|50161|501|google
+80|172.234.12.236|8080|3632|grok,openai,anthropic,google
+80|163.192.14.135|50161|3638|openai,grok,anthropic,google
+60|193.25.215.182|22222|4797|grok,anthropic,openai
+194|193.25.215.182|22222|857|anthropic,grok,google,openai
+60|157.245.196.151|9090|3472|anthropic,google,grok
+20|163.192.14.135|50161|4890|grok
+40|178.128.82.131|10808|2609|openai,google
+80|165.154.20.187|10808|2184|google,grok,openai,anthropic
+20|43.162.94.99|1080|2656|grok
+60|95.181.213.41|10808|2633|anthropic,grok,openai
