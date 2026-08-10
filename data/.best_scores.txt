@@ -4844,3 +4844,13 @@
 158|47.80.27.150|1080|1213|anthropic,grok,google,openai
 60|43.162.94.99|1080|2601|anthropic,grok,openai
 235|129.151.9.55|10808|449|google,grok,openai,anthropic
+262|43.162.94.99|1080|173|grok,openai,google,anthropic
+246|193.25.215.182|22222|333|anthropic,grok,openai,google
+167|163.192.14.135|50161|1129|anthropic,grok,openai,google
+227|129.151.9.55|10808|326|openai,anthropic,google
+206|138.128.247.206|1080|538|anthropic,google,grok
+267|43.162.94.99|1080|125|grok,google,anthropic,openai
+243|193.25.215.182|22222|365|grok,openai,anthropic,google
+221|138.128.247.206|1080|583|anthropic,openai,google,grok
+114|129.151.9.55|10808|1254|grok,anthropic
+60|163.192.14.135|50161|3182|grok,google,openai
