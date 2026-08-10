@@ -4819,3 +4819,11 @@
 215|43.162.94.99|1080|450|google,openai,grok
 90|163.192.14.135|50161|1694|grok,anthropic,google
 40|193.25.215.182|22222|4761|openai,grok
+232|163.192.14.135|50161|480|anthropic,google,openai,grok
+111|193.25.215.182|22222|1682|anthropic,grok,openai,google
+190|43.162.94.99|1080|495|grok,openai
+20|129.151.9.55|10808|3867|anthropic
+235|129.151.9.55|10808|447|anthropic,google,grok,openai
+60|193.25.215.182|22222|3678|anthropic,grok,openai
+20|43.162.94.99|1080|3845|openai
+20|163.192.14.135|50161|2447|grok
