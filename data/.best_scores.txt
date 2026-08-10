@@ -4759,3 +4759,11 @@
 40|176.65.151.112|9080|2668|google,grok
 63|163.192.14.135|50161|1565|grok
 20|115.196.169.202|7890|3208|anthropic
+233|129.151.9.55|10808|470|openai,google,anthropic,grok
+251|43.162.94.99|1080|288|anthropic,grok,google,openai
+201|193.25.215.182|22222|787|anthropic,grok,google,openai
+20|163.192.14.135|50161|3417|openai
+234|129.151.9.55|10808|460|google,anthropic,grok,openai
+212|193.25.215.182|22222|680|anthropic,grok,openai,google
+225|43.162.94.99|1080|346|openai,google,anthropic
+20|163.192.14.135|50161|5390|anthropic
