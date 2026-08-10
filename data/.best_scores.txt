@@ -4860,3 +4860,11 @@
 211|193.25.215.182|22222|686|anthropic,grok,google,openai
 106|129.151.9.55|10808|1736|anthropic,google,grok,openai
 105|43.162.94.99|1080|1550|anthropic,openai,grok
+247|193.25.215.182|22222|326|anthropic,grok,openai,google
+260|43.162.94.99|1080|196|anthropic,grok,google,openai
+265|129.151.9.55|10808|143|anthropic,google,openai,grok
+20|163.192.14.135|50161|5311|grok
+265|129.151.9.55|10808|149|anthropic,google,grok,openai
+240|193.25.215.182|22222|399|anthropic,grok,openai,google
+233|43.162.94.99|1080|264|openai,google,grok
+165|163.192.14.135|50161|942|google,grok,anthropic
