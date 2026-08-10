@@ -4793,3 +4793,14 @@
 210|163.192.14.135|50161|495|anthropic,grok,google
 20|176.120.84.29|1080|5608|openai
 60|87.255.226.112|1080|4995|anthropic,grok,openai
+208|193.25.215.182|22222|711|anthropic,grok,openai,google
+215|129.151.9.55|10808|641|google,anthropic,openai,grok
+228|43.162.94.99|1080|519|grok,anthropic,google,openai
+165|163.192.14.135|50161|542|openai
+234|129.151.9.55|10808|460|grok,anthropic,google,openai
+211|193.25.215.182|22222|686|grok,anthropic,openai,google
+138|43.156.84.41|10808|1420|anthropic,google,grok,openai
+80|93.91.162.222|1080|2701|anthropic,openai,grok,google
+226|43.162.94.99|1080|531|grok,openai,google,anthropic
+85|111.252.114.4|1080|1742|anthropic,grok,openai
+36|163.192.14.135|50161|1833|google
