@@ -4804,3 +4804,11 @@
 226|43.162.94.99|1080|531|grok,openai,google,anthropic
 85|111.252.114.4|1080|1742|anthropic,grok,openai
 36|163.192.14.135|50161|1833|google
+217|163.192.14.135|50161|421|openai,google,grok
+106|193.25.215.182|22222|1338|anthropic,grok
+127|43.162.94.99|1080|1124|google,grok
+60|129.151.9.55|10808|4297|grok,google,anthropic
+236|193.25.215.182|22222|436|openai,anthropic,google,grok
+158|129.151.9.55|10808|1216|google,openai,anthropic,grok
+235|163.192.14.135|50161|243|google,anthropic,grok
+20|43.162.94.99|1080|3497|openai
