@@ -4911,3 +4911,10 @@
 213|193.25.215.182|22222|665|anthropic,grok,openai,google
 210|129.151.9.55|10808|694|anthropic,google,openai,grok
 155|43.162.94.99|1080|843|anthropic,grok
+209|193.25.215.182|22222|707|anthropic,grok,openai,google
+102|43.162.94.99|1080|1579|openai,anthropic,google
+60|129.151.9.55|10808|3816|google,grok,anthropic
+229|43.162.94.99|1080|505|grok,openai,anthropic,google
+80|129.151.9.55|10808|2777|anthropic,grok,google,openai
+82|193.25.215.182|22222|1776|anthropic,grok,google
+80|163.192.14.135|50161|4658|google,anthropic,grok,openai
