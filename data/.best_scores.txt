@@ -4977,3 +4977,15 @@
 20|116.104.53.235|1046|5611|openai
 20|134.122.199.224|10001|7274|google
 60|116.104.53.235|1085|6233|grok,openai,anthropic
+240|45.32.160.61|1088|395|anthropic,google,openai,grok
+216|193.25.215.182|22222|633|anthropic,grok,openai,google
+20|144.24.47.42|1080|2380|grok
+234|43.162.94.99|1080|260|openai,grok,google
+80|129.151.9.55|10808|2396|google,grok,openai,anthropic
+60|163.192.14.135|50161|2800|anthropic,google,grok
+236|45.32.160.61|1088|439|anthropic,google,openai,grok
+208|193.25.215.182|22222|714|anthropic,grok,openai,google
+80|144.24.47.42|1080|3417|google,anthropic,grok,openai
+234|43.162.94.99|1080|252|google,anthropic,openai
+60|129.151.9.55|10808|3669|grok,google,openai
+20|163.192.14.135|50161|3788|anthropic
