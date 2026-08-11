@@ -4904,3 +4904,10 @@
 211|193.25.215.182|22222|684|anthropic,grok,openai,google
 125|43.162.94.99|1080|1341|google,grok,anthropic
 214|129.151.9.55|10808|456|google,anthropic,grok
+226|43.162.94.99|1080|536|grok,google,openai,anthropic
+208|193.25.215.182|22222|715|anthropic,grok,openai,google
+233|129.151.9.55|10808|461|google,grok,anthropic,openai
+187|163.192.14.135|50161|528|grok,google
+213|193.25.215.182|22222|665|anthropic,grok,openai,google
+210|129.151.9.55|10808|694|anthropic,google,openai,grok
+155|43.162.94.99|1080|843|anthropic,grok
