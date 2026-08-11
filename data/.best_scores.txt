@@ -5001,3 +5001,17 @@
 229|43.162.94.99|1080|305|anthropic,openai,grok
 151|129.151.9.55|10808|1287|grok,google,anthropic,openai
 175|163.192.14.135|50161|1045|anthropic,grok,google,openai
+244|45.32.160.61|1088|352|google,openai,anthropic,grok
+195|193.25.215.182|22222|841|grok,anthropic,google,openai
+233|144.24.47.42|1080|462|grok,openai,google,anthropic
+223|43.162.94.99|1080|563|openai,google,grok,anthropic
+60|163.192.14.135|50161|5859|google,grok,anthropic
+196|129.151.9.55|10808|437|grok,anthropic
+238|45.32.160.61|1088|420|anthropic,openai,google,grok
+236|129.151.9.55|10808|438|google,anthropic,openai,grok
+204|193.25.215.182|22222|752|anthropic,grok,openai,google
+20|38.180.235.32|1080|2166|openai
+102|43.162.94.99|1080|1574|google,grok,anthropic
+64|144.24.47.42|1080|1551|grok
+20|58.186.168.155|1071|7845|openai
+40|163.192.14.135|50161|5116|google,grok
