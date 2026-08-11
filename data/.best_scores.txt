@@ -4868,3 +4868,12 @@
 240|193.25.215.182|22222|399|anthropic,grok,openai,google
 233|43.162.94.99|1080|264|openai,google,grok
 165|163.192.14.135|50161|942|google,grok,anthropic
+173|138.128.247.206|1080|1066|google,openai,grok,anthropic
+111|193.25.215.182|22222|1682|anthropic,grok,openai,google
+40|43.162.94.99|1080|3569|anthropic,grok
+224|5.78.44.212|1080|552|grok,google,openai,anthropic
+208|193.25.215.182|22222|715|anthropic,openai,google,grok
+84|138.128.247.206|1080|1958|grok,openai,google,anthropic
+40|163.192.14.135|50161|3560|google,grok
+80|129.151.9.55|10808|1799|grok,google,openai
+184|43.162.94.99|1080|760|google,grok,anthropic
