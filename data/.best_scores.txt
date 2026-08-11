@@ -4942,3 +4942,12 @@
 20|163.192.14.135|50161|4445|anthropic
 0|175.27.250.85|44050|9519|anthropic
 0|132.243.19.168|1080|12946|openai
+207|193.25.215.182|22222|725|anthropic,grok,openai,google
+80|163.192.14.135|50161|3849|grok,anthropic,google,openai
+80|129.151.9.55|10808|2540|openai,google,anthropic,grok
+226|43.162.94.99|1080|538|openai,google,grok,anthropic
+133|144.24.47.42|1080|1466|grok,google,openai,anthropic
+214|193.25.215.182|22222|653|anthropic,grok,openai,google
+235|129.151.9.55|10808|446|grok,anthropic,google,openai
+178|144.24.47.42|1080|412|google
+189|43.162.94.99|1080|502|anthropic,grok
