@@ -5065,3 +5065,14 @@
 234|129.151.9.55|10808|458|grok,anthropic,google,openai
 203|43.162.94.99|1080|363|openai,grok
 178|144.24.47.42|1080|420|google
+244|45.32.160.61|1088|359|google,anthropic,openai,grok
+208|193.25.215.182|22222|720|anthropic,grok,openai,google
+228|43.162.94.99|1080|511|grok,openai,anthropic,google
+41|163.192.14.135|50161|1787|grok
+60|129.151.9.55|10808|2522|grok,openai,anthropic
+20|144.24.47.42|1080|4505|anthropic
+240|45.32.160.61|1088|396|anthropic,openai,grok,google
+208|193.25.215.182|22222|716|anthropic,openai,grok,google
+222|43.162.94.99|1080|571|openai,anthropic,grok,google
+133|129.151.9.55|10808|1463|google,anthropic,grok,openai
+202|163.192.14.135|50161|574|google,anthropic,openai
