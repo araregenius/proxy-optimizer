@@ -5031,3 +5031,15 @@
 238|144.24.47.42|1080|417|google,openai,anthropic,grok
 46|43.162.94.99|1080|1936|google,openai
 181|194.163.174.78|1090|787|grok,google,anthropic
+219|45.32.160.61|1088|609|anthropic,google,openai,grok
+135|163.192.14.135|50161|1442|google,openai,grok,anthropic
+212|193.25.215.182|22222|679|grok,anthropic,openai,google
+216|129.151.9.55|10808|640|grok,anthropic,openai,google
+135|144.24.47.42|1080|1442|grok,openai,google,anthropic
+236|43.162.94.99|1080|235|grok,openai,anthropic
+249|163.192.14.135|50161|305|google,grok,openai,anthropic
+222|45.32.160.61|1088|575|google,anthropic,openai,grok
+116|129.151.9.55|10808|1637|anthropic,grok,google,openai
+40|43.162.94.99|1080|2537|google,anthropic
+40|144.24.47.42|1080|4416|google,openai
+93|193.25.215.182|22222|1667|anthropic,grok,openai
