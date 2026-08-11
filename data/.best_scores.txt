@@ -5116,3 +5116,14 @@
 229|43.162.94.99|1080|508|anthropic,google,openai,grok
 60|129.151.9.55|10808|2785|grok,google,anthropic
 76|49.51.229.43|1080|1837|openai,anthropic,grok
+227|45.32.160.61|1088|525|anthropic,grok,openai,google
+243|193.25.215.182|22222|368|grok,openai,anthropic,google
+80|163.192.14.135|50161|2528|google,grok,anthropic,openai
+136|43.162.94.99|1080|1233|google,grok,anthropic
+104|129.151.9.55|10808|1159|anthropic
+20|144.24.47.42|1080|5329|anthropic
+239|45.32.160.61|1088|405|anthropic,openai,grok,google
+251|163.192.14.135|50161|283|grok,google,openai,anthropic
+60|129.151.9.55|10808|4233|openai,anthropic,grok
+223|193.25.215.182|22222|361|anthropic,grok,openai
+20|43.162.94.99|1080|3330|openai
