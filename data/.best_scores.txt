@@ -4951,3 +4951,13 @@
 235|129.151.9.55|10808|446|grok,anthropic,google,openai
 178|144.24.47.42|1080|412|google
 189|43.162.94.99|1080|502|anthropic,grok
+251|193.25.215.182|22222|284|grok,anthropic,openai,google
+162|163.192.14.135|50161|1176|google,openai,anthropic,grok
+80|43.162.94.99|1080|2187|grok,anthropic,google,openai
+40|129.151.9.55|10808|4664|anthropic,google
+60|144.24.47.42|1080|2348|grok,google,anthropic
+136|193.25.215.182|22222|1436|anthropic,grok,openai,google
+80|144.24.47.42|1080|4325|google,openai,anthropic,grok
+40|43.162.94.99|1080|3200|google,grok
+80|129.151.9.55|10808|4407|openai,grok,anthropic,google
+60|163.192.14.135|50161|2443|grok,google,anthropic
