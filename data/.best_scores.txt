@@ -5053,3 +5053,15 @@
 163|43.162.94.99|1080|769|openai,anthropic
 117|163.192.14.135|50161|1627|anthropic,grok,google,openai
 40|193.25.215.182|22222|6001|grok,openai
+235|45.32.160.61|1088|446|anthropic,google,openai,grok
+159|193.25.215.182|22222|1205|google,anthropic,grok,openai
+193|144.24.47.42|1080|462|openai,grok
+40|43.162.94.99|1080|3395|anthropic,openai
+20|163.192.14.135|50161|2421|openai
+20|129.151.9.55|10808|3787|grok
+235|45.32.160.61|1088|449|anthropic,openai,google,grok
+202|163.192.14.135|50161|777|grok,google,anthropic,openai
+177|193.25.215.182|22222|1022|anthropic,openai,google,grok
+234|129.151.9.55|10808|458|grok,anthropic,google,openai
+203|43.162.94.99|1080|363|openai,grok
+178|144.24.47.42|1080|420|google
