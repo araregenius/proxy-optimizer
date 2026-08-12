@@ -5306,3 +5306,11 @@
 204|193.25.215.182|22222|551|anthropic,grok,openai
 40|163.192.14.135|50161|4556|anthropic,grok
 60|129.151.9.55|10808|4672|grok,google,anthropic
+231|129.151.9.55|10808|490|openai,google,grok,anthropic
+183|193.25.215.182|22222|969|anthropic,grok,openai,google
+246|43.162.94.99|1080|331|grok,openai,anthropic,google
+126|163.192.14.135|50161|1335|anthropic,openai,grok
+198|193.25.215.182|22222|816|anthropic,grok,openai,google
+199|129.151.9.55|10808|806|google,grok,openai,anthropic
+227|43.162.94.99|1080|324|anthropic,grok,google
+85|163.192.14.135|50161|1944|google,grok,openai,anthropic
