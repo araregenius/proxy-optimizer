@@ -5239,3 +5239,14 @@
 40|5.101.231.161|10808|6473|grok,google
 20|171.253.95.24|1081|6857|google
 40|171.253.92.42|1088|6369|openai,anthropic
+227|45.32.160.61|1088|522|anthropic,openai,google,grok
+241|193.25.215.182|22222|384|openai,anthropic,grok,google
+236|129.151.9.55|10808|237|grok,anthropic,google
+40|163.192.14.135|50161|2487|anthropic,grok
+60|144.24.47.42|1080|6388|google,openai,anthropic
+106|43.162.94.99|1080|1138|openai
+225|45.32.160.61|1088|542|anthropic,google,openai,grok
+245|193.25.215.182|22222|345|grok,anthropic,openai,google
+20|163.192.14.135|50161|4186|anthropic
+145|43.162.94.99|1080|1145|anthropic,google,grok
+40|129.151.9.55|10808|4577|google,anthropic
