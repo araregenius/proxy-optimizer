@@ -5314,3 +5314,11 @@
 199|129.151.9.55|10808|806|google,grok,openai,anthropic
 227|43.162.94.99|1080|324|anthropic,grok,google
 85|163.192.14.135|50161|1944|google,grok,openai,anthropic
+244|193.25.215.182|22222|359|anthropic,grok,openai,google
+20|129.151.9.55|10808|3582|anthropic
+215|43.162.94.99|1080|243|google,grok
+127|144.24.47.42|1080|1322|openai,anthropic,google
+253|129.151.9.55|10808|267|anthropic,openai,grok,google
+255|193.25.215.182|22222|244|anthropic,grok,openai,google
+126|43.162.94.99|1080|1132|anthropic,google
+60|144.24.47.42|1080|4336|anthropic,grok,openai
