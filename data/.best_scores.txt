@@ -5213,3 +5213,11 @@
 161|163.192.14.135|50161|790|anthropic,google
 65|43.162.94.99|1080|1544|google
 40|216.106.179.216|49224|2233|google,openai
+226|45.32.160.61|1088|538|anthropic,google,grok,openai
+194|163.192.14.135|50161|852|google,anthropic,grok,openai
+46|43.162.94.99|1080|1737|google
+40|193.25.215.182|22222|4906|grok,openai
+245|45.32.160.61|1088|347|anthropic,google,openai,grok
+167|163.192.14.135|50161|926|anthropic,google,grok
+60|193.25.215.182|22222|2149|grok,anthropic,openai
+40|43.162.94.99|1080|3535|grok,openai
