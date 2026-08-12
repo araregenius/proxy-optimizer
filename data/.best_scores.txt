@@ -5185,3 +5185,11 @@
 80|193.25.215.182|22222|3179|grok,anthropic,openai,google
 74|5.249.165.195|20000|1655|anthropic,google
 178|43.162.94.99|1080|813|openai,grok,anthropic
+233|45.32.160.61|1088|467|anthropic,openai,google,grok
+80|193.25.215.182|22222|3001|anthropic,grok,openai,google
+72|163.192.14.135|50161|1873|anthropic,google,openai
+60|43.162.94.99|1080|3646|openai,google,grok
+236|45.32.160.61|1088|432|anthropic,google,openai,grok
+226|43.162.94.99|1080|538|grok,anthropic,google,openai
+80|193.25.215.182|22222|2188|anthropic,openai,grok,google
+100|163.192.14.135|50161|1592|google,openai,grok
