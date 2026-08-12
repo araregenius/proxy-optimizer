@@ -5250,3 +5250,13 @@
 20|163.192.14.135|50161|4186|anthropic
 145|43.162.94.99|1080|1145|anthropic,google,grok
 40|129.151.9.55|10808|4577|google,anthropic
+221|45.32.160.61|1088|587|openai,google,anthropic,grok
+226|129.151.9.55|10808|536|anthropic,grok,google,openai
+147|193.25.215.182|22222|1325|anthropic,grok,openai,google
+80|144.24.47.42|1080|3275|google,anthropic,openai,grok
+223|45.32.160.61|1088|567|google,anthropic,openai,grok
+80|144.24.47.42|1080|3333|google,anthropic,openai,grok
+255|129.151.9.55|10808|243|google,openai,anthropic,grok
+40|43.162.94.99|1080|3208|grok,openai
+106|193.25.215.182|22222|1738|grok,openai,anthropic,google
+40|163.192.14.135|50161|2606|grok,google
