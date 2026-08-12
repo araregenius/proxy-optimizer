@@ -5322,3 +5322,10 @@
 255|193.25.215.182|22222|244|anthropic,grok,openai,google
 126|43.162.94.99|1080|1132|anthropic,google
 60|144.24.47.42|1080|4336|anthropic,grok,openai
+204|193.25.215.182|22222|753|grok,anthropic,openai,google
+125|43.162.94.99|1080|1543|anthropic,google,grok,openai
+89|129.151.9.55|10808|1509|openai,google
+187|193.25.215.182|22222|923|anthropic,grok,openai,google
+149|163.192.14.135|50161|703|google
+192|43.162.94.99|1080|676|google,grok,anthropic
+45|129.151.9.55|10808|1943|google,grok
