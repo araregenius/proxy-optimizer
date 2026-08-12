@@ -5298,3 +5298,11 @@
 80|89.208.106.37|32712|5534|openai,anthropic,google,grok
 244|129.151.9.55|10808|358|anthropic,grok,openai,google
 20|178.72.151.170|2080|4279|grok
+93|129.151.9.55|10808|1270|openai
+20|43.162.94.99|1080|3171|anthropic
+229|193.25.215.182|22222|505|grok,anthropic,openai,google
+60|163.192.14.135|50161|4295|grok,google,anthropic
+40|43.162.94.99|1080|2182|grok,openai
+204|193.25.215.182|22222|551|anthropic,grok,openai
+40|163.192.14.135|50161|4556|anthropic,grok
+60|129.151.9.55|10808|4672|grok,google,anthropic
