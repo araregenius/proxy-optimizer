@@ -5193,3 +5193,13 @@
 226|43.162.94.99|1080|538|grok,anthropic,google,openai
 80|193.25.215.182|22222|2188|anthropic,openai,grok,google
 100|163.192.14.135|50161|1592|google,openai,grok
+246|129.151.9.55|10808|340|anthropic,grok,google,openai
+234|45.32.160.61|1088|453|anthropic,openai,grok,google
+196|163.192.14.135|50161|833|anthropic,grok,openai,google
+197|193.25.215.182|22222|625|grok,anthropic,openai
+197|43.162.94.99|1080|228|anthropic
+245|129.151.9.55|10808|341|grok,anthropic,google,openai
+233|45.32.160.61|1088|462|anthropic,openai,google,grok
+185|193.25.215.182|22222|942|anthropic,grok,openai,google
+204|163.192.14.135|50161|557|grok,google,anthropic
+20|43.162.94.99|1080|3314|anthropic
