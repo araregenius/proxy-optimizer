@@ -1650,6 +1650,6 @@
 195|151.243.224.12|1080|850|anthropic,google,openai,grok
 80|171.253.95.238|1054|3353|grok,openai,google,anthropic
 80|43.252.237.169|1080|2649|google,openai,grok,anthropic
-236|64.83.12.6|1080|432|anthropic,grok,openai,google
 80|116.96.32.160|1111|5443|google,anthropic,grok,openai
 40|117.8.140.33|1080|2028|google,grok
+137|64.83.12.6|1080|1228|anthropic,google,openai
