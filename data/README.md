@@ -1,10 +1,10 @@
 # Verified SOCKS5 Proxies
-> Updated: 2026-08-13T05:15:31Z
+> Updated: 2026-08-13T06:03:05Z
 
 ## Stats
 - Pool size: 486
-- Tested this run: 26
-- Total tested all runs: 15256
+- Tested this run: 5
+- Total tested all runs: 10356
 - In TOP 20: 20
 
 ## Subscribe
@@ -19,5 +19,5 @@ Each reachable target +20 (google/openai/anthropic/grok — all equal weight)
 - Parallel fetch from 6 sources
 - Previous TOP 20 retested first every run
 - Concurrent probe of all 4 targets per proxy
-- Reachability = TCP+TLS handshake success (not 2xx)
+- Success requires a usable HTTP response; 403/407/5xx are rejected
 - State persisted in data/.tested and data/.best_scores.txt (committed to repo)
