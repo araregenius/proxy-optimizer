@@ -54,7 +54,7 @@ import requests
 
 # 从 CDN 取最优代理
 resp = requests.get("https://cdn.jsdelivr.net/gh/araregenius/proxy-optimizer/main/data/verified.txt")
-best = resp.text.split("\n")[0].split(" ")[0]  # socks5://ip:port
+best = resp.text.split("\n")[0].split(" ")[0]  # socks5h://ip:port (DNS resolved by proxy)
 
 proxies = {"http": best, "https": best}
 requests.get("https://api.openai.com/...", proxies=proxies)
@@ -78,7 +78,7 @@ requests.get("https://api.openai.com/...", proxies=proxies)
 | Anthropic | https://api.anthropic.com/v1/messages | +20 |
 | Grok | https://api.x.ai/v1/models | +20 |
 
-> **连通标准**：TCP + TLS 握手成功即算连通（不要求 HTTP 2xx）。只要能到达目标服务器并完成 TLS 握手，就视为可达。
+> **连通标准**：必须通过代理完成 TLS，并收到可用的 HTTP 响应；`403`、`407`、`5xx` 和无响应会被排除。API 的 `401/404/405/422` 可作为“已到达目标”的证据。输出使用 `socks5h://`，由代理解析目标域名。
 
 **评分公式**：
 - 基准分 = `max(0, (1000 - 最低延迟ms) / 10 + 100)`

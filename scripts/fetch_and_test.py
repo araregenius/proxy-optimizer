@@ -5,7 +5,8 @@ Key behaviours:
 - 6 sources fetched in parallel (ThreadPoolExecutor)
 - Previous TOP 20 retested FIRST every run — dead ones evicted, live ones re-scored
 - All 4 targets (google/openai/anthropic/grok) tested concurrently per proxy
-- Reachability = TCP+TLS handshake success (code != 0), NOT 2xx
+- Target success requires a valid HTTP response; proxy-auth failures, 5xx, and blocked responses are rejected
+- SOCKS5 remote DNS is used so local DNS does not affect the result
 - All 4 targets weighted equally: +20 each
 - .tested / .best_scores.txt stored in data/ and committed to repo
 - Batch writes: data files flushed after every batch, not every single proxy
@@ -26,8 +27,9 @@ except ImportError:
 
 OUTPUT_DIR   = "data"
 BATCH        = 30
-TIMEOUT      = 5
+TIMEOUT      = 8
 RUN_LIMIT    = 1440
+MAX_RESPONSE_BYTES = 4096
 BATCH_GAP    = 0.5
 
 TESTED_FILE       = f"{OUTPUT_DIR}/.tested"
@@ -52,7 +54,25 @@ ALL_TARGETS = [
     ("grok",      "https://api.x.ai/v1/models"),
 ]
 
-IP_PORT_RE = re.compile(r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d{1,5}")
+IP_PORT_RE = re.compile(r"(?<![\d.])(?:\d{1,3}\.){3}\d{1,3}:\d{1,5}(?!\d)")
+
+
+def valid_proxy(value):
+    try:
+        host, port_s = value.rsplit(":", 1)
+        octets = host.split(".")
+        port = int(port_s)
+        return len(octets) == 4 and all(0 <= int(o) <= 255 for o in octets) and 1 <= port <= 65535
+    except (ValueError, TypeError):
+        return False
+
+
+def target_response_is_usable(name, code):
+    if code == 407 or code == 0 or code >= 500 or code == 403:
+        return False
+    if name == "google":
+        return 200 <= code < 400
+    return code in {200, 201, 204, 400, 401, 404, 405, 422}
 
 _total   = 0
 _scanned = 0
@@ -85,7 +105,8 @@ def _path_of(url):
 def socks_probe(host, port, url, timeout):
     try:
         s = socks.socksocket()
-        s.set_proxy(socks.SOCKS5, host, port)
+        # Let the SOCKS5 server resolve target hostnames.
+        s.set_proxy(socks.SOCKS5, host, port, rdns=True)
         s.settimeout(timeout)
         start = time.time()
         s.connect((_host_of(url), 443))
@@ -98,10 +119,11 @@ def socks_probe(host, port, url, timeout):
             "Connection: close\r\n\r\n"
         ).encode()
         ss.sendall(req)
-        resp = ss.recv(4096)
+        resp = ss.recv(MAX_RESPONSE_BYTES)
         lat = int((time.time() - start) * 1000)
         ss.close()
-        code = int(resp.split(b" ")[1]) if len(resp.split(b" ")) > 1 else 0
+        parts = resp.split(b" ", 2)
+        code = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else 0
         return (code, lat)
     except Exception:
         return (0, 99999)
@@ -121,7 +143,7 @@ def probe_all_targets(proxy):
         for fut in as_completed(futures):
             try:
                 name, code, lat = fut.result()
-                if code != 0:
+                if target_response_is_usable(name, code):
                     caps.append(name)
                     if lat < best:
                         best = lat
@@ -141,8 +163,8 @@ def fetch_all():
     def fetch_one(url):
         name = url.rstrip("/").rsplit("/", 1)[-1]
         code, body = http_get(url, 10)
-        found = IP_PORT_RE.findall(body) if code else set()
-        return name, set(found)
+        found = {proxy for proxy in IP_PORT_RE.findall(body) if valid_proxy(proxy)}
+        return name, found
     with ThreadPoolExecutor(max_workers=len(SOURCES)) as ex:
         futures = {ex.submit(fetch_one, u): u for u in SOURCES}
         for fut in as_completed(futures):
@@ -163,7 +185,7 @@ def load_state():
         with open(TESTED_FILE) as f:
             tested = {line.strip() for line in f if line.strip()}
     if os.path.isfile(BEST_SCORES_FILE):
-        with open(BEST_SCORES_FILE) as f:
+        with open(BEST_SCORES_FILE, encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if "|" in line:
@@ -185,14 +207,20 @@ def _flush_buffers():
     global _tested_buf, _scores_buf
     if _tested_buf:
         with _tested_lock:
-            with open(TESTED_FILE, "a") as f:
-                for line in _tested_buf:
+            existing = set()
+            if os.path.isfile(TESTED_FILE):
+                with open(TESTED_FILE, encoding="utf-8") as f:
+                    existing = {line.strip() for line in f if line.strip()}
+            with open(TESTED_FILE, "w", encoding="utf-8") as f:
+                for line in sorted(existing.union(_tested_buf)):
                     f.write(line + "\n")
         _tested_buf.clear()
-    if _scores_buf:
+    # Keep only the latest score for each proxy. This removes dead/retested
+    # proxies from the published list instead of retaining stale append-only rows.
+    if _scores_buf or _all_scores:
         with _write_lock:
-            with open(BEST_SCORES_FILE, "a") as f:
-                for line in _scores_buf:
+            with open(BEST_SCORES_FILE, "w", encoding="utf-8") as f:
+                for line in _all_scores.values():
                     f.write(line + "\n")
         _scores_buf.clear()
     _rebuild_output_files()
@@ -201,7 +229,7 @@ def _rebuild_output_files():
     entries = []
     seen = set()
     if os.path.isfile(BEST_SCORES_FILE):
-        with open(BEST_SCORES_FILE) as f:
+        with open(BEST_SCORES_FILE, encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if "|" not in line:
@@ -241,7 +269,7 @@ def _rebuild_output_files():
 
     with open(VERIFIED_TXT, "w") as f:
         for e in top20:
-            f.write(f"socks5://{e['ip']}:{e['port']}  # score:{e['score']} latency:{e['latency']}ms caps:[{e['caps']}]\n")
+            f.write(f"socks5h://{e['ip']}:{e['port']}  # score:{e['score']} latency:{e['latency']}ms caps:[{e['caps']}]\n")
 
     j = {
         "updated_at":      datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -270,7 +298,7 @@ def _rebuild_output_files():
         f.write("## Strategy\n- Parallel fetch from 6 sources\n")
         f.write("- Previous TOP 20 retested first every run\n")
         f.write("- Concurrent probe of all 4 targets per proxy\n")
-        f.write("- Reachability = TCP+TLS handshake success (not 2xx)\n")
+        f.write("- Success requires a usable HTTP response; 403/407/5xx are rejected\n")
         f.write("- State persisted in data/.tested and data/.best_scores.txt (committed to repo)\n")
 
 def cleanup():
@@ -337,6 +365,9 @@ def main():
             _all_scores.pop(p, None)
             tested.discard(p)
         test_batch(retest)
+        # Keep the in-memory state aligned with the persisted buffer so a
+        # proxy retested above is not immediately scanned a second time.
+        tested.update(retest)
 
     new = [p for p in pool if p not in tested]
     log(f"Step 3: Testing new proxies ({len(new)} to test) ...")
