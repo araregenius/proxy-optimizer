@@ -5329,3 +5329,13 @@
 149|163.192.14.135|50161|703|google
 192|43.162.94.99|1080|676|google,grok,anthropic
 45|129.151.9.55|10808|1943|google,grok
+241|193.25.215.182|22222|388|anthropic,grok,openai,google
+195|163.192.14.135|50161|443|grok,google
+247|43.162.94.99|1080|126|google,openai,grok
+20|144.24.47.42|1080|4388|grok
+40|129.151.9.55|10808|4345|google,openai
+244|193.25.215.182|22222|352|grok,anthropic,openai,google
+255|129.151.9.55|10808|250|google,grok,anthropic,openai
+215|163.192.14.135|50161|444|anthropic,google,grok
+94|144.24.47.42|1080|1257|google
+128|43.162.94.99|1080|1113|anthropic,openai
