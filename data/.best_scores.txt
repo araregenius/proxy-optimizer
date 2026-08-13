@@ -1653,3 +1653,7 @@
 80|116.96.32.160|1111|5443|google,anthropic,grok,openai
 40|117.8.140.33|1080|2028|google,grok
 137|64.83.12.6|1080|1228|anthropic,google,openai
+168|62.133.62.18|1082|914|anthropic,google,openai
+134|171.253.92.42|1052|1456|anthropic,grok,openai,google
+20|157.254.221.28|30001|4404|openai
+95|171.253.92.42|1041|1848|anthropic,openai,grok,google
