@@ -1632,3 +1632,11 @@
 88|43.162.94.99|1080|1513|grok,openai
 145|129.151.9.55|10808|750|grok
 60|144.24.47.42|1080|4483|google,grok,anthropic
+80|171.253.95.241|1089|3847|grok,openai,google,anthropic
+80|150.241.89.209|10808|4949|google,anthropic,grok,openai
+50|202.62.60.103|1080|1892|grok,anthropic
+80|171.253.95.24|1089|3068|anthropic,grok,google,openai
+40|138.124.103.223|1080|5678|anthropic,google
+40|150.242.218.137|1080|5769|google,grok
+60|171.253.95.3|1089|2789|grok,google,anthropic
+40|188.227.87.53|1080|6266|grok,google
