@@ -1679,3 +1679,8 @@
 140|43.157.247.44|7000|1394|anthropic,grok,openai,google
 40|124.248.187.255|1080|6653|anthropic,grok
 60|116.96.32.160|1085|1993|anthropic,grok,openai
+120|171.253.95.24|1045|1599|anthropic,google,grok,openai
+134|171.253.95.3|1055|1459|anthropic,google,grok,openai
+57|154.203.132.81|5080|1626|google
+0|115.171.238.77|5080|9359|grok
+60|171.253.95.241|1033|4902|google,grok,openai
