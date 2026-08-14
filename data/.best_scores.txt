@@ -1691,3 +1691,6 @@
 114|80.93.61.39|1080|1257|google,grok
 80|171.253.92.42|1045|2262|google,grok,openai,anthropic
 20|104.161.23.122|5034|3340|grok
+91|171.253.95.238|1031|1486|google,anthropic
+80|111.119.162.248|10979|2981|grok,openai,google,anthropic
+80|195.133.26.25|10808|2247|anthropic,grok,google,openai
