@@ -1720,3 +1720,10 @@
 91|171.253.95.3|1100|1881|google,anthropic,grok,openai
 60|78.153.155.49|8080|2893|anthropic,grok,openai
 0|78.24.185.238|1080|12694|google
+219|185.125.200.80|1090|610|anthropic,google,openai,grok
+152|89.223.64.143|1080|874|google,grok
+146|139.162.49.95|1080|1339|anthropic,google,openai,grok
+80|47.82.72.88|10808|2197|google,anthropic,grok,openai
+95|91.247.248.116|1088|1847|anthropic,google,grok,openai
+20|95.72.1.104|1080|8173|google
+80|130.49.153.135|1088|8180|google,anthropic,grok,openai
