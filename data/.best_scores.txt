@@ -1699,3 +1699,11 @@
 0|91.107.168.126|10808|16959|anthropic,openai,grok,google
 187|107.172.5.202|7890|529|openai,grok
 0|45.192.110.9|1080|16064|google
+211|89.169.13.144|1080|682|anthropic,google,openai,grok
+146|130.193.43.183|1080|938|google,grok
+87|178.253.39.103|10808|1930|anthropic,openai,google,grok
+60|147.45.39.160|30000|2496|grok,google,anthropic
+60|116.96.32.160|1045|3364|anthropic,openai,google
+40|171.253.95.24|1026|4749|google,openai
+60|171.253.92.42|1120|5499|anthropic,google,grok
+20|154.91.176.171|1080|2911|grok
