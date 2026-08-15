@@ -1728,3 +1728,8 @@
 20|95.72.1.104|1080|8173|google
 80|130.49.153.135|1088|8180|google,anthropic,grok,openai
 40|78.24.185.236|1080|5346|anthropic,openai
+168|95.31.16.116|1081|1111|anthropic,openai,grok,google
+60|119.91.2.5|10808|2119|anthropic,grok,google
+80|192.236.246.241|7890|3153|grok,openai,anthropic,google
+20|95.156.72.244|1080|6298|openai
+0|87.121.104.134|1080|11487|grok
