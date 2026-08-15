@@ -1707,3 +1707,11 @@
 40|171.253.95.24|1026|4749|google,openai
 60|171.253.92.42|1120|5499|anthropic,google,grok
 20|154.91.176.171|1080|2911|grok
+173|193.233.138.170|1080|864|google,anthropic,openai
+155|43.155.162.249|1080|1245|anthropic,openai,google,grok
+40|152.32.168.221|10808|2383|google,grok
+85|78.29.53.117|1080|1545|grok,google
+80|139.162.47.112|9050|3776|google,openai,anthropic,grok
+124|195.46.164.196|1080|1354|anthropic,grok,google
+82|155.212.209.31|7890|1976|google,openai,grok,anthropic
+40|47.243.19.192|1080|3404|google,grok
