@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16T22:43:24Z",
-  "total_pool": 611,
-  "tested_this_run": 12,
-  "total_tested": 10949,
+  "updated_at": "2026-08-16T23:09:40Z",
+  "total_pool": 607,
+  "tested_this_run": 6,
+  "total_tested": 10955,
   "top_proxies": [
     {
       "ip": "8.221.116.96",
