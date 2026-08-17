@@ -1794,3 +1794,11 @@
 83|213.171.15.153|1080|1566|google,grok
 80|47.82.72.88|10804|2296|anthropic,openai,grok,google
 75|139.84.219.210|1080|1648|google,openai
+238|144.172.101.188|1080|416|anthropic,grok,openai,google
+233|144.172.99.19|1080|464|anthropic,openai,grok,google
+40|216.106.179.216|49171|2419|google,anthropic
+20|95.31.92.14|10808|5259|openai
+60|88.119.171.249|1080|3879|google,grok,openai
+40|152.53.116.71|8080|4598|google,openai
+229|144.172.116.19|1080|506|anthropic,grok,openai,google
+40|117.28.128.114|10800|2223|grok,openai
