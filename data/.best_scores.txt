@@ -1805,3 +1805,9 @@
 181|89.19.215.52|1080|989|anthropic,google,openai,grok
 142|34.174.40.246|1080|1371|google,openai,grok,anthropic
 170|152.228.237.108|1080|1093|anthropic,google,openai,grok
+134|152.69.211.50|40001|1452|anthropic,google,grok,openai
+80|158.179.26.128|1080|3204|anthropic,openai,grok,google
+80|109.225.40.247|9999|3517|google,anthropic,openai,grok
+209|216.106.179.216|49315|309|anthropic,grok
+104|176.226.221.227|10808|1556|google,anthropic,openai
+0|60.186.3.62|10808|9834|anthropic
