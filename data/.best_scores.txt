@@ -1799,5 +1799,5 @@
 60|88.119.171.249|1080|3879|google,grok,openai
 40|152.53.116.71|8080|4598|google,openai
 40|117.28.128.114|10800|2223|grok,openai
-243|144.172.101.188|1080|364|anthropic,google,grok,openai
 210|144.172.99.19|1080|693|anthropic,grok,openai,google
+0|104.194.132.112|9052|13885|grok,anthropic,google,openai
