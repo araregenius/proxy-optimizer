@@ -1802,3 +1802,6 @@
 210|144.172.99.19|1080|693|anthropic,grok,openai,google
 0|104.194.132.112|9052|13885|grok,anthropic,google,openai
 74|95.154.64.140|2080|1654|grok,openai
+181|89.19.215.52|1080|989|anthropic,google,openai,grok
+142|34.174.40.246|1080|1371|google,openai,grok,anthropic
+170|152.228.237.108|1080|1093|anthropic,google,openai,grok
