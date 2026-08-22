@@ -1892,3 +1892,15 @@
 80|45.74.31.30|8885|5319|openai,grok,anthropic,google
 40|45.74.31.42|5075|5809|anthropic,openai
 60|14.225.204.32|10800|4094|openai,google,anthropic
+112|103.109.187.33|1080|1478|openai,google,grok
+40|45.74.31.42|8011|8830|google,anthropic
+0|45.74.31.30|5566|9404|anthropic
+194|203.227.191.4|10809|855|anthropic,google,openai,grok
+80|45.74.31.30|4837|6085|grok,anthropic,openai,google
+40|45.74.31.30|15169|8585|anthropic,grok
+20|45.74.31.30|8998|4249|anthropic
+20|45.74.31.30|4080|8647|google
+20|72.56.94.27|1081|6382|openai
+0|45.74.31.42|4277|13945|grok,anthropic
+0|213.165.35.119|1080|10128|openai,grok
+0|45.74.31.30|11198|10105|anthropic,google
