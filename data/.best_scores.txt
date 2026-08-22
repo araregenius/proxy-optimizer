@@ -1907,7 +1907,12 @@
 40|45.74.31.42|11368|7811|openai,grok
 106|44.195.32.218|1080|1338|grok,openai
 0|45.74.31.42|12193|9474|anthropic,google,grok
-236|100.28.216.204|5555|436|google,anthropic,openai,grok
 20|45.74.31.42|4903|5546|anthropic
 40|35.212.210.63|1080|2515|anthropic,google
 40|45.74.31.42|44893|6889|anthropic,grok
+229|100.28.216.204|5555|505|google,grok,anthropic,openai
+60|45.74.31.30|36430|6579|anthropic,openai,grok
+40|45.74.31.30|8447|6267|google,openai
+105|14.109.230.240|1080|1546|anthropic,google,openai
+40|45.74.31.42|9000|8749|openai,anthropic
+0|45.74.31.30|10088|11088|grok,anthropic,openai,google
