@@ -1907,3 +1907,7 @@
 40|45.74.31.42|11368|7811|openai,grok
 106|44.195.32.218|1080|1338|grok,openai
 0|45.74.31.42|12193|9474|anthropic,google,grok
+236|100.28.216.204|5555|436|google,anthropic,openai,grok
+20|45.74.31.42|4903|5546|anthropic
+40|35.212.210.63|1080|2515|anthropic,google
+40|45.74.31.42|44893|6889|anthropic,grok
