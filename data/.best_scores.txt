@@ -1910,7 +1910,6 @@
 20|45.74.31.42|4903|5546|anthropic
 40|35.212.210.63|1080|2515|anthropic,google
 40|45.74.31.42|44893|6889|anthropic,grok
-229|100.28.216.204|5555|505|google,grok,anthropic,openai
 60|45.74.31.30|36430|6579|anthropic,openai,grok
 40|45.74.31.30|8447|6267|google,openai
 105|14.109.230.240|1080|1546|anthropic,google,openai
