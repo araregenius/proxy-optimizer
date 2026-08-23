@@ -1915,3 +1915,4 @@
 105|14.109.230.240|1080|1546|anthropic,google,openai
 40|45.74.31.42|9000|8749|openai,anthropic
 0|45.74.31.30|10088|11088|grok,anthropic,openai,google
+20|45.74.31.30|34857|8091|anthropic
