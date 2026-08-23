@@ -1916,3 +1916,11 @@
 40|45.74.31.42|9000|8749|openai,anthropic
 0|45.74.31.30|10088|11088|grok,anthropic,openai,google
 20|45.74.31.30|34857|8091|anthropic
+262|165.22.36.142|1080|176|grok,anthropic,google,openai
+262|204.13.232.213|1080|180|anthropic,google,openai,grok
+125|173.166.191.6|3820|1344|google,openai,anthropic
+248|18.206.149.236|1080|117|anthropic,google,openai
+80|45.74.31.42|9768|6972|anthropic,openai,grok,google
+0|45.74.31.30|11075|9864|anthropic,google,grok,openai
+0|45.74.31.30|38179|10982|anthropic,grok,openai,google
+0|45.74.31.42|9346|10939|anthropic,openai,google
