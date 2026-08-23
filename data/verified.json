@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:17:03Z",
+  "updated_at": "2026-08-23T09:49:12Z",
   "total_pool": 725,
   "tested_this_run": 1,
   "total_tested": 12013,
@@ -125,6 +125,18 @@
       "score": 243
     },
     {
+      "ip": "204.13.232.213",
+      "port": 1080,
+      "capabilities": [
+        "anthropic",
+        "google",
+        "grok",
+        "openai"
+      ],
+      "latency_min": 374,
+      "score": 242
+    },
+    {
       "ip": "45.61.188.134",
       "port": 44499,
       "capabilities": [
@@ -147,18 +159,6 @@
       ],
       "latency_min": 410,
       "score": 239
-    },
-    {
-      "ip": "204.13.232.213",
-      "port": 1080,
-      "capabilities": [
-        "google",
-        "anthropic",
-        "openai",
-        "grok"
-      ],
-      "latency_min": 456,
-      "score": 234
     },
     {
       "ip": "54.193.63.238",
