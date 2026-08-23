@@ -1928,3 +1928,13 @@
 20|120.245.57.159|21|2729|grok
 80|45.74.31.30|33832|7859|google,openai,anthropic,grok
 217|204.13.232.213|1080|628|anthropic,google,openai,grok
+20|46.100.94.217|1080|7008|grok
+0|45.74.31.42|42266|9707|anthropic,openai,grok
+0|45.74.31.42|28904|9163|grok,openai
+20|45.74.31.30|40630|8440|anthropic
+80|45.74.31.30|5060|6289|anthropic,openai,grok,google
+40|45.74.31.30|40604|7890|google,grok
+160|185.214.135.169|1080|1200|anthropic,google,openai,grok
+80|45.74.31.42|7040|3109|google,anthropic,openai,grok
+40|45.74.31.42|9214|7995|anthropic,google
+0|45.74.31.42|6865|17955|anthropic,grok
