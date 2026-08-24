@@ -1982,3 +1982,6 @@
 80|45.74.31.30|9291|8677|grok,openai,anthropic,google
 40|49.13.22.249|10808|4451|openai,anthropic
 40|149.248.38.229|10800|5094|grok,openai
+231|44.202.249.26|5555|488|google,anthropic,openai,grok
+80|185.204.170.179|1111|2869|google,openai,anthropic,grok
+40|44.195.41.148|1080|2329|grok,google
