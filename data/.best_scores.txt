@@ -1958,7 +1958,8 @@
 60|45.74.31.42|11384|4416|grok,anthropic,openai
 0|45.74.31.42|47422|16604|grok
 0|45.74.31.30|6646|14846|google,anthropic
-242|173.224.219.64|1080|378|grok,openai,anthropic,google
-232|173.224.219.31|1080|478|grok,openai,google,anthropic
 137|92.42.15.29|1080|1028|google,grok
 80|45.74.31.30|22224|5865|grok,google,openai,anthropic
+80|173.224.219.64|1080|6355|grok,anthropic,openai,google
+40|49.13.238.183|1080|3793|google,grok
+80|45.74.31.30|6512|7158|google,anthropic,grok,openai
