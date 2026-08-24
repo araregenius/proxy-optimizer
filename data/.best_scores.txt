@@ -1965,3 +1965,15 @@
 80|45.74.31.30|6512|7158|google,anthropic,grok,openai
 146|45.32.121.119|10808|1331|google,anthropic,grok,openai
 132|45.32.37.87|1080|1078|openai,grok
+80|45.74.31.42|6047|4411|anthropic,grok,openai,google
+80|45.74.31.30|38234|4989|google,openai,anthropic,grok
+20|45.74.31.42|6391|5335|google
+139|103.210.161.8|1080|1007|google,grok
+0|45.74.31.30|8759|10058|grok,google
+0|45.74.31.42|8280|9062|anthropic,grok,google
+0|45.74.31.42|10802|15268|google
+20|15.235.172.129|27391|2561|google
+20|45.74.31.42|6666|6319|google
+20|45.74.31.42|4443|6800|grok
+0|45.74.31.42|12934|13596|google
+0|45.74.31.42|4756|13409|grok,openai,anthropic
