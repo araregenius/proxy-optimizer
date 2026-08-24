@@ -1980,5 +1980,5 @@
 80|45.74.31.42|9627|6758|grok,anthropic,openai,google
 0|45.74.31.30|31870|10439|google,openai
 80|45.74.31.30|9291|8677|grok,openai,anthropic,google
-227|149.248.38.229|10800|523|google,openai,grok,anthropic
 40|49.13.22.249|10808|4451|openai,anthropic
+40|149.248.38.229|10800|5094|grok,openai
