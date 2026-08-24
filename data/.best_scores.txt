@@ -1963,3 +1963,5 @@
 80|173.224.219.64|1080|6355|grok,anthropic,openai,google
 40|49.13.238.183|1080|3793|google,grok
 80|45.74.31.30|6512|7158|google,anthropic,grok,openai
+146|45.32.121.119|10808|1331|google,anthropic,grok,openai
+132|45.32.37.87|1080|1078|openai,grok
