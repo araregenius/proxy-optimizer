@@ -1989,3 +1989,12 @@
 80|185.214.101.27|1080|2954|anthropic,grok,google,openai
 177|91.217.81.131|1081|1024|google,anthropic,openai,grok
 20|2.26.112.72|1080|6553|openai
+80|45.74.31.30|8282|4312|openai,google,grok,anthropic
+40|45.74.31.42|4661|7244|anthropic,openai
+0|45.74.31.42|7026|10760|anthropic,grok,google,openai
+40|150.242.218.136|1080|7996|google,grok
+0|45.74.31.30|21058|9275|openai
+0|45.74.31.42|5555|14670|anthropic,openai
+0|45.74.31.42|26076|15247|grok,openai,anthropic
+0|156.245.244.137|7890|12282|openai
+0|45.74.31.42|8204|12561|anthropic
