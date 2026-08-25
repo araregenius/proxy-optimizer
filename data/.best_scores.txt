@@ -2029,3 +2029,4 @@
 210|158.220.99.85|4545|693|anthropic,google,openai,grok
 40|45.74.31.42|8015|7313|google,anthropic
 0|45.74.31.42|10812|12387|anthropic,grok,openai
+60|45.74.31.30|10812|5128|anthropic,openai,google
