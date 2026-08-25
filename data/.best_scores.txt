@@ -2038,3 +2038,5 @@
 93|129.146.166.25|1080|1867|grok,anthropic,openai,google
 60|45.74.31.30|34807|7238|anthropic,openai,google
 20|89.31.189.39|1080|7526|google
+95|163.47.40.149|1080|1441|anthropic,grok
+80|152.67.22.144|1080|3395|openai,grok,google,anthropic
