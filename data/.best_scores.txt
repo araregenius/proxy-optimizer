@@ -2033,3 +2033,8 @@
 80|185.204.170.179|1146|2590|openai,grok,google,anthropic
 20|82.97.241.215|10808|2301|google
 60|185.204.170.179|1142|3731|grok,openai,google
+181|213.165.38.49|1080|986|anthropic,google,grok,openai
+85|52.210.166.8|1080|1941|google,anthropic,grok,openai
+93|129.146.166.25|1080|1867|grok,anthropic,openai,google
+60|45.74.31.30|34807|7238|anthropic,openai,google
+20|89.31.189.39|1080|7526|google
