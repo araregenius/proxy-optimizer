@@ -2059,3 +2059,15 @@
 0|45.74.31.30|32729|14226|openai,google
 0|45.74.31.42|12578|11998|anthropic,grok
 40|47.82.98.118|1011|6000|grok,google
+113|154.26.190.95|20000|1669|google,grok,anthropic,openai
+161|147.45.39.160|30002|1189|anthropic,google,openai,grok
+114|45.74.31.42|11375|1658|anthropic,google,grok,openai
+80|45.74.31.42|4434|3686|openai,grok,google,anthropic
+60|45.74.31.30|44770|6369|anthropic,google,openai
+109|84.8.102.52|1080|1703|anthropic,grok,google,openai
+80|185.204.170.179|1150|2429|anthropic,grok,google,openai
+40|128.127.144.71|1080|2740|google,grok
+80|83.222.17.239|1080|6386|google,anthropic,openai,grok
+40|45.74.31.42|44359|5515|google,grok
+80|45.74.31.30|9330|7492|openai,grok,google,anthropic
+0|162.55.178.253|1080|11602|openai
