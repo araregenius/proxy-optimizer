@@ -2080,3 +2080,15 @@
 40|45.74.31.30|41182|3210|grok,google
 20|95.81.93.93|1080|6493|openai
 60|123.10.5.137|5080|3082|anthropic,grok,openai
+129|178.66.211.70|1080|1106|google,anthropic
+20|213.110.227.154|2080|3758|grok
+0|95.107.65.138|9050|16678|anthropic,openai,google,grok
+80|171.252.196.205|5001|3182|google,anthropic,grok,openai
+60|43.128.117.166|10808|2309|openai,anthropic,grok
+0|43.218.127.193|443|12445|anthropic
+20|176.211.148.66|10808|6108|google
+218|216.126.224.175|1081|614|openai,anthropic,google,grok
+80|80.234.36.71|9050|5887|anthropic,google,grok,openai
+60|152.53.53.54|10801|5461|anthropic,google,grok
+80|216.126.224.175|1082|4989|anthropic,openai,grok,google
+60|216.126.224.175|1080|3882|anthropic,grok,google
