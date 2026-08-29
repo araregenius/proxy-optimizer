@@ -2092,3 +2092,5 @@
 60|152.53.53.54|10801|5461|anthropic,google,grok
 80|216.126.224.175|1082|4989|anthropic,openai,grok,google
 60|216.126.224.175|1080|3882|anthropic,grok,google
+40|154.222.19.12|1080|3695|grok,google
+20|103.117.121.56|1080|3957|grok
