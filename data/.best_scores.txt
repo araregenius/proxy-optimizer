@@ -2100,3 +2100,4 @@
 80|111.119.162.248|10957|2443|openai,anthropic,grok,google
 80|45.74.31.30|4333|2903|openai,anthropic,google,grok
 60|45.74.31.42|10217|5560|anthropic,google,grok
+60|95.81.96.158|1080|5040|grok,google,openai
