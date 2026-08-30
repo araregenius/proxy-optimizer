@@ -2101,3 +2101,7 @@
 80|45.74.31.30|4333|2903|openai,anthropic,google,grok
 60|45.74.31.42|10217|5560|anthropic,google,grok
 60|95.81.96.158|1080|5040|grok,google,openai
+0|45.74.31.30|39404|12818|anthropic,openai,google,grok
+60|45.74.31.30|4085|5696|grok,google,openai
+40|45.74.31.42|6577|5391|anthropic,google
+40|45.74.31.30|39672|6337|openai,grok
