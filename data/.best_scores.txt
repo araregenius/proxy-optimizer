@@ -2097,3 +2097,4 @@
 217|31.207.45.69|1080|621|google,anthropic,grok,openai
 20|37.21.146.31|2080|8487|google
 60|79.105.153.208|10808|2110|grok,google,anthropic
+80|111.119.162.248|10957|2443|openai,anthropic,grok,google
