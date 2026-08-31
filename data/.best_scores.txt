@@ -2131,3 +2131,16 @@
 80|45.127.34.193|1081|5157|anthropic,google,grok,openai
 167|164.92.182.55|8080|1121|google,anthropic,grok,openai
 60|132.243.168.30|9150|2063|google,openai,anthropic
+217|77.238.239.146|1080|624|anthropic,grok,openai,google
+175|109.173.126.26|2080|1045|anthropic,grok,openai,google
+40|45.74.31.30|9626|8669|anthropic,openai
+123|45.32.91.25|8443|1566|anthropic,grok,google,openai
+20|45.74.31.30|5238|4542|google
+20|158.101.15.1|443|2795|openai
+60|45.74.31.42|4592|6328|anthropic,openai,google
+218|51.89.33.251|1080|617|anthropic,google,openai,grok
+80|45.74.31.30|8594|3008|anthropic,openai,grok,google
+80|45.74.31.30|36712|4257|google,anthropic,openai,grok
+40|203.24.88.96|1080|2451|google,anthropic
+60|45.74.31.42|40630|6668|openai,google,grok
+82|45.82.161.54|1080|1574|openai,grok
