@@ -2190,3 +2190,4 @@
 170|188.166.217.100|1080|1094|anthropic,google,grok,openai
 219|43.135.176.121|1080|606|anthropic,grok,google,openai
 80|54.81.8.162|10001|5335|grok,anthropic,openai,google
+121|193.233.218.121|1080|1182|google,grok
