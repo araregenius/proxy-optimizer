@@ -2191,3 +2191,12 @@
 219|43.135.176.121|1080|606|anthropic,grok,google,openai
 80|54.81.8.162|10001|5335|grok,anthropic,openai,google
 121|193.233.218.121|1080|1182|google,grok
+80|2.27.52.111|1080|2657|google,anthropic,grok,openai
+40|103.89.2.102|1080|2131|anthropic,google
+20|31.76.50.159|1080|4048|google
+40|45.74.31.30|5469|4653|openai,google
+0|156.238.235.30|1080|10482|grok
+139|91.103.120.49|443|1001|google,grok
+80|45.74.31.30|32245|5507|anthropic,google,openai,grok
+80|45.74.31.42|6398|6479|anthropic,google,openai,grok
+20|192.210.196.4|1080|8149|grok
