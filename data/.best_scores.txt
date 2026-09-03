@@ -2234,6 +2234,9 @@
 40|45.74.31.30|39161|6441|grok,google
 0|47.86.236.109|9898|10300|google
 226|208.73.204.94|1084|538|google,anthropic,openai,grok
-270|3.84.72.152|5555|92|anthropic,google,openai,grok
 134|195.133.197.14|1080|1058|google,grok
 184|169.58.97.115|1080|953|anthropic,openai,grok,google
+228|3.84.72.152|5555|513|anthropic,google,openai,grok
+20|5.180.19.241|1080|5853|google
+20|130.17.30.49|1080|5191|anthropic
+20|193.124.15.177|60001|4654|anthropic
