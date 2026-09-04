@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-04T05:13:26Z",
-  "total_pool": 558,
-  "tested_this_run": 39,
-  "total_tested": 15428,
+  "updated_at": "2026-09-04T09:46:40Z",
+  "total_pool": 545,
+  "tested_this_run": 8,
+  "total_tested": 15434,
   "top_proxies": [
     {
       "ip": "8.221.116.96",
@@ -37,8 +37,8 @@
         "openai",
         "grok"
       ],
-      "latency_min": 135,
-      "score": 266
+      "latency_min": 117,
+      "score": 268
     },
     {
       "ip": "47.253.58.201",
@@ -157,8 +157,8 @@
         "grok",
         "openai"
       ],
-      "latency_min": 430,
-      "score": 237
+      "latency_min": 434,
+      "score": 236
     },
     {
       "ip": "54.193.63.238",
