@@ -2246,8 +2246,6 @@
 172|152.53.183.107|8081|1080|openai,anthropic,google,grok
 130|45.32.34.72|2001|1291|anthropic,google,grok
 114|87.103.210.120|1080|1653|anthropic,openai,grok,google
-268|3.84.72.152|5555|112|anthropic,google,openai,grok
-236|107.167.18.122|443|436|anthropic,google,grok,openai
 111|93.174.166.198|1080|1082|google
 135|146.190.94.105|1080|1446|anthropic,google,grok,openai
 80|185.179.190.234|10808|5693|anthropic,openai,grok,google
@@ -2256,3 +2254,7 @@
 209|51.89.253.203|10801|705|google,anthropic,grok,openai
 106|47.76.175.249|1080|1334|google,grok
 20|176.123.170.218|1080|3179|grok
+242|107.167.18.122|443|377|grok,openai,anthropic,google
+252|3.84.72.152|5555|280|google,anthropic,openai,grok
+80|151.243.180.248|443|6023|anthropic,google,grok,openai
+0|43.252.238.252|69|11661|google
