@@ -2257,5 +2257,7 @@
 80|151.243.180.248|443|6023|anthropic,google,grok,openai
 0|43.252.238.252|69|11661|google
 40|113.88.77.122|1081|5620|google,anthropic
-265|3.84.72.152|5555|144|anthropic,google,openai,grok
-236|107.167.18.122|443|435|anthropic,google,grok,openai
+251|107.167.18.122|443|288|anthropic,grok,google,openai
+243|3.84.72.152|5555|370|anthropic,google,openai,grok
+80|45.74.31.30|4957|6640|google,openai,anthropic,grok
+0|202.73.4.221|1080|9422|grok,google
