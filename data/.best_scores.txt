@@ -2272,5 +2272,15 @@
 80|45.74.31.30|5089|3959|anthropic,grok,google,openai
 159|167.172.85.172|1080|1202|anthropic,google,grok,openai
 116|51.89.253.203|10808|1640|anthropic,google,openai,grok
-266|3.84.72.152|5555|132|anthropic,google,openai,grok
 104|58.187.162.191|1083|1755|anthropic,google,grok,openai
+241|3.84.72.152|5555|385|anthropic,google,grok,openai
+239|108.174.152.80|1080|402|anthropic,openai,google,grok
+40|45.74.31.30|5362|6095|anthropic,openai
+238|107.181.252.58|1081|412|anthropic,openai,grok,google
+144|176.65.151.212|9080|1359|anthropic,google,grok,openai
+80|37.27.63.151|35035|2489|anthropic,grok,google,openai
+80|45.74.31.30|4928|3777|anthropic,grok,openai,google
+80|45.74.31.30|5424|8624|google,grok,openai,anthropic
+121|49.13.87.123|1111|984|anthropic
+60|118.179.199.74|9090|4415|grok,anthropic,google
+60|45.74.31.30|5033|4195|google,openai,grok
