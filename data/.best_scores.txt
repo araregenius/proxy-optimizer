@@ -2313,11 +2313,15 @@
 156|23.95.229.150|11080|632|grok
 0|37.27.63.151|41360|11688|anthropic,google,openai
 0|37.27.63.151|44828|15741|google,openai
-250|50.30.36.17|1080|292|anthropic,openai,google,grok
-245|108.174.152.80|1080|344|anthropic,google,openai,grok
 40|47.86.227.79|9898|3244|grok,google
 99|46.8.43.28|1080|1802|anthropic,grok,openai,google
 60|43.153.61.90|40000|3762|grok,openai,google
 0|185.204.170.179|1144|9361|google,anthropic,openai,grok
 20|183.45.79.63|1080|3839|openai
 20|67.205.161.254|9050|6836|anthropic
+238|50.30.36.17|1080|412|anthropic,google,grok,openai
+132|108.174.152.80|1080|1475|grok,google,anthropic,openai
+160|18.138.10.216|1090|1191|anthropic,google,grok,openai
+40|103.149.177.29|1080|2234|anthropic,google
+0|185.204.170.179|1136|9793|google,grok,anthropic,openai
+80|185.204.170.179|1127|6500|google,openai,anthropic,grok
