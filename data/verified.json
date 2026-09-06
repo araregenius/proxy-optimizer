@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-06T15:58:47Z",
-  "total_pool": 640,
-  "tested_this_run": 24,
-  "total_tested": 16004,
+  "updated_at": "2026-09-06T18:01:31Z",
+  "total_pool": 621,
+  "tested_this_run": 71,
+  "total_tested": 16073,
   "top_proxies": [
     {
       "ip": "8.221.116.96",
@@ -89,6 +89,18 @@
       "score": 251
     },
     {
+      "ip": "50.30.36.17",
+      "port": 1080,
+      "capabilities": [
+        "anthropic",
+        "openai",
+        "google",
+        "grok"
+      ],
+      "latency_min": 292,
+      "score": 250
+    },
+    {
       "ip": "142.11.192.249",
       "port": 1080,
       "capabilities": [
@@ -99,6 +111,18 @@
       ],
       "latency_min": 326,
       "score": 247
+    },
+    {
+      "ip": "108.174.152.80",
+      "port": 1080,
+      "capabilities": [
+        "anthropic",
+        "google",
+        "openai",
+        "grok"
+      ],
+      "latency_min": 344,
+      "score": 245
     },
     {
       "ip": "103.7.138.17",
@@ -135,30 +159,6 @@
       ],
       "latency_min": 410,
       "score": 239
-    },
-    {
-      "ip": "50.30.36.17",
-      "port": 1080,
-      "capabilities": [
-        "anthropic",
-        "grok",
-        "google",
-        "openai"
-      ],
-      "latency_min": 407,
-      "score": 239
-    },
-    {
-      "ip": "108.174.152.80",
-      "port": 1080,
-      "capabilities": [
-        "anthropic",
-        "grok",
-        "openai",
-        "google"
-      ],
-      "latency_min": 451,
-      "score": 234
     },
     {
       "ip": "54.193.63.238",
