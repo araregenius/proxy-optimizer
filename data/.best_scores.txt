@@ -2310,6 +2310,8 @@
 20|103.101.202.75|1080|7317|google
 60|45.74.31.30|27206|5451|anthropic,google,grok
 0|45.74.31.30|10085|12441|google
-256|50.30.36.17|1080|236|anthropic,google,openai,grok
-235|108.174.152.80|1080|441|anthropic,grok,google,openai
 156|23.95.229.150|11080|632|grok
+239|50.30.36.17|1080|407|anthropic,grok,google,openai
+234|108.174.152.80|1080|451|anthropic,grok,openai,google
+0|37.27.63.151|41360|11688|anthropic,google,openai
+0|37.27.63.151|44828|15741|google,openai
