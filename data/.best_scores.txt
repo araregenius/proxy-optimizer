@@ -2347,3 +2347,4 @@
 115|202.160.76.221|1080|1645|grok,anthropic,openai,google
 0|89.189.64.23|1080|9657|openai,grok
 0|185.204.170.179|1114|18298|openai
+80|91.107.232.169|10801|4716|openai,anthropic,google,grok
