@@ -2356,3 +2356,16 @@
 0|47.254.36.25|11080|16626|grok,google,anthropic,openai
 192|31.40.214.142|1080|475|openai,google
 40|78.36.130.235|1089|4453|google,openai
+60|45.74.31.30|5190|5929|google,grok,openai
+0|185.204.170.179|1118|17290|openai
+232|144.172.91.13|1081|471|anthropic,openai,grok,google
+225|144.172.91.13|1080|548|anthropic,openai,google,grok
+80|45.74.31.42|4104|2646|anthropic,grok,openai,google
+40|45.74.31.42|5294|5087|anthropic,openai
+40|45.74.31.30|4755|4071|openai,google
+20|45.74.31.42|4900|6716|openai
+40|45.74.31.42|5563|7985|grok,anthropic
+0|109.73.177.230|7080|13450|grok,openai
+49|118.179.202.230|9090|1906|grok,google
+40|45.74.31.42|4760|2925|grok,openai
+20|45.74.31.42|5086|4922|openai
