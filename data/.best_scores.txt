@@ -2408,3 +2408,9 @@
 20|49.13.87.123|1183|2031|google
 80|45.74.31.30|4199|4543|anthropic,openai,grok,google
 40|45.74.31.30|5219|4728|anthropic,google
+80|45.74.31.42|4663|3008|anthropic,google,grok,openai
+80|27.46.87.11|1080|5087|grok,anthropic,google,openai
+80|45.74.31.42|5146|5413|openai,anthropic,grok,google
+143|162.216.185.241|1084|766|google
+80|45.74.31.42|4393|8839|anthropic,google,openai,grok
+20|119.167.25.224|1081|2007|openai
