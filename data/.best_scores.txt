@@ -2414,3 +2414,5 @@
 143|162.216.185.241|1084|766|google
 80|45.74.31.42|4393|8839|anthropic,google,openai,grok
 20|119.167.25.224|1081|2007|openai
+241|47.251.30.12|6000|390|anthropic,grok,openai,google
+40|94.103.15.230|11080|7416|google,grok
