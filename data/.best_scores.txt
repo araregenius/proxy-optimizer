@@ -2380,3 +2380,15 @@
 0|45.74.31.42|4825|13585|openai,google
 40|45.74.31.42|4413|7341|google,openai
 20|45.74.31.42|4368|7838|grok
+80|45.74.31.30|5604|3999|anthropic,grok,openai,google
+80|45.74.31.42|4954|4086|anthropic,openai,google,grok
+80|45.74.31.30|34467|4633|openai,grok,google,anthropic
+20|45.74.31.30|38127|3781|openai
+60|45.74.31.30|34178|3685|openai,anthropic,google
+0|45.74.31.42|4939|9700|google
+0|45.74.31.30|33407|10383|anthropic
+40|45.74.31.30|4318|7288|openai,grok
+0|45.74.31.42|4151|10049|anthropic,google
+80|45.74.31.42|4095|6405|anthropic,grok,openai,google
+80|45.74.31.42|4828|4879|anthropic,openai,google,grok
+40|45.74.31.42|5319|8942|google,grok
