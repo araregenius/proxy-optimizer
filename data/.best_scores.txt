@@ -2447,3 +2447,5 @@
 80|45.74.31.42|4227|4291|grok,openai,google,anthropic
 0|45.74.31.30|6449|9619|anthropic,openai,google,grok
 0|45.74.31.42|10418|13119|google,anthropic,openai
+226|38.58.182.147|1080|534|anthropic,grok,openai,google
+80|45.74.31.42|10942|7141|anthropic,google,openai,grok
