@@ -2841,3 +2841,10 @@
 0|45.74.31.42|11645|15565|grok,google
 80|45.74.31.30|28410|4794|anthropic,google,openai,grok
 80|45.74.31.42|17312|7883|anthropic,grok,openai,google
+187|57.128.231.218|1004|923|anthropic,google,grok,openai
+80|45.74.31.30|8795|4855|anthropic,openai,grok,google
+60|45.74.31.25|4123|2935|anthropic,openai,google
+0|45.74.31.30|8011|10094|anthropic
+0|45.74.31.30|4609|21363|anthropic
+80|46.101.110.179|1088|7974|anthropic,grok,google,openai
+80|45.74.31.30|8548|5937|openai,grok,anthropic,google
