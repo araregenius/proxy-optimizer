@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-12T10:18:06Z",
-  "total_pool": 1154,
-  "tested_this_run": 346,
-  "total_tested": 17935,
+  "updated_at": "2026-09-12T13:40:31Z",
+  "total_pool": 1296,
+  "tested_this_run": 97,
+  "total_tested": 18031,
   "top_proxies": [
     {
       "ip": "8.221.116.96",
@@ -77,18 +77,6 @@
       "score": 256
     },
     {
-      "ip": "107.150.41.226",
-      "port": 18080,
-      "capabilities": [
-        "anthropic",
-        "openai",
-        "grok",
-        "google"
-      ],
-      "latency_min": 277,
-      "score": 252
-    },
-    {
       "ip": "207.246.88.217",
       "port": 1080,
       "capabilities": [
@@ -111,6 +99,18 @@
       ],
       "latency_min": 326,
       "score": 247
+    },
+    {
+      "ip": "172.86.88.139",
+      "port": 1081,
+      "capabilities": [
+        "anthropic",
+        "openai",
+        "google",
+        "grok"
+      ],
+      "latency_min": 337,
+      "score": 246
     },
     {
       "ip": "103.7.138.17",
