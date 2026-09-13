@@ -2991,3 +2991,13 @@
 0|45.74.31.30|12663|13859|anthropic,grok
 80|58.187.104.62|1081|2726|anthropic,openai,grok,google
 0|45.74.31.30|34436|13604|grok,google
+117|58.187.104.62|1089|1630|anthropic,google,grok,openai
+105|58.187.104.62|1083|1747|google,anthropic,openai,grok
+124|58.187.104.62|1117|1552|anthropic,google,grok,openai
+114|58.187.104.62|1090|1659|anthropic,google,grok,openai
+80|45.74.31.47|29327|2788|anthropic,grok,openai,google
+179|80.74.27.53|1080|1010|anthropic,grok,openai,google
+80|58.187.104.62|1082|2262|google,anthropic,grok,openai
+80|45.74.31.25|5452|2894|anthropic,grok,google,openai
+20|45.74.31.42|26249|6755|google
+20|58.187.104.62|1111|6877|anthropic
