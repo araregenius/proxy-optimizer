@@ -2984,3 +2984,10 @@
 20|38.76.212.39|41002|4120|openai
 0|45.74.31.30|7816|10175|anthropic,google,openai,grok
 0|45.74.31.47|33346|14976|anthropic,grok,openai,google
+80|45.145.12.40|1080|2826|openai,anthropic,google,grok
+80|45.74.31.30|6269|2982|anthropic,openai,google,grok
+0|45.74.31.30|6547|15067|anthropic,grok,openai
+0|45.74.31.30|8671|24656|openai
+0|45.74.31.30|12663|13859|anthropic,grok
+80|58.187.104.62|1081|2726|anthropic,openai,grok,google
+0|45.74.31.30|34436|13604|grok,google
