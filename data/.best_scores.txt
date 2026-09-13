@@ -2980,3 +2980,7 @@
 80|45.74.31.30|5626|2108|anthropic,openai,grok,google
 0|58.187.104.62|1080|9417|google,openai
 40|45.74.31.30|16132|6385|openai,grok
+80|45.74.31.30|10746|5844|grok,anthropic,openai,google
+20|38.76.212.39|41002|4120|openai
+0|45.74.31.30|7816|10175|anthropic,google,openai,grok
+0|45.74.31.47|33346|14976|anthropic,grok,openai,google
