@@ -3180,3 +3180,17 @@
 60|45.74.31.47|12417|8777|grok,anthropic,google
 80|45.74.31.42|32650|8999|anthropic,grok,openai,google
 0|45.74.31.25|8901|18240|openai
+20|45.74.31.30|9262|4802|openai
+80|45.74.31.30|8784|5994|anthropic,google,openai,grok
+40|45.74.31.30|8463|8127|openai,anthropic
+80|45.74.31.42|15659|4885|anthropic,google,openai,grok
+0|45.74.31.42|28402|12334|grok
+83|45.74.31.42|32655|1968|anthropic,google,openai,grok
+80|45.74.31.42|10905|4213|anthropic,openai,grok,google
+80|45.74.31.42|11106|8327|anthropic,grok,google,openai
+0|45.74.31.50|14893|9468|anthropic
+80|45.74.31.30|6910|2896|anthropic,grok,openai,google
+80|45.74.31.50|8709|4615|anthropic,grok,openai,google
+40|45.74.31.30|9276|2860|grok,anthropic
+80|45.74.31.50|11740|3293|anthropic,grok,openai,google
+40|45.74.31.30|7414|8976|openai,grok
