@@ -5707,3 +5707,10 @@
 20|80.82.54.243|1080|5536|google
 60|45.74.31.25|9550|4790|google,openai,anthropic
 0|45.74.31.30|8609|22792|anthropic
+60|45.74.31.42|4048|6374|openai,anthropic,google
+0|45.74.31.23|6922|11039|anthropic,grok,google
+205|45.74.31.42|13192|744|anthropic,openai,grok,google
+152|31.131.31.246|1080|1280|anthropic,google,openai,grok
+0|45.74.31.41|15728|13684|google
+0|45.74.31.41|16899|9662|openai
+80|45.74.31.40|12419|7302|anthropic,grok,openai,google
