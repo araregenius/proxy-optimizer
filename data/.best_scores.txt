@@ -5773,3 +5773,9 @@
 80|45.74.31.50|29855|3486|anthropic,openai,grok,google
 20|45.74.31.42|7545|7006|anthropic
 0|45.74.31.22|10051|11968|anthropic,google,openai,grok
+80|45.74.31.47|7011|2612|grok,anthropic,google,openai
+0|45.74.31.23|13651|9349|google,openai
+80|45.74.31.50|15037|5718|anthropic,grok,openai,google
+0|45.74.31.22|9061|9119|openai
+20|45.74.31.42|6911|7871|anthropic
+0|45.74.31.42|5807|13119|openai
