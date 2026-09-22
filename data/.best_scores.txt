@@ -5761,3 +5761,15 @@
 0|45.74.31.42|6468|9679|anthropic,grok,openai,google
 0|45.74.31.42|7072|9197|google,grok
 0|45.74.31.30|7139|15190|grok,anthropic,google
+202|80.209.243.86|11080|773|anthropic,openai,grok,google
+110|49.13.87.123|1267|1293|grok,openai
+80|45.74.31.30|6971|3528|anthropic,grok,openai,google
+80|45.74.31.30|6314|3650|anthropic,openai,grok,google
+20|45.74.31.22|11223|7242|google
+80|45.74.31.30|5756|6302|openai,grok,google,anthropic
+40|45.74.31.23|7166|8941|grok,openai
+0|45.74.31.30|8201|10255|grok
+0|45.74.31.22|48429|11675|grok,google,openai,anthropic
+80|45.74.31.50|29855|3486|anthropic,openai,grok,google
+20|45.74.31.42|7545|7006|anthropic
+0|45.74.31.22|10051|11968|anthropic,google,openai,grok
