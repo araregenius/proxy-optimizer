@@ -5924,3 +5924,17 @@
 0|45.74.31.25|5518|9184|anthropic,grok
 0|45.74.31.23|5435|10917|grok
 80|5.42.111.165|10808|4805|grok,google,openai,anthropic
+80|45.74.31.42|4733|5164|google,anthropic,openai,grok
+40|45.74.31.30|11620|6174|openai,google
+40|45.74.31.42|6457|8635|google,grok
+0|45.74.31.30|8296|17272|openai
+154|45.74.31.42|9455|1253|grok,anthropic,google,openai
+80|45.74.31.50|18464|4036|anthropic,openai,grok,google
+20|45.74.31.41|43376|7403|openai
+80|45.74.31.41|11050|8150|anthropic,openai,grok,google
+40|45.74.31.30|6127|5810|google,openai
+20|45.74.31.22|17215|7139|anthropic
+0|45.74.31.22|11111|14347|grok
+20|45.74.31.41|13879|7528|anthropic
+0|45.74.31.30|12056|9334|grok,anthropic
+20|45.74.31.25|37343|6795|anthropic
