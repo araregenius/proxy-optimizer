@@ -6042,3 +6042,15 @@
 0|45.74.31.41|16637|12320|google
 0|45.74.31.42|7819|14480|anthropic
 20|145.220.227.2|9050|3654|google
+80|43.156.26.108|11080|6758|anthropic,google,openai,grok
+60|45.74.31.23|16646|6076|grok,openai,google
+80|45.74.31.23|43963|7970|anthropic,google,openai,grok
+0|45.74.31.30|22987|11201|openai,grok,anthropic,google
+80|45.74.31.47|15242|3542|openai,google,anthropic,grok
+80|45.74.31.25|5299|7858|openai,google,anthropic,grok
+127|62.182.192.16|1080|1125|anthropic,openai
+80|45.74.31.30|21317|4801|openai,anthropic,google,grok
+80|45.74.31.47|8213|6769|openai,anthropic,grok,google
+0|45.74.31.25|6516|9077|anthropic
+20|45.74.31.40|4315|8729|google
+80|45.74.31.30|37194|4567|google,openai,grok,anthropic
