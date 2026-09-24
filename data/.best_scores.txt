@@ -6107,3 +6107,13 @@
 0|45.74.31.41|15092|12463|anthropic,grok,openai,google
 80|45.74.31.23|7283|3730|google,openai,anthropic,grok
 0|45.74.31.41|16514|14427|anthropic,openai
+20|45.74.31.30|4276|4588|anthropic
+80|45.74.31.50|38961|8662|openai,google,grok,anthropic
+40|45.74.31.22|48264|4972|openai,google
+60|45.74.31.50|42504|8772|grok,anthropic,google
+60|45.74.31.23|13026|5482|grok,google,anthropic
+0|45.74.31.42|8877|10543|anthropic,grok,openai,google
+0|45.74.31.23|13293|12028|anthropic,grok,openai,google
+0|45.74.31.30|8876|9465|google,openai
+0|45.74.31.30|8668|16610|anthropic,grok
+80|45.74.31.50|40226|2764|anthropic,openai,grok,google
