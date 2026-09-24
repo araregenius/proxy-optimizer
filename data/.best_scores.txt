@@ -6117,3 +6117,12 @@
 0|45.74.31.30|8876|9465|google,openai
 0|45.74.31.30|8668|16610|anthropic,grok
 80|45.74.31.50|40226|2764|anthropic,openai,grok,google
+40|45.74.31.22|4976|7875|anthropic,openai
+0|45.74.31.23|5947|10126|openai
+0|45.74.31.30|8421|10099|grok,anthropic
+0|45.74.31.30|5949|15219|openai
+138|96.126.176.221|9053|1214|anthropic,google,openai
+20|89.185.24.42|10808|4276|grok
+40|144.31.227.122|9118|2213|anthropic,openai
+80|45.74.31.42|8057|7385|openai,anthropic,google,grok
+0|45.74.31.22|5021|15812|anthropic,grok,openai,google
