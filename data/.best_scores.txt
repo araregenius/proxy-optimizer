@@ -6683,7 +6683,6 @@
 0|45.74.31.22|36598|10577|openai,google
 0|45.74.31.23|5686|14415|anthropic,grok,openai,google
 80|45.74.31.30|9001|7612|anthropic,openai,grok,google
-245|49.51.233.28|1080|342|grok,anthropic,openai,google
 80|45.74.31.50|6618|2937|anthropic,openai,grok,google
 80|45.74.31.42|8622|3303|anthropic,openai,google,grok
 101|149.104.24.86|40001|1185|google
@@ -6815,7 +6814,6 @@
 0|45.74.31.50|11756|12415|anthropic
 0|45.74.31.50|12627|12784|openai,google
 0|45.74.31.30|12287|13539|anthropic,grok,google,openai
-251|174.138.189.26|2001|285|anthropic,openai,grok,google
 170|45.74.31.42|27719|1100|anthropic,openai,grok,google
 107|45.74.31.41|4486|1725|anthropic,openai,grok,google
 80|45.74.31.42|9264|2205|anthropic,openai,grok,google
@@ -7112,3 +7110,12 @@
 20|45.74.31.25|4255|8645|grok
 0|45.74.31.47|7855|9786|openai,anthropic
 0|45.74.31.47|6360|12287|grok,anthropic,openai,google
+252|174.138.189.26|2001|278|anthropic,grok,openai,google
+241|49.51.233.28|1080|381|anthropic,openai,grok,google
+169|162.218.55.171|10808|506|grok
+60|220.196.222.235|9999|3140|grok,openai,anthropic
+80|45.74.31.23|7445|8571|anthropic,grok,google,openai
+0|45.74.31.30|9063|13278|grok
+80|45.74.31.47|34652|6505|anthropic,openai,grok,google
+80|45.74.31.42|7365|5166|anthropic,grok,openai,google
+40|45.74.31.30|8819|5563|anthropic,grok
