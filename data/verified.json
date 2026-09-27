@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-27T20:39:10Z",
-  "total_pool": 26701,
-  "tested_this_run": 572,
-  "total_tested": 42159,
+  "updated_at": "2026-09-27T23:29:29Z",
+  "total_pool": 26853,
+  "tested_this_run": 120,
+  "total_tested": 42276,
   "top_proxies": [
     {
       "ip": "8.221.116.96",
@@ -77,6 +77,18 @@
       "score": 256
     },
     {
+      "ip": "49.51.233.28",
+      "port": 1080,
+      "capabilities": [
+        "grok",
+        "google",
+        "openai",
+        "anthropic"
+      ],
+      "latency_min": 277,
+      "score": 252
+    },
+    {
       "ip": "207.246.88.217",
       "port": 1080,
       "capabilities": [
@@ -101,28 +113,28 @@
       "score": 247
     },
     {
-      "ip": "129.153.11.56",
-      "port": 1080,
+      "ip": "13.90.182.199",
+      "port": 3001,
       "capabilities": [
         "anthropic",
-        "openai",
         "google",
+        "openai",
         "grok"
       ],
-      "latency_min": 347,
+      "latency_min": 345,
       "score": 245
     },
     {
-      "ip": "49.51.233.28",
+      "ip": "129.153.11.56",
       "port": 1080,
       "capabilities": [
-        "anthropic",
-        "grok",
+        "google",
         "openai",
-        "google"
+        "anthropic",
+        "grok"
       ],
-      "latency_min": 343,
-      "score": 245
+      "latency_min": 356,
+      "score": 244
     },
     {
       "ip": "103.7.138.17",
@@ -166,11 +178,11 @@
       "capabilities": [
         "anthropic",
         "openai",
-        "google",
-        "grok"
+        "grok",
+        "google"
       ],
-      "latency_min": 414,
-      "score": 238
+      "latency_min": 408,
+      "score": 239
     },
     {
       "ip": "54.193.63.238",
@@ -231,18 +243,6 @@
       ],
       "latency_min": 513,
       "score": 228
-    },
-    {
-      "ip": "216.126.237.26",
-      "port": 1080,
-      "capabilities": [
-        "anthropic",
-        "grok",
-        "google",
-        "openai"
-      ],
-      "latency_min": 524,
-      "score": 227
     }
   ]
 }
