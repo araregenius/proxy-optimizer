@@ -11522,7 +11522,12 @@
 0|103.100.188.174|1080|10182|openai,google
 60|110.38.233.122|1080|4982|openai,google,anthropic
 0|45.74.31.47|10278|13805|openai,grok,anthropic,google
-229|52.128.241.108|1080|503|google,anthropic,grok,openai
 94|5.161.57.4|1080|1853|anthropic,openai,grok,google
-227|52.128.241.106|1080|524|anthropic,grok,google,openai
 40|103.178.121.234|1080|5544|anthropic,openai
+227|52.128.241.108|1080|529|anthropic,google,grok,openai
+80|45.74.31.41|5595|3026|grok,google,openai,anthropic
+80|45.74.31.47|7910|2865|google,grok,anthropic,openai
+80|45.74.31.47|6546|5974|grok,anthropic,openai,google
+80|45.74.31.40|7183|7188|anthropic,openai,grok,google
+60|45.74.31.47|9954|2936|anthropic,openai,google
+80|27.69.78.20|1111|2591|anthropic,grok,openai,google
