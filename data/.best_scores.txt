@@ -11559,3 +11559,14 @@
 0|45.74.31.42|15985|14209|google
 0|45.74.31.41|5478|16918|google,grok,openai,anthropic
 80|45.74.31.47|14414|4618|anthropic,openai,grok,google
+190|119.28.233.187|1085|891|anthropic,openai,google,grok
+80|45.74.31.47|12700|4351|openai,anthropic,grok,google
+81|27.69.77.5|1033|1989|anthropic,openai,google,grok
+173|46.23.166.161|1080|1063|google,anthropic,grok,openai
+178|150.109.246.234|1080|1019|anthropic,openai,grok,google
+40|154.221.24.92|1080|2905|google,grok
+172|107.172.72.125|9090|474|google
+40|45.74.31.41|5543|4005|google,openai
+60|45.74.31.42|13624|3902|anthropic,grok,openai
+119|27.69.78.20|1083|1608|google,anthropic,grok,openai
+80|45.74.31.42|31649|5394|grok,openai,anthropic,google
