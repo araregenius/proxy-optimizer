@@ -11570,3 +11570,9 @@
 60|45.74.31.42|13624|3902|anthropic,grok,openai
 119|27.69.78.20|1083|1608|google,anthropic,grok,openai
 80|45.74.31.42|31649|5394|grok,openai,anthropic,google
+80|45.74.31.41|7218|2710|anthropic,grok,openai,google
+20|45.74.31.41|7435|4824|google
+60|45.74.31.47|6249|6050|grok,openai,google
+80|45.74.31.41|6376|5579|grok,openai,google,anthropic
+20|45.74.31.40|8430|2606|openai
+0|45.74.31.47|35412|12277|anthropic,grok,openai,google
