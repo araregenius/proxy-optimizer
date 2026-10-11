@@ -11944,3 +11944,8 @@
 40|45.74.31.46|5598|5970|openai,google
 80|45.74.31.42|13127|7385|grok,openai,google,anthropic
 0|45.74.31.42|12656|14451|anthropic,grok,openai
+246|170.106.109.213|1080|338|anthropic,grok,google,openai
+153|140.245.56.234|1080|1270|anthropic,google,grok,openai
+105|130.193.165.54|1080|1547|openai,google,grok
+100|116.101.14.169|1081|1797|google,anthropic,grok,openai
+60|118.179.205.174|2080|2620|google,openai,anthropic
