@@ -12338,3 +12338,4 @@
 0|45.74.31.42|16434|10967|anthropic,grok,openai
 80|45.74.31.42|14415|6079|anthropic,grok,openai,google
 20|45.74.31.42|14288|7866|anthropic
+20|125.120.139.143|11080|3013|openai
