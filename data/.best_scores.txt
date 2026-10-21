@@ -15741,3 +15741,15 @@
 0|45.74.31.41|12113|12060|google,grok,openai,anthropic
 0|45.74.31.46|15287|9922|grok,anthropic,openai,google
 0|45.74.31.41|9975|14736|anthropic,grok
+60|171.241.0.216|50009|3493|grok,anthropic,openai
+40|42.114.69.122|20001|4365|google,anthropic
+76|45.77.245.8|1080|1440|google
+20|171.245.71.144|1039|7683|openai
+0|45.74.31.41|17459|15107|anthropic,openai
+80|171.245.71.236|1111|2528|anthropic,grok,google,openai
+80|45.74.31.47|34423|3147|anthropic,openai,grok,google
+0|45.74.31.41|10863|9249|openai,google
+40|103.182.22.57|9000|7941|anthropic,grok
+0|45.74.31.46|10659|16271|anthropic,grok,openai,google
+40|45.74.31.46|13108|2707|openai,grok
+0|45.74.31.47|16268|10244|anthropic,openai,google,grok
