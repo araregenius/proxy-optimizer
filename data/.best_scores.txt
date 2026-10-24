@@ -16173,3 +16173,11 @@
 80|45.74.31.41|10851|2762|openai,anthropic,grok,google
 0|45.74.31.42|21206|10890|grok,anthropic,openai
 0|103.182.22.85|9000|10904|google
+95|118.71.227.154|1092|1848|anthropic,google,openai,grok
+80|45.74.31.47|12008|4114|anthropic,openai,google,grok
+40|103.100.235.25|1080|2840|anthropic,openai
+0|45.74.31.41|9910|9255|anthropic,google,grok,openai
+0|103.182.22.58|9000|9840|google,anthropic,grok
+0|45.74.31.41|4321|12853|openai
+0|45.74.31.47|13203|13506|grok,anthropic,openai,google
+0|45.74.31.42|7996|13117|anthropic,openai,grok,google
