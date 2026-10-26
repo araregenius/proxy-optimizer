@@ -16480,3 +16480,8 @@
 0|45.74.31.40|4675|17661|anthropic,google
 40|45.74.31.41|6244|5248|anthropic,google
 0|45.74.31.42|12945|15710|anthropic,openai,google
+85|171.245.71.236|1064|1746|anthropic,google,grok
+108|171.245.71.194|1067|1715|anthropic,google,grok,openai
+80|45.74.31.40|17871|4486|anthropic,openai,grok,google
+83|171.236.130.227|42394|1967|anthropic,google,openai,grok
+70|171.245.71.194|1036|1692|anthropic,openai
