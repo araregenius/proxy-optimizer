@@ -16485,3 +16485,13 @@
 80|45.74.31.40|17871|4486|anthropic,openai,grok,google
 83|171.236.130.227|42394|1967|anthropic,google,openai,grok
 70|171.245.71.194|1036|1692|anthropic,openai
+80|45.74.31.47|8798|2667|google,anthropic,openai,grok
+40|45.74.31.41|15623|4518|openai,google
+80|45.74.31.47|16619|6807|anthropic,openai,grok,google
+60|185.237.95.39|50001|5935|openai,google,grok
+80|45.74.31.47|12945|6721|openai,anthropic,grok,google
+0|45.74.31.47|7686|9139|anthropic
+238|20.121.179.183|3000|420|anthropic,google,grok,openai
+86|171.245.71.144|1116|1932|google,anthropic,grok,openai
+80|45.74.31.47|21194|5512|grok,openai,anthropic,google
+0|222.255.214.218|40001|9091|grok,openai,anthropic
