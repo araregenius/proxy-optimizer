@@ -16578,9 +16578,15 @@
 80|45.74.31.46|8659|6748|grok,anthropic,google,openai
 43|45.74.31.47|8697|1965|grok,openai
 80|45.74.31.41|6553|3983|openai,anthropic,grok,google
-241|38.49.208.67|1080|388|anthropic,google,openai,grok
 20|139.180.217.99|1080|5369|google
 20|50.242.55.85|1080|4584|openai
 0|45.74.31.41|6508|10835|grok,openai,anthropic,google
 92|171.245.71.144|1060|1877|anthropic,google,grok,openai
 33|171.236.130.227|46295|1865|anthropic
+40|45.74.31.40|16357|6190|anthropic,openai
+60|45.74.31.41|12946|8020|grok,openai,google
+0|45.74.31.41|13423|10605|anthropic,grok,openai
+80|27.69.71.250|1093|3483|anthropic,openai,grok,google
+20|45.74.31.40|4625|4722|openai
+0|117.0.76.112|1095|9054|anthropic,grok,openai,google
+60|171.236.130.227|37380|3460|grok,google,anthropic
