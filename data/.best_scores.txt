@@ -16527,7 +16527,6 @@
 40|103.117.136.137|1080|7634|grok,google
 0|45.74.31.41|15131|14738|openai,anthropic,grok,google
 0|45.74.31.47|16578|17544|anthropic
-258|38.49.208.67|1080|219|anthropic,google,openai,grok
 199|87.199.198.178|8443|809|grok,anthropic,openai,google
 80|45.74.31.47|10647|4775|anthropic,grok,openai,google
 40|45.74.31.46|7631|2840|google,anthropic
@@ -16550,7 +16549,6 @@
 54|117.0.76.112|1048|1857|anthropic,grok
 0|45.74.31.41|16366|13989|anthropic,openai,grok,google
 0|45.74.31.41|16237|13963|anthropic,openai,google,grok
-268|18.221.175.172|8000|115|anthropic,grok,google,openai
 80|45.74.31.47|12903|3654|openai,anthropic,grok,google
 80|45.74.31.42|45335|8290|openai,anthropic,grok,google
 150|82.180.146.251|10800|1299|google,anthropic,grok,openai
@@ -16573,3 +16571,12 @@
 80|45.74.31.41|5532|4722|grok,openai,anthropic,google
 0|45.74.31.47|13433|20509|openai
 40|45.74.31.41|10602|2740|openai,anthropic
+266|18.221.175.172|8000|138|anthropic,google,openai,grok
+262|38.49.208.67|1080|178|anthropic,google,openai,grok
+20|45.74.31.41|14420|3890|anthropic
+80|45.74.31.41|13442|7636|openai,grok,anthropic,google
+40|45.74.31.47|10202|8958|openai,google
+40|171.238.101.122|1119|2943|anthropic,google
+80|45.74.31.46|8659|6748|grok,anthropic,google,openai
+43|45.74.31.47|8697|1965|grok,openai
+80|45.74.31.41|6553|3983|openai,anthropic,grok,google
