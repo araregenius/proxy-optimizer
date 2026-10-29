@@ -16651,5 +16651,11 @@
 0|45.74.31.41|9508|11348|openai
 20|45.74.31.41|13936|8103|openai
 20|45.74.31.40|6374|5042|openai
-249|45.77.146.130|1080|308|anthropic,google,grok,openai
 80|91.218.234.54|11080|2203|google,grok,anthropic,openai
+80|20.75.169.229|3007|4749|anthropic,grok,google,openai
+80|20.75.169.229|3006|4741|anthropic,google,openai,grok
+80|20.75.169.229|3002|4884|anthropic,grok,google,openai
+80|45.74.31.41|12289|6902|openai,google,anthropic,grok
+40|103.86.44.77|30001|5385|anthropic,grok
+0|39.109.101.250|1080|13590|grok
+20|194.67.110.12|7000|3789|google
