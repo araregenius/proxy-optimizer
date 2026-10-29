@@ -16659,3 +16659,10 @@
 40|103.86.44.77|30001|5385|anthropic,grok
 0|39.109.101.250|1080|13590|grok
 20|194.67.110.12|7000|3789|google
+81|207.180.217.98|1088|1987|google,openai,grok,anthropic
+20|167.99.3.26|8087|2144|openai
+20|14.225.205.152|1080|2305|google
+80|45.74.31.47|8332|2097|anthropic,openai,grok,google
+51|45.74.31.47|11305|1682|anthropic
+0|45.74.31.41|14372|10453|grok,openai,anthropic,google
+80|45.74.31.40|15803|6095|openai,grok,google,anthropic
