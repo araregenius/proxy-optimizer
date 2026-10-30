@@ -16666,3 +16666,11 @@
 51|45.74.31.47|11305|1682|anthropic
 0|45.74.31.41|14372|10453|grok,openai,anthropic,google
 80|45.74.31.40|15803|6095|openai,grok,google,anthropic
+135|45.74.31.41|11206|1445|openai,anthropic,grok,google
+80|45.74.31.47|16811|4472|openai,anthropic,grok,google
+80|45.74.31.41|13421|4829|anthropic,google,openai,grok
+20|180.93.102.159|40015|2739|google
+40|45.74.31.41|11292|6658|grok,openai
+80|20.75.169.229|3004|7650|openai,grok,anthropic,google
+0|20.75.169.229|3009|10456|grok,openai,anthropic,google
+40|179.254.86.154|3129|4738|openai,google
