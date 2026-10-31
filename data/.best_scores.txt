@@ -16705,3 +16705,5 @@
 89|95.163.226.177|1080|1309|google
 0|31.76.34.91|1080|11467|google
 0|45.74.31.47|9858|10051|grok,openai,google
+198|37.221.194.29|1080|812|anthropic,google,grok,openai
+160|145.249.249.10|1080|1196|anthropic,google,grok,openai
