@@ -16731,5 +16731,10 @@
 117|45.74.31.46|10325|1422|grok,openai,google
 20|144.31.13.185|3128|4959|openai
 0|45.74.31.46|17564|16344|grok
-252|192.3.7.110|1080|272|anthropic,google,grok,openai
 20|8.40.19.147|1080|5329|anthropic
+206|192.3.7.110|1080|737|anthropic,grok,openai,google
+20|195.201.246.53|1090|3070|google
+112|176.62.229.17|1080|1680|google,anthropic,openai,grok
+131|193.165.115.78|1080|1086|anthropic,grok
+60|8.40.19.133|1080|2477|anthropic,openai,grok
+128|47.80.14.154|1080|1314|openai,anthropic,google
