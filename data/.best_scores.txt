@@ -16738,3 +16738,6 @@
 131|193.165.115.78|1080|1086|anthropic,grok
 60|8.40.19.133|1080|2477|anthropic,openai,grok
 128|47.80.14.154|1080|1314|openai,anthropic,google
+193|178.62.79.141|1088|865|google,anthropic,grok,openai
+80|113.173.78.217|40160|2039|openai,google,grok,anthropic
+124|212.67.12.161|1080|1556|google,anthropic,openai,grok
