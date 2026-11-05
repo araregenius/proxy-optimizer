@@ -17115,3 +17115,4 @@
 80|45.74.31.40|17276|5061|anthropic,openai,grok,google
 80|45.74.31.47|13434|6891|anthropic,grok,google,openai
 0|45.74.31.41|11033|11632|grok,google
+83|47.242.59.190|1081|1562|google,grok
