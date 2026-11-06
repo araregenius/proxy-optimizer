@@ -17192,3 +17192,10 @@
 80|45.74.31.46|10199|6317|grok,anthropic,openai,google
 80|45.74.31.41|4334|8370|anthropic,openai,grok,google
 20|195.13.182.212|443|6873|anthropic
+151|45.74.31.42|34786|1282|anthropic,openai,grok,google
+20|185.121.133.162|1080|5513|openai
+80|45.74.31.46|16046|6406|grok,openai,google,anthropic
+80|45.74.31.46|47648|5981|openai,grok,anthropic,google
+40|103.52.114.199|1080|3487|anthropic,google
+60|45.74.31.40|10462|6098|anthropic,openai,google
+20|192.124.181.25|1080|2336|google
