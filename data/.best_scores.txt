@@ -17285,3 +17285,10 @@
 0|45.74.31.46|5668|12306|grok
 40|45.74.31.41|16878|7693|anthropic,google
 187|45.93.28.167|5555|924|anthropic,google,grok,openai
+237|168.93.199.119|10808|429|google,anthropic,openai,grok
+80|54.217.130.102|1080|2287|google,grok,openai,anthropic
+40|45.74.31.42|17214|5705|grok,google
+20|45.74.31.42|27160|8501|google
+0|45.74.31.47|22783|9313|grok
+80|46.246.12.13|1080|3963|anthropic,google,openai,grok
+40|45.74.31.46|13946|7658|grok,anthropic
