@@ -17430,3 +17430,5 @@
 20|95.216.8.124|1085|3189|anthropic
 80|45.74.31.42|43969|3454|openai,grok,anthropic,google
 0|45.74.31.41|7243|9825|anthropic,openai,google,grok
+20|167.99.3.26|6178|2178|google
+20|98.159.100.110|1080|6805|anthropic
