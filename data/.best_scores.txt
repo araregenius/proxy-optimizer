@@ -17616,3 +17616,15 @@
 0|45.74.31.46|14141|11432|grok,openai
 20|103.188.169.170|12345|2171|anthropic
 20|95.64.184.238|1080|6637|google
+211|168.119.187.186|3128|685|anthropic,google,grok,openai
+199|65.108.151.224|1080|810|anthropic,google,grok,openai
+193|159.65.27.1|10000|868|anthropic,grok,google,openai
+176|61.111.252.12|5555|1033|anthropic,google,grok,openai
+114|47.76.227.81|6002|1254|google,grok
+128|157.85.98.41|10802|1511|anthropic,google,openai,grok
+80|45.74.31.47|34787|6590|anthropic,openai,grok,google
+20|45.74.31.42|24596|7217|openai
+40|45.74.31.41|37348|7888|grok,openai
+0|45.74.31.42|46967|9235|anthropic,google,openai,grok
+60|45.74.31.41|23876|6445|grok,google,openai
+0|45.74.31.40|14649|9069|anthropic,grok,openai,google
