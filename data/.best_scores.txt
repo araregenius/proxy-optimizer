@@ -17650,3 +17650,9 @@
 68|103.158.96.38|1080|1512|google
 60|115.127.69.169|12332|3587|anthropic,openai,grok
 20|82.21.200.23|1080|7519|openai
+247|23.94.181.74|8888|323|google,anthropic,openai,grok
+194|185.247.141.86|1080|855|anthropic,grok,openai,google
+169|218.52.200.62|1080|1109|anthropic,google,openai,grok
+95|81.168.83.208|1080|1448|google,anthropic
+40|202.142.167.194|1080|3437|grok,openai
+80|45.144.49.64|5443|7496|anthropic,google,openai,grok
