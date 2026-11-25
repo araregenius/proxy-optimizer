@@ -17663,3 +17663,8 @@
 130|194.180.158.62|1080|1100|google,anthropic
 40|193.33.157.101|1080|8017|openai,grok
 80|91.208.42.2|7890|5934|anthropic,google,openai,grok
+80|45.74.31.40|29259|4143|grok,openai,anthropic,google
+60|45.74.31.42|47115|2348|google,openai,anthropic
+60|171.253.90.204|1080|3569|openai,google,grok
+0|85.92.153.153|1080|9385|anthropic
+0|85.92.153.31|1080|9347|google,openai
