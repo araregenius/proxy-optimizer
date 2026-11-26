@@ -17676,3 +17676,6 @@
 40|171.253.90.204|1081|4800|anthropic,google
 40|160.191.49.84|1080|8100|google,anthropic
 40|77.90.187.127|1080|3086|grok,openai
+134|171.253.90.204|1083|1451|anthropic,google,grok,openai
+40|95.0.15.137|1080|5687|openai,anthropic
+20|45.74.31.40|4073|7428|anthropic
