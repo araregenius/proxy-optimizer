@@ -17684,3 +17684,14 @@
 80|103.190.120.79|10001|5293|anthropic,google,openai,grok
 40|129.101.121.240|8080|4967|openai,google
 80|171.253.90.204|1082|3497|grok,google,openai,anthropic
+20|193.233.90.71|40000|3937|google
+46|77.90.169.252|1080|1937|grok,anthropic
+80|45.74.31.46|11527|4477|anthropic,grok,openai,google
+80|171.253.90.204|1088|2165|google,anthropic,openai,grok
+80|45.74.31.40|21084|3099|anthropic,openai,grok,google
+20|192.232.48.69|1080|6886|grok
+20|77.90.187.126|1080|5971|anthropic
+40|171.253.90.204|1086|3818|google,openai
+20|92.5.115.96|1080|4878|google
+80|171.253.90.204|1065|2502|anthropic,google,openai,grok
+0|82.21.200.221|1080|15044|openai
